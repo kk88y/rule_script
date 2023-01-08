@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-08 02:09:59
+# UPDATED: 2023-01-09 02:09:38
 # DOMAIN: 173
 # DOMAIN-KEYWORD: 39
 # DOMAIN-SUFFIX: 37820
@@ -13094,7 +13094,6 @@ payload:
   - DOMAIN-SUFFIX,xtubezoo.com
   - DOMAIN-SUFFIX,xujan.com
   - DOMAIN-SUFFIX,xv1.monster
-  - DOMAIN-SUFFIX,xvbelink.com
   - DOMAIN-SUFFIX,xvedo.net
   - DOMAIN-SUFFIX,xvideo.com
   - DOMAIN-SUFFIX,xvideoporno.tv
@@ -37311,6 +37310,7 @@ payload:
   - DOMAIN-SUFFIX,xuzhiyong.net
   - DOMAIN-SUFFIX,xv1.cc
   - DOMAIN-SUFFIX,xv9.cc
+  - DOMAIN-SUFFIX,xvbelink.com
   - DOMAIN-SUFFIX,xvdada.com
   - DOMAIN-SUFFIX,xvideo-jp.com
   - DOMAIN-SUFFIX,xvideo.cc

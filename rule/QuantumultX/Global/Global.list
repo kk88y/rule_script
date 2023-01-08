@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-08 02:10:22
+# UPDATED: 2023-01-09 02:10:02
 # HOST: 387
 # HOST-KEYWORD: 39
 # HOST-SUFFIX: 38147
@@ -12904,7 +12904,6 @@ HOST-SUFFIX,xtracloud.cn,Global
 HOST-SUFFIX,xtubezoo.com,Global
 HOST-SUFFIX,xujan.com,Global
 HOST-SUFFIX,xv1.monster,Global
-HOST-SUFFIX,xvbelink.com,Global
 HOST-SUFFIX,xvedo.net,Global
 HOST-SUFFIX,xvideo.com,Global
 HOST-SUFFIX,xvideoporno.tv,Global
@@ -37816,6 +37815,7 @@ HOST-SUFFIX,xuv697.com,Global
 HOST-SUFFIX,xuzhiyong.net,Global
 HOST-SUFFIX,xv1.cc,Global
 HOST-SUFFIX,xv9.cc,Global
+HOST-SUFFIX,xvbelink.com,Global
 HOST-SUFFIX,xvdada.com,Global
 HOST-SUFFIX,xvideo-jp.com,Global
 HOST-SUFFIX,xvideo.cc,Global

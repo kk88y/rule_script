@@ -1,7 +1,7 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-08 02:10:44
+# UPDATED: 2023-01-09 02:10:24
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 9
 # DOMAIN-SUFFIX: 65982
@@ -296,6 +296,7 @@ xn--flw351e.com
 .360top.com
 .360totalsecurity.com
 .360tpcdn.com
+.360tres.com
 .360webcache.com
 .360zhyx.com
 .360zqaq.com
@@ -6414,7 +6415,6 @@ xn--flw351e.com
 .360stamp.com
 .360tianma.com
 .360tong.net
-.360tres.com
 .360u9.com
 .360uu.com
 .360vcloud.com

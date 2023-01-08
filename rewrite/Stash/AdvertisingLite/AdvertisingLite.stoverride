@@ -1,11 +1,11 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2023-01-08 02:13:20
+desc: 最后更新时间 2023-01-09 02:13:12
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 498
-# mitm: 411
+# reject: 496
+# mitm: 409
 # force-http-engine-hosts: 6
-# total: 915
+# total: 911
 
 
 
@@ -259,7 +259,6 @@ http:
     - ^https?:\/\/gw\.kaola\.com\/gw\/dgmobile\/newOpenAd - reject
     - ^https?:\/\/gx\.10086\.cn\/zt-portal\/gxhzg\/portal\/app\/api\/v - reject
     - ^https?:\/\/haojia\.m\.smzdm\.com\/detail_modul\/banner - reject
-    - ^https?:\/\/hcz-member\.pingan\.com\.cn\/micro-api\/homepage\/do\/app\/popbox\/getTopPopBox - reject
     - ^https?:\/\/heic\.alicdn\.com\/tps\/i4\/.+?\.jpg_1200x1200q90\.jpg_\.heic$ - reject
     - ^https?:\/\/hk\.app\.joox\.com\/billsrv\/clientBatchAdReport - reject
     - ^https?:\/\/hk\.app\.joox\.com\/retrieval\/getAd - reject
@@ -287,7 +286,6 @@ http:
     - ^https?:\/\/interface(\d)?\.music\.163\.com\/eapi\/(ad|abtest|sp|hot|store|search\/(specialkeyword|defaultkeyword|hot)) - reject
     - ^https?:\/\/intl\.iqiyi\.com\/ad_external\/ - reject
     - ^https?:\/\/intl\.iqiyi\.com\/video\/advertise - reject
-    - ^https?:\/\/iobs\.pingan\.com\.cn\/download\/(bweb-per-sf-prd\/bweb|icore-aops-base-dmz-prd\/YourSystemName) - reject
     - ^https?:\/\/ios\.lantouzi\.com\/api\/startpage - reject
     - ^https?:\/\/ios\.wps\.cn\/ad-statistics-service - reject
     - ^https?:\/\/issuecdn\.baidupcs\.com\/issue\/netdisk\/(guanggao|ts_ad)\/ - reject
@@ -725,7 +723,6 @@ http:
     - "gw.kaola.com"
     - "gx.10086.cn"
     - "haojia.m.smzdm.com"
-    - "hcz-member.pingan.com.cn"
     - "heic.alicdn.com"
     - "helper.2bulu.com"
     - "hk.app.joox.com"
@@ -749,7 +746,6 @@ http:
     - "img2.autoimg.cn"
     - "interface*.music.163.com"
     - "intl.iqiyi.com"
-    - "iobs.pingan.com.cn"
     - "ios.lantouzi.com"
     - "ios.sspai.com"
     - "ios.wps.cn"

@@ -1,7 +1,7 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-08 02:10:43
+# UPDATED: 2023-01-09 02:10:24
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 9
 # DOMAIN-SUFFIX: 65982
@@ -297,6 +297,7 @@ payload:
   - DOMAIN-SUFFIX,360top.com
   - DOMAIN-SUFFIX,360totalsecurity.com
   - DOMAIN-SUFFIX,360tpcdn.com
+  - DOMAIN-SUFFIX,360tres.com
   - DOMAIN-SUFFIX,360webcache.com
   - DOMAIN-SUFFIX,360zhyx.com
   - DOMAIN-SUFFIX,360zqaq.com
@@ -6415,7 +6416,6 @@ payload:
   - DOMAIN-SUFFIX,360stamp.com
   - DOMAIN-SUFFIX,360tianma.com
   - DOMAIN-SUFFIX,360tong.net
-  - DOMAIN-SUFFIX,360tres.com
   - DOMAIN-SUFFIX,360u9.com
   - DOMAIN-SUFFIX,360uu.com
   - DOMAIN-SUFFIX,360vcloud.com
