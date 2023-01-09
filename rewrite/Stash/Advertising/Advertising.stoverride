@@ -1,11 +1,11 @@
 name: 复写去广告
-desc: 最后更新时间 2023-01-09 02:12:59
+desc: 最后更新时间 2023-01-10 02:14:04
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # reject: 542
-# mitm: 499
+# mitm: 500
 # force-http-engine-hosts: 6
-# total: 1047
+# total: 1048
 
 
 
@@ -817,6 +817,7 @@ http:
     - "gd.10086.cn"
     - "gfp.veta.naver.com"
     - "gg*.cmvideo.cn"
+    - "gg.caixin.com"
     - "gha.ghac.cn"
     - "goblin.hupu.com"
     - "god.gameyw.netease.com"

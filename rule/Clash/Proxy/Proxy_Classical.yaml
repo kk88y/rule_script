@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-09 02:10:04
+# UPDATED: 2023-01-10 02:10:44
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 24712
+# DOMAIN-SUFFIX: 24714
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 24841
+# TOTAL: 24843
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -3698,6 +3698,7 @@ payload:
   - DOMAIN-SUFFIX,baixing.me
   - DOMAIN-SUFFIX,baixn.xyz
   - DOMAIN-SUFFIX,baiyun.net
+  - DOMAIN-SUFFIX,baizhi.org
   - DOMAIN-SUFFIX,bakaproxy.moe
   - DOMAIN-SUFFIX,bakerpr.com.au
   - DOMAIN-SUFFIX,bakerssecret.com
@@ -8293,6 +8294,7 @@ payload:
   - DOMAIN-SUFFIX,gandhidham.com
   - DOMAIN-SUFFIX,ganetstudio.com
   - DOMAIN-SUFFIX,ganges.com
+  - DOMAIN-SUFFIX,ganjing.com
   - DOMAIN-SUFFIX,ganjingworld.com
   - DOMAIN-SUFFIX,gaoloumi.cc
   - DOMAIN-SUFFIX,gaoming.net

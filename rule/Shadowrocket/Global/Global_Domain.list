@@ -1,13 +1,13 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-08 02:09:59
+# UPDATED: 2023-01-10 02:10:14
 # DOMAIN: 173
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37820
+# DOMAIN-SUFFIX: 37822
 # IP-CIDR: 110
 # USER-AGENT: 45
-# TOTAL: 38187
+# TOTAL: 38189
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -5275,6 +5275,7 @@ www-cdn.icloud.com.akadns.net
 .baixing.me
 .baixn.xyz
 .baiyun.net
+.baizhi.org
 .bakaproxy.moe
 .bakerpr.com.au
 .bakerssecret.com
@@ -13606,6 +13607,7 @@ www-cdn.icloud.com.akadns.net
 .gandhidham.com
 .ganetstudio.com
 .ganges.com
+.ganjing.com
 .ganjingworld.com
 .gannett-cdn.com
 .gannett.com

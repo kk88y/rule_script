@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-09 02:09:38
+# UPDATED: 2023-01-10 02:10:14
 # DOMAIN: 173
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37820
+# DOMAIN-SUFFIX: 37822
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 38143
+# TOTAL: 38145
 payload:
   - DOMAIN,abematv.akamaized.net
   - DOMAIN,amp.akamaized.net
@@ -17197,6 +17197,7 @@ payload:
   - DOMAIN-SUFFIX,baixing.me
   - DOMAIN-SUFFIX,baixn.xyz
   - DOMAIN-SUFFIX,baiyun.net
+  - DOMAIN-SUFFIX,baizhi.org
   - DOMAIN-SUFFIX,bakaproxy.moe
   - DOMAIN-SUFFIX,bakerpr.com.au
   - DOMAIN-SUFFIX,bakerssecret.com
@@ -21756,6 +21757,7 @@ payload:
   - DOMAIN-SUFFIX,gandhidham.com
   - DOMAIN-SUFFIX,ganetstudio.com
   - DOMAIN-SUFFIX,ganges.com
+  - DOMAIN-SUFFIX,ganjing.com
   - DOMAIN-SUFFIX,ganjingworld.com
   - DOMAIN-SUFFIX,gaoloumi.cc
   - DOMAIN-SUFFIX,gaoming.net
