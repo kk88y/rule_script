@@ -1,5 +1,5 @@
 name: AllInOne
-desc: 最后更新时间 2023-01-10 02:14:10
+desc: 最后更新时间 2023-01-11 02:12:49
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # domain: 3
@@ -8,10 +8,10 @@ desc: 最后更新时间 2023-01-10 02:14:10
 # http-request-script: 1
 # http-response-script: 28
 # redirect: 8
-# reject: 514
-# mitm: 560
+# reject: 515
+# mitm: 561
 # force-http-engine-hosts: 6
-# total: 1122
+# total: 1124
 
 
 
@@ -363,6 +363,7 @@ http:
     - ^https?:\/\/mime\.baidu\.com\/v\d\/IosStart\/getStartInfo$ - reject
     - ^https?:\/\/mime\.baidu\.com\/v\d\/activity\/advertisement - reject
     - ^https?:\/\/mlife\.jf365\.boc\.cn\/AppPrj\/FirstPic\.do\? - reject
+    - ^https?:\/\/mlol\.qt\.qq\.com\/go\/recommend - reject
     - ^https?:\/\/mm\.app\.joox\.com\/billsrv\/clientBatchAdReport - reject
     - ^https?:\/\/mm\.app\.joox\.com\/retrieval\/getAd - reject
     - ^https?:\/\/mob\.mddcloud\.com\.cn\/adApi\/advert - reject
@@ -1104,6 +1105,7 @@ http:
     - "mi.gdt.qq.com"
     - "mime.baidu.com"
     - "mlife.jf365.boc.cn"
+    - "mlol.qt.qq.com"
     - "mm.app.joox.com"
     - "mob.mddcloud.com"
     - "mob.mddcloud.com.cn"

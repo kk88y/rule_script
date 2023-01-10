@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-10 02:10:14
+# UPDATED: 2023-01-11 02:09:37
 # DOMAIN: 173
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37822
+# DOMAIN-SUFFIX: 37834
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 38145
+# TOTAL: 38157
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -1684,6 +1684,7 @@ assets-priconne-redive-us.akamaized.net
 .bdn.dev
 .bdsm-mov.net
 .bdsm.com
+.bdsm123.xyz
 .bdsmboard.org
 .bdsmbunker.com
 .bdsmcafe.com
@@ -2476,6 +2477,7 @@ assets-priconne-redive-us.akamaized.net
 .boltdns.net
 .bondagecomixxx.net
 .bondagesex-xxx.com
+.bondagesm.xyz
 .bonedathome.com
 .bongacams.com
 .bonyu.cyou
@@ -2832,6 +2834,7 @@ assets-priconne-redive-us.akamaized.net
 .casualhomemadesex.com
 .catalinacruz.com
 .catmiimi.com
+.cbart.net
 .cbsaavideo.com
 .cbscorporation.com
 .cbsi.com
@@ -5646,6 +5649,7 @@ assets-priconne-redive-us.akamaized.net
 .goodsdunk.net
 .googel.com
 .googil.com
+.google-access.net
 .google-analytics-cn.com
 .google-analytics.com
 .google-melange.com
@@ -7375,7 +7379,6 @@ assets-priconne-redive-us.akamaized.net
 .kostenlosepornoclips.com
 .kotlinlang.org
 .kphimsex.net
-.kraken.com
 .krakenjs.com
 .kristenbjorn.com
 .krux.com
@@ -7533,6 +7536,7 @@ assets-priconne-redive-us.akamaized.net
 .line-apps-beta.com
 .line-apps-rc.com
 .line-beta.me
+.line.biz
 .linearcollider.org
 .linecorp.com
 .linefriends.com
@@ -10634,7 +10638,6 @@ assets-priconne-redive-us.akamaized.net
 .sandisk.com
 .sandisk.id
 .sandisk.it
-.sankakucomplex.com
 .sankei-ad-info.com
 .sankei-ad.net
 .sankei-kurashi.com
@@ -10829,6 +10832,7 @@ assets-priconne-redive-us.akamaized.net
 .sexkorea.net
 .sexlikereal.com
 .sexmadeathome.com
+.sexmerci.com
 .sexmix.net
 .sexmomsex.com
 .sexmovies24.com
@@ -12634,7 +12638,6 @@ assets-priconne-redive-us.akamaized.net
 .webobjects.com
 .webobjects.net
 .webofscience.com
-.webpkgcache.com
 .webtoons.com
 .weekly-economist.com
 .wegame.com.cn
@@ -18068,6 +18071,7 @@ assets-priconne-redive-us.akamaized.net
 .bullogger.com
 .bullogs.com
 .bullvpn.com
+.bumingbai.net
 .bunbunhk.com
 .bundesliga.de
 .bungzhu.web.id
@@ -20143,6 +20147,7 @@ assets-priconne-redive-us.akamaized.net
 .doublechins.ca
 .doublehop.me
 .doublemoney.site
+.doublethinklab.org
 .doubmirror.cf
 .dougscripts.com
 .douhokanko.net
@@ -23035,6 +23040,7 @@ assets-priconne-redive-us.akamaized.net
 .hotbak.net
 .hotbox.com
 .hotclaudia.de
+.hotcoin.com
 .hotdh.xyz
 .hoteljen.com
 .hotels.cn
@@ -23152,6 +23158,7 @@ assets-priconne-redive-us.akamaized.net
 .humanharvestmovie.com
 .humanrightsfoundation.org
 .humanrightshouse.org
+.humanrightspressawards.org
 .humansofnewyork.com
 .humblebundle.com
 .hung-ya.com
@@ -24527,6 +24534,7 @@ assets-priconne-redive-us.akamaized.net
 .kr.neoz.club
 .kr1.hkts.win
 .krabbenspringen.de
+.kraken.com
 .kralin.su
 .kreyness.com
 .kripaludrummers.com
@@ -26025,6 +26033,7 @@ assets-priconne-redive-us.akamaized.net
 .monkeywerks.net
 .monlamit.org
 .monocloud.com.au
+.monocloud.me
 .monova.org
 .monoworks.com
 .monster.com
@@ -26548,6 +26557,7 @@ assets-priconne-redive-us.akamaized.net
 .newline.fi
 .newmediarights.org
 .newmexico.gov
+.newmitbbs.com
 .newmoon.com
 .newnews.ca
 .newpipe.net
@@ -28830,6 +28840,7 @@ assets-priconne-redive-us.akamaized.net
 .sangunia.webuda.com
 .sanhebfb.com
 .sankaku.o.asakuraotome.com
+.sankakucomplex.com
 .sankei.com
 .sanmin.com.tw
 .sans.edu
@@ -32365,6 +32376,7 @@ assets-priconne-redive-us.akamaized.net
 .webok.tw
 .weboproxy.com
 .webpack.de
+.webpkgcache.com
 .webproxy-service.de
 .webproxy.ca
 .webproxy.ru

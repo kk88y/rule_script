@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-10 02:10:14
+# UPDATED: 2023-01-11 02:09:37
 # DOMAIN: 173
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37822
+# DOMAIN-SUFFIX: 37834
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 38145
+# TOTAL: 38157
 DOMAIN,abematv.akamaized.net
 DOMAIN,amp.akamaized.net
 DOMAIN,angle.com.tw
@@ -1684,6 +1684,7 @@ DOMAIN-SUFFIX,bdawnvr.xyz
 DOMAIN-SUFFIX,bdn.dev
 DOMAIN-SUFFIX,bdsm-mov.net
 DOMAIN-SUFFIX,bdsm.com
+DOMAIN-SUFFIX,bdsm123.xyz
 DOMAIN-SUFFIX,bdsmboard.org
 DOMAIN-SUFFIX,bdsmbunker.com
 DOMAIN-SUFFIX,bdsmcafe.com
@@ -2476,6 +2477,7 @@ DOMAIN-SUFFIX,bollywoodlife.com
 DOMAIN-SUFFIX,boltdns.net
 DOMAIN-SUFFIX,bondagecomixxx.net
 DOMAIN-SUFFIX,bondagesex-xxx.com
+DOMAIN-SUFFIX,bondagesm.xyz
 DOMAIN-SUFFIX,bonedathome.com
 DOMAIN-SUFFIX,bongacams.com
 DOMAIN-SUFFIX,bonyu.cyou
@@ -2832,6 +2834,7 @@ DOMAIN-SUFFIX,castro.fm
 DOMAIN-SUFFIX,casualhomemadesex.com
 DOMAIN-SUFFIX,catalinacruz.com
 DOMAIN-SUFFIX,catmiimi.com
+DOMAIN-SUFFIX,cbart.net
 DOMAIN-SUFFIX,cbsaavideo.com
 DOMAIN-SUFFIX,cbscorporation.com
 DOMAIN-SUFFIX,cbsi.com
@@ -5646,6 +5649,7 @@ DOMAIN-SUFFIX,goodporno.cc
 DOMAIN-SUFFIX,goodsdunk.net
 DOMAIN-SUFFIX,googel.com
 DOMAIN-SUFFIX,googil.com
+DOMAIN-SUFFIX,google-access.net
 DOMAIN-SUFFIX,google-analytics-cn.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,google-melange.com
@@ -7375,7 +7379,6 @@ DOMAIN-SUFFIX,korewaeroi.com
 DOMAIN-SUFFIX,kostenlosepornoclips.com
 DOMAIN-SUFFIX,kotlinlang.org
 DOMAIN-SUFFIX,kphimsex.net
-DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,krakenjs.com
 DOMAIN-SUFFIX,kristenbjorn.com
 DOMAIN-SUFFIX,krux.com
@@ -7533,6 +7536,7 @@ DOMAIN-SUFFIX,lindylist.org
 DOMAIN-SUFFIX,line-apps-beta.com
 DOMAIN-SUFFIX,line-apps-rc.com
 DOMAIN-SUFFIX,line-beta.me
+DOMAIN-SUFFIX,line.biz
 DOMAIN-SUFFIX,linearcollider.org
 DOMAIN-SUFFIX,linecorp.com
 DOMAIN-SUFFIX,linefriends.com
@@ -10634,7 +10638,6 @@ DOMAIN-SUFFIX,sandisk.cn
 DOMAIN-SUFFIX,sandisk.com
 DOMAIN-SUFFIX,sandisk.id
 DOMAIN-SUFFIX,sandisk.it
-DOMAIN-SUFFIX,sankakucomplex.com
 DOMAIN-SUFFIX,sankei-ad-info.com
 DOMAIN-SUFFIX,sankei-ad.net
 DOMAIN-SUFFIX,sankei-kurashi.com
@@ -10829,6 +10832,7 @@ DOMAIN-SUFFIX,sexjobs.it
 DOMAIN-SUFFIX,sexkorea.net
 DOMAIN-SUFFIX,sexlikereal.com
 DOMAIN-SUFFIX,sexmadeathome.com
+DOMAIN-SUFFIX,sexmerci.com
 DOMAIN-SUFFIX,sexmix.net
 DOMAIN-SUFFIX,sexmomsex.com
 DOMAIN-SUFFIX,sexmovies24.com
@@ -12634,7 +12638,6 @@ DOMAIN-SUFFIX,webmoneyinfo.com
 DOMAIN-SUFFIX,webobjects.com
 DOMAIN-SUFFIX,webobjects.net
 DOMAIN-SUFFIX,webofscience.com
-DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,webtoons.com
 DOMAIN-SUFFIX,weekly-economist.com
 DOMAIN-SUFFIX,wegame.com.cn
@@ -18068,6 +18071,7 @@ DOMAIN-SUFFIX,bullog.org
 DOMAIN-SUFFIX,bullogger.com
 DOMAIN-SUFFIX,bullogs.com
 DOMAIN-SUFFIX,bullvpn.com
+DOMAIN-SUFFIX,bumingbai.net
 DOMAIN-SUFFIX,bunbunhk.com
 DOMAIN-SUFFIX,bundesliga.de
 DOMAIN-SUFFIX,bungzhu.web.id
@@ -20143,6 +20147,7 @@ DOMAIN-SUFFIX,doubiyunbackup.com
 DOMAIN-SUFFIX,doublechins.ca
 DOMAIN-SUFFIX,doublehop.me
 DOMAIN-SUFFIX,doublemoney.site
+DOMAIN-SUFFIX,doublethinklab.org
 DOMAIN-SUFFIX,doubmirror.cf
 DOMAIN-SUFFIX,dougscripts.com
 DOMAIN-SUFFIX,douhokanko.net
@@ -23035,6 +23040,7 @@ DOMAIN-SUFFIX,hotav.tv
 DOMAIN-SUFFIX,hotbak.net
 DOMAIN-SUFFIX,hotbox.com
 DOMAIN-SUFFIX,hotclaudia.de
+DOMAIN-SUFFIX,hotcoin.com
 DOMAIN-SUFFIX,hotdh.xyz
 DOMAIN-SUFFIX,hoteljen.com
 DOMAIN-SUFFIX,hotels.cn
@@ -23152,6 +23158,7 @@ DOMAIN-SUFFIX,humanevents.com
 DOMAIN-SUFFIX,humanharvestmovie.com
 DOMAIN-SUFFIX,humanrightsfoundation.org
 DOMAIN-SUFFIX,humanrightshouse.org
+DOMAIN-SUFFIX,humanrightspressawards.org
 DOMAIN-SUFFIX,humansofnewyork.com
 DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,hung-ya.com
@@ -24527,6 +24534,7 @@ DOMAIN-SUFFIX,kqes.net
 DOMAIN-SUFFIX,kr.neoz.club
 DOMAIN-SUFFIX,kr1.hkts.win
 DOMAIN-SUFFIX,krabbenspringen.de
+DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,kralin.su
 DOMAIN-SUFFIX,kreyness.com
 DOMAIN-SUFFIX,kripaludrummers.com
@@ -26025,6 +26033,7 @@ DOMAIN-SUFFIX,monitorware.com
 DOMAIN-SUFFIX,monkeywerks.net
 DOMAIN-SUFFIX,monlamit.org
 DOMAIN-SUFFIX,monocloud.com.au
+DOMAIN-SUFFIX,monocloud.me
 DOMAIN-SUFFIX,monova.org
 DOMAIN-SUFFIX,monoworks.com
 DOMAIN-SUFFIX,monster.com
@@ -26548,6 +26557,7 @@ DOMAIN-SUFFIX,newlandmagazine.com.au
 DOMAIN-SUFFIX,newline.fi
 DOMAIN-SUFFIX,newmediarights.org
 DOMAIN-SUFFIX,newmexico.gov
+DOMAIN-SUFFIX,newmitbbs.com
 DOMAIN-SUFFIX,newmoon.com
 DOMAIN-SUFFIX,newnews.ca
 DOMAIN-SUFFIX,newpipe.net
@@ -28830,6 +28840,7 @@ DOMAIN-SUFFIX,sandscotaicentral.com
 DOMAIN-SUFFIX,sangunia.webuda.com
 DOMAIN-SUFFIX,sanhebfb.com
 DOMAIN-SUFFIX,sankaku.o.asakuraotome.com
+DOMAIN-SUFFIX,sankakucomplex.com
 DOMAIN-SUFFIX,sankei.com
 DOMAIN-SUFFIX,sanmin.com.tw
 DOMAIN-SUFFIX,sans.edu
@@ -32365,6 +32376,7 @@ DOMAIN-SUFFIX,weboas.is
 DOMAIN-SUFFIX,webok.tw
 DOMAIN-SUFFIX,weboproxy.com
 DOMAIN-SUFFIX,webpack.de
+DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,webproxy-service.de
 DOMAIN-SUFFIX,webproxy.ca
 DOMAIN-SUFFIX,webproxy.ru

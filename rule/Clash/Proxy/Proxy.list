@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-10 02:10:44
+# UPDATED: 2023-01-11 02:10:03
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 24714
+# DOMAIN-SUFFIX: 24722
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 24843
+# TOTAL: 24851
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -4577,6 +4577,7 @@ DOMAIN-SUFFIX,bullog.org
 DOMAIN-SUFFIX,bullogger.com
 DOMAIN-SUFFIX,bullogs.com
 DOMAIN-SUFFIX,bullvpn.com
+DOMAIN-SUFFIX,bumingbai.net
 DOMAIN-SUFFIX,bunbunhk.com
 DOMAIN-SUFFIX,bundesliga.de
 DOMAIN-SUFFIX,bungzhu.web.id
@@ -5154,7 +5155,6 @@ DOMAIN-SUFFIX,chaikair.cc
 DOMAIN-SUFFIX,chain.net
 DOMAIN-SUFFIX,chalungu.cn
 DOMAIN-SUFFIX,chamirris.com
-DOMAIN-SUFFIX,chan.sankakucomplex.com
 DOMAIN-SUFFIX,changchengremit.com
 DOMAIN-SUFFIX,change.org
 DOMAIN-SUFFIX,changeip.name
@@ -6677,6 +6677,7 @@ DOMAIN-SUFFIX,doubiyunbackup.com
 DOMAIN-SUFFIX,doublechins.ca
 DOMAIN-SUFFIX,doublehop.me
 DOMAIN-SUFFIX,doublemoney.site
+DOMAIN-SUFFIX,doublethinklab.org
 DOMAIN-SUFFIX,doubmirror.cf
 DOMAIN-SUFFIX,dougscripts.com
 DOMAIN-SUFFIX,douhokanko.net
@@ -9579,6 +9580,7 @@ DOMAIN-SUFFIX,hotav.tv
 DOMAIN-SUFFIX,hotbak.net
 DOMAIN-SUFFIX,hotbox.com
 DOMAIN-SUFFIX,hotclaudia.de
+DOMAIN-SUFFIX,hotcoin.com
 DOMAIN-SUFFIX,hotdh.xyz
 DOMAIN-SUFFIX,hoteljen.com
 DOMAIN-SUFFIX,hotels.cn
@@ -9697,6 +9699,7 @@ DOMAIN-SUFFIX,humanevents.com
 DOMAIN-SUFFIX,humanharvestmovie.com
 DOMAIN-SUFFIX,humanrightsfoundation.org
 DOMAIN-SUFFIX,humanrightshouse.org
+DOMAIN-SUFFIX,humanrightspressawards.org
 DOMAIN-SUFFIX,humansofnewyork.com
 DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,hung-ya.com
@@ -11078,6 +11081,7 @@ DOMAIN-SUFFIX,kqes.net
 DOMAIN-SUFFIX,kr.neoz.club
 DOMAIN-SUFFIX,kr1.hkts.win
 DOMAIN-SUFFIX,krabbenspringen.de
+DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,kralin.su
 DOMAIN-SUFFIX,kreyness.com
 DOMAIN-SUFFIX,kripaludrummers.com
@@ -12587,6 +12591,7 @@ DOMAIN-SUFFIX,monitorware.com
 DOMAIN-SUFFIX,monkeywerks.net
 DOMAIN-SUFFIX,monlamit.org
 DOMAIN-SUFFIX,monocloud.com.au
+DOMAIN-SUFFIX,monocloud.me
 DOMAIN-SUFFIX,monova.org
 DOMAIN-SUFFIX,monoworks.com
 DOMAIN-SUFFIX,monster.com
@@ -13113,6 +13118,7 @@ DOMAIN-SUFFIX,newlandmagazine.com.au
 DOMAIN-SUFFIX,newline.fi
 DOMAIN-SUFFIX,newmediarights.org
 DOMAIN-SUFFIX,newmexico.gov
+DOMAIN-SUFFIX,newmitbbs.com
 DOMAIN-SUFFIX,newmoon.com
 DOMAIN-SUFFIX,newnews.ca
 DOMAIN-SUFFIX,newpipe.net
@@ -15408,6 +15414,7 @@ DOMAIN-SUFFIX,sandscotaicentral.com
 DOMAIN-SUFFIX,sangunia.webuda.com
 DOMAIN-SUFFIX,sanhebfb.com
 DOMAIN-SUFFIX,sankaku.o.asakuraotome.com
+DOMAIN-SUFFIX,sankakucomplex.com
 DOMAIN-SUFFIX,sankei.com
 DOMAIN-SUFFIX,sanmin.com.tw
 DOMAIN-SUFFIX,sans.edu
@@ -18963,6 +18970,7 @@ DOMAIN-SUFFIX,weboas.is
 DOMAIN-SUFFIX,webok.tw
 DOMAIN-SUFFIX,weboproxy.com
 DOMAIN-SUFFIX,webpack.de
+DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,webproxy-service.de
 DOMAIN-SUFFIX,webproxy.ca
 DOMAIN-SUFFIX,webproxy.ru

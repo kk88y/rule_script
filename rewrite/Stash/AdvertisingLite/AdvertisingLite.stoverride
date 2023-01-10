@@ -1,11 +1,11 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2023-01-09 02:13:12
+desc: 最后更新时间 2023-01-11 02:12:57
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 496
-# mitm: 409
+# reject: 497
+# mitm: 410
 # force-http-engine-hosts: 6
-# total: 911
+# total: 913
 
 
 
@@ -333,6 +333,7 @@ http:
     - ^https?:\/\/mime\.baidu\.com\/v\d\/IosStart\/getStartInfo$ - reject
     - ^https?:\/\/mime\.baidu\.com\/v\d\/activity\/advertisement - reject
     - ^https?:\/\/mlife\.jf365\.boc\.cn\/AppPrj\/FirstPic\.do\? - reject
+    - ^https?:\/\/mlol\.qt\.qq\.com\/go\/recommend - reject
     - ^https?:\/\/mm\.app\.joox\.com\/billsrv\/clientBatchAdReport - reject
     - ^https?:\/\/mm\.app\.joox\.com\/retrieval\/getAd - reject
     - ^https?:\/\/mob\.mddcloud\.com\.cn\/adApi\/advert - reject
@@ -785,6 +786,7 @@ http:
     - "mi.gdt.qq.com"
     - "mime.baidu.com"
     - "mlife.jf365.boc.cn"
+    - "mlol.qt.qq.com"
     - "mm.app.joox.com"
     - "mob.mddcloud.com.cn"
     - "mobi.360doc.com"

@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-10 02:10:44
+# UPDATED: 2023-01-11 02:10:03
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 24714
+# DOMAIN-SUFFIX: 24722
 # IP-CIDR: 91
 # USER-AGENT: 8
-# TOTAL: 24851
+# TOTAL: 24859
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -4577,6 +4577,7 @@ voice.telephony.goog
 .bullogger.com
 .bullogs.com
 .bullvpn.com
+.bumingbai.net
 .bunbunhk.com
 .bundesliga.de
 .bungzhu.web.id
@@ -5154,7 +5155,6 @@ voice.telephony.goog
 .chain.net
 .chalungu.cn
 .chamirris.com
-.chan.sankakucomplex.com
 .changchengremit.com
 .change.org
 .changeip.name
@@ -6677,6 +6677,7 @@ voice.telephony.goog
 .doublechins.ca
 .doublehop.me
 .doublemoney.site
+.doublethinklab.org
 .doubmirror.cf
 .dougscripts.com
 .douhokanko.net
@@ -9579,6 +9580,7 @@ voice.telephony.goog
 .hotbak.net
 .hotbox.com
 .hotclaudia.de
+.hotcoin.com
 .hotdh.xyz
 .hoteljen.com
 .hotels.cn
@@ -9697,6 +9699,7 @@ voice.telephony.goog
 .humanharvestmovie.com
 .humanrightsfoundation.org
 .humanrightshouse.org
+.humanrightspressawards.org
 .humansofnewyork.com
 .humblebundle.com
 .hung-ya.com
@@ -11078,6 +11081,7 @@ voice.telephony.goog
 .kr.neoz.club
 .kr1.hkts.win
 .krabbenspringen.de
+.kraken.com
 .kralin.su
 .kreyness.com
 .kripaludrummers.com
@@ -12587,6 +12591,7 @@ voice.telephony.goog
 .monkeywerks.net
 .monlamit.org
 .monocloud.com.au
+.monocloud.me
 .monova.org
 .monoworks.com
 .monster.com
@@ -13113,6 +13118,7 @@ voice.telephony.goog
 .newline.fi
 .newmediarights.org
 .newmexico.gov
+.newmitbbs.com
 .newmoon.com
 .newnews.ca
 .newpipe.net
@@ -15408,6 +15414,7 @@ voice.telephony.goog
 .sangunia.webuda.com
 .sanhebfb.com
 .sankaku.o.asakuraotome.com
+.sankakucomplex.com
 .sankei.com
 .sanmin.com.tw
 .sans.edu
@@ -18963,6 +18970,7 @@ voice.telephony.goog
 .webok.tw
 .weboproxy.com
 .webpack.de
+.webpkgcache.com
 .webproxy-service.de
 .webproxy.ca
 .webproxy.ru

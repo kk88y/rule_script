@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-10 02:07:24
+# UPDATED: 2023-01-11 02:07:12
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 14649
+# DOMAIN: 14650
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 76825
+# DOMAIN-SUFFIX: 76850
 # IP-CIDR: 238
 # URL-REGEX: 285
-# TOTAL: 92073
+# TOTAL: 92099
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -10889,6 +10889,7 @@ sicteppojdwr.com
 sidelinesapp.com
 sierra-fox.com
 sifakaoshi360.com
+sift.com
 signaly.co
 signatu.com
 signout.website
@@ -15661,6 +15662,7 @@ zzxosget.com
 .2ae7bb7996.com
 .2aefgbf.de
 .2am0yc33wt2e.ru
+.2aqr.net
 .2asana.net.zooplus.de
 .2aus34sie6po5m.com
 .2b26a9e96e.com
@@ -15951,6 +15953,7 @@ zzxosget.com
 .360shopping.com.cn
 .360tag.com
 .360tag.net
+.360yield-basic.com
 .360yield.com
 .360zuowen.net
 .361315.cc
@@ -16076,6 +16079,7 @@ zzxosget.com
 .3naf.xyz
 .3ng6p6m0.de
 .3o9s.short.gy
+.3p8801.co
 .3qk4s31iy0.rest
 .3ql1pb.cn
 .3qmh.com
@@ -16324,6 +16328,7 @@ zzxosget.com
 .51fishplace.com
 .51foodsafe.cn
 .51fuliwang.cn
+.51gpiao.cn
 .51gpt.com
 .51grow.club
 .51gxqm.com
@@ -16452,6 +16457,7 @@ zzxosget.com
 .5937081273.com
 .593pi.cn
 .595fb25f30.com
+.595tuchuang.com
 .597437c124.com
 .59987d951d.com
 .5999218ccc.com
@@ -27990,6 +27996,7 @@ zzxosget.com
 .baletingo.com
 .baliadv.com
 .balkanwide-assistance.rs
+.balkscaked.com
 .balldevelopedhangnail.com
 .balloonbit.com
 .balloonnails.com
@@ -30770,6 +30777,7 @@ zzxosget.com
 .bulbbait.com
 .bulcqmteuc.com
 .buleor.com
+.bulgae.com
 .buliglss.space
 .bulisite.top
 .bulium.com
@@ -38412,6 +38420,7 @@ zzxosget.com
 .dispatchvegasplus.com
 .dispbaktun.com
 .dispensablestranger.com
+.disperserepeatedly.com
 .display.360totalsecurity.com
 .display.adhudong.com
 .display.digitalriver.com
@@ -40547,6 +40556,7 @@ zzxosget.com
 .eghnmj.xyz
 .eghnybyvn.com
 .eghrbf.immowelt.at
+.egikoilnbwk.com
 .egistonemes.com
 .egjq.com.cn
 .egloochy.com
@@ -41471,6 +41481,7 @@ zzxosget.com
 .esopertyva.shop
 .esoterik-lenormand.com
 .espaceagazines.fr
+.espionagegardenerthicket.com
 .espn-ak.starwave.com
 .espotl.com
 .esptj.com
@@ -42774,6 +42785,7 @@ zzxosget.com
 .fellap.com
 .felonlosel.com
 .feltlonelyand.xyz
+.felzfr.xyz
 .female-v.1.p2l.info
 .fembsflungod.com
 .femefaih.com
@@ -50280,6 +50292,7 @@ zzxosget.com
 .ioniamcurren.com
 .ioniaukmla.xyz
 .iononetravoy.com
+.ionqv.cn
 .ionrefreshotsev.info
 .ionseleaukses.autos
 .iooecb.bergzeit.de
@@ -50636,6 +50649,7 @@ zzxosget.com
 .iurhxzmr.ga.gfycat.com
 .iusnajah.cn
 .iutr.uozwys.top
+.iuudbgnvgyswen.com
 .iuuff.com
 .iuwzdf.com
 .iuyuwh.cn
@@ -51138,6 +51152,7 @@ zzxosget.com
 .jhkj.work
 .jhlxfw.cn
 .jhm3.ifgexecutive.com
+.jhoncj.com
 .jhoolbiaxial.com
 .jhrewn.venezia.pl
 .jhrtgt.site
@@ -52210,6 +52225,7 @@ zzxosget.com
 .kazmedia.su
 .kb5ke.xyz
 .kba8i.icu
+.kbbqwhf.cn
 .kbd1.kpns.ijinshan.com
 .kbkilog.cn
 .kbn.korben.info
@@ -55398,6 +55414,7 @@ zzxosget.com
 .lpx.qantas.com
 .lpxmall.com
 .lq1.abcxs.com
+.lqcaznzllnrfh.com
 .lqcdn.com
 .lqe3.icu
 .lqela.ru
@@ -59291,6 +59308,7 @@ zzxosget.com
 .mqqad.cs0309.html5.qq.com
 .mqqad.html5.qq.com
 .mqqadr.reader.qq.com
+.mqquas.xyz
 .mqsicr.smiggle.co.uk
 .mqssvkgeegvenq.xyz
 .mqvyob.vidaxl.fi
@@ -59448,6 +59466,7 @@ zzxosget.com
 .mtlog.droid4x.cn
 .mtlsari.cn
 .mtm.qdqmedia.com
+.mtm.walls.io
 .mto.cgv.vn
 .mtoalv.cn
 .mtoxtg.tezenis.com
@@ -65374,6 +65393,7 @@ zzxosget.com
 .pohs2oom.com
 .poijugh.top
 .poined.com
+.poinsk.com
 .pointclicktrack.com
 .pointeretards.com
 .pointerpointer.fr
@@ -72702,7 +72722,6 @@ zzxosget.com
 .sifomedia.se
 .sifomedia.sportsverige.se
 .sift.co
-.sift.com
 .siftscience.com
 .siftshortagepopped.com
 .sifubo.cn
@@ -82332,6 +82351,7 @@ zzxosget.com
 .troild.com
 .trokemar.com
 .trolleydryerfunds.com
+.trollsvide.com
 .tromairiememasdaq.com
 .trombocrack.com
 .troncomelets.com
@@ -84245,6 +84265,7 @@ zzxosget.com
 .vai1hqegr2ou.ru
 .vaifopooface.com
 .vailedapetaly.com
+.vainews.cn
 .vainfulkmole.com
 .vaipsona.com
 .vaipsouw.com
@@ -88912,6 +88933,7 @@ zzxosget.com
 .xkdijkdiefu.com
 .xkena.com
 .xkeo6sleo.cyou
+.xkesalwueyz.com
 .xketil.com
 .xkhall.xyz
 .xkjxgt.com
@@ -89004,6 +89026,7 @@ zzxosget.com
 .xmsrd.com
 .xmtrk.com
 .xmtsyg.com
+.xmvftaoz.com
 .xmwn.shop
 .xmxxwl.com
 .xmyejun.cn
@@ -90214,6 +90237,7 @@ zzxosget.com
 .ysdhe.com
 .ysdm.ys137.com.cn
 .ysej.code.weddingeeos.com
+.ysgekq.xyz
 .ysgsq.cn
 .ysjkbk.com
 .ysjweb.com
@@ -90254,6 +90278,7 @@ zzxosget.com
 .ytmaksim.cn
 .ytop8.com
 .ytostaracaree.work
+.ytpae.xyz
 .ytre9jk.txxx.com
 .ytsa.net
 .ytsyyey.com
@@ -90358,6 +90383,7 @@ zzxosget.com
 .yuppyads.com
 .yuqadu.xyz
 .yuqhtlry.xyz
+.yuqingby.fun
 .yuquad.com
 .yuretb.site
 .yurosikua.autos
