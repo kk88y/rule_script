@@ -1,11 +1,11 @@
 name: 复写去广告
-desc: 最后更新时间 2023-01-11 02:12:44
+desc: 最后更新时间 2023-01-12 02:14:07
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 543
-# mitm: 501
+# reject: 541
+# mitm: 498
 # force-http-engine-hosts: 6
-# total: 1050
+# total: 1045
 
 
 
@@ -381,7 +381,6 @@ http:
     - ^https?:\/\/mob\.mddcloud\.com\.cn\/api\/(ad|advert)\/ - reject
     - ^https?:\/\/mobi\.360doc\.com\/v\d{2}\/Ajax\/festival\.ashx\?op=getfestivaltheme - reject
     - ^https?:\/\/mobile-pic\.cache\.iciba\.com\/feeds_ad\/ - reject
-    - ^https?:\/\/mobilead\.kuwo\.cn\/EcomResourceServer\/adBubble\/.+ - reject
     - ^https?:\/\/mobileapi-v6\.elong\.com\/adgateway\/ - reject
     - ^https?:\/\/mp\.weixin\.qq\.com\/(s|mp)\/(ad_|advertisement|getappmsgad|report|appmsgreport|appmsgpicreport) - reject
     - ^https?:\/\/mp\.weixin\.qq\.com\/mp\/cps_product_info - reject
@@ -444,7 +443,6 @@ http:
     - ^https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/get(Ruled|Preload|PasMultiNotices) - reject
     - ^https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/mget - reject
     - ^https?:\/\/restapi\.iyunmai\.com\/api\/ios\/ad\/ - reject
-    - ^https?:\/\/rich\.kuwo\.cn\/AdService\/kaiping\/adinfo - reject
     - ^https?:\/\/richmanapi\.jxedt\.com\/api\/(ad|adplus|guideplus|banadplus) - reject
     - ^https?:\/\/rtbapi\.douyucdn\.cn\/japi\/sign\/app\/getinfo - reject
     - ^https?:\/\/s1\.api\.tv\.itc\.cn\/v\d\/mobile\/control\/switch\.json - reject
@@ -582,7 +580,6 @@ http:
     - "*.k.sohu.com"
     - "*.kakamobi.cn"
     - "*.kingsoft-office-service.com"
-    - "*.kwcdn.kuwo.cn"
     - "*.laichon.com"
     - "*.musical.ly"
     - "*.nfmovies.com"
@@ -911,7 +908,6 @@ http:
     - "mobi.360doc.com"
     - "mobile-api2011.elong.com"
     - "mobile-pic.cache.iciba.com"
-    - "mobilead.kuwo.cn"
     - "mobileapi-v6.elong.com"
     - "mp.weixin.qq.com"
     - "mpcs.suning.com"
@@ -970,7 +966,6 @@ http:
     - "res.xiaojukeji.com"
     - "resrelease.wuta-cam.com"
     - "restapi.iyunmai.com"
-    - "rich.kuwo.cn"
     - "richmanapi.jxedt.com"
     - "router-app-api.jdcloud.com"
     - "rtbapi.douyucdn.cn"

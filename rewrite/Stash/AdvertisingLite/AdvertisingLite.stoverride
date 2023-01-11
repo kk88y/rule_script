@@ -1,11 +1,11 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2023-01-11 02:12:57
+desc: 最后更新时间 2023-01-12 02:14:20
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 497
-# mitm: 410
+# reject: 495
+# mitm: 407
 # force-http-engine-hosts: 6
-# total: 913
+# total: 908
 
 
 
@@ -340,7 +340,6 @@ http:
     - ^https?:\/\/mob\.mddcloud\.com\.cn\/api\/(ad|advert)\/ - reject
     - ^https?:\/\/mobi\.360doc\.com\/v\d{2}\/Ajax\/festival\.ashx\?op=getfestivaltheme - reject
     - ^https?:\/\/mobile-pic\.cache\.iciba\.com\/feeds_ad\/ - reject
-    - ^https?:\/\/mobilead\.kuwo\.cn\/EcomResourceServer\/adBubble\/.+ - reject
     - ^https?:\/\/mobileapi-v6\.elong\.com\/adgateway\/ - reject
     - ^https?:\/\/mp\.weixin\.qq\.com\/(s|mp)\/(ad_|advertisement|getappmsgad|report|appmsgreport|appmsgpicreport) - reject
     - ^https?:\/\/mp\.weixin\.qq\.com\/mp\/cps_product_info - reject
@@ -402,7 +401,6 @@ http:
     - ^https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/get(Ruled|Preload|PasMultiNotices) - reject
     - ^https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/mget - reject
     - ^https?:\/\/restapi\.iyunmai\.com\/api\/ios\/ad\/ - reject
-    - ^https?:\/\/rich\.kuwo\.cn\/AdService\/kaiping\/adinfo - reject
     - ^https?:\/\/richmanapi\.jxedt\.com\/api\/(ad|adplus|guideplus|banadplus) - reject
     - ^https?:\/\/rtbapi\.douyucdn\.cn\/japi\/sign\/app\/getinfo - reject
     - ^https?:\/\/s1\.api\.tv\.itc\.cn\/v\d\/mobile\/control\/switch\.json - reject
@@ -521,7 +519,6 @@ http:
     - "wmapi.meituan.com"
 
   mitm:
-    - "*.kwcdn.kuwo.cn"
     - "*.ott.cibntv.net"
     - "*.tc.qq.com"
     - "*.tv.sohu.com"
@@ -792,7 +789,6 @@ http:
     - "mobi.360doc.com"
     - "mobile-pic.cache.iciba.com"
     - "mobile.laichon.com"
-    - "mobilead.kuwo.cn"
     - "mobileapi-v6.elong.com"
     - "mp.weixin.qq.com"
     - "mpcs.suning.com"
@@ -843,7 +839,6 @@ http:
     - "res.pizzahut.com.cn"
     - "res.xiaojukeji.com"
     - "restapi.iyunmai.com"
-    - "rich.kuwo.cn"
     - "richmanapi.jxedt.com"
     - "router-app-api.jdcloud.com"
     - "rtbapi.douyucdn.cn"

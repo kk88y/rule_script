@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-11 02:09:36
+# UPDATED: 2023-01-12 02:11:01
 # DOMAIN: 173
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37834
+# DOMAIN-SUFFIX: 37838
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # USER-AGENT: 45
-# TOTAL: 38202
+# TOTAL: 38206
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -13881,7 +13881,9 @@ www-cdn.icloud.com.akadns.net
 .get.app
 .get.dev
 .get.how
+.get.new
 .get.page
+.get.rsvp
 .getadblock.com
 .getastrill.com
 .getbitcoin.pw
@@ -15265,6 +15267,7 @@ www-cdn.icloud.com.akadns.net
 .hexieshe.com
 .hexieshe.xyz
 .hexxeh.net
+.hey.boo
 .heyav.tv
 .heydoga.com
 .heydouga.com
@@ -21728,6 +21731,7 @@ www-cdn.icloud.com.akadns.net
 .new-jero.net
 .new-proxy.com.de
 .new-redtube.com
+.new.day
 .new.ltshk.net
 .new.m19b.com
 .new.sobody88.com
