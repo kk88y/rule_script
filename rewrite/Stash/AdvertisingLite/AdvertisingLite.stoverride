@@ -1,11 +1,11 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2023-01-12 02:14:20
+desc: 最后更新时间 2023-01-14 02:14:55
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 495
-# mitm: 407
+# reject: 491
+# mitm: 403
 # force-http-engine-hosts: 6
-# total: 908
+# total: 900
 
 
 
@@ -226,7 +226,6 @@ http:
     - ^https?:\/\/e\.dangdang\.com\/media\/api.+?\?action=getDeviceStartPage - reject
     - ^https?:\/\/easyreadfs\.nosdn\.127\.net\/ad-material\/ - reject
     - ^https?:\/\/edit\.sinaapp\.com\/ua\?t=adv - reject
-    - ^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/user\/teenager\/status - reject
     - ^https?:\/\/emdcadvertise\.eastmoney\.com\/infoService - reject
     - ^https?:\/\/explorer\.tratao\.com\/api\/client\/v4\/xtransfer\/ad\/ - reject
     - ^https?:\/\/fb\.fbstatic\.cn\/api\/ape-images\/.*.jpg? - reject
@@ -268,7 +267,6 @@ http:
     - ^https?:\/\/i\d\.hoopchina\.com\.cn/blogfile\/\d+\/\d+\/BbsImg\.(?<=(big.(png|jpg)))$ - reject
     - ^https?:\/\/iadmusicmat\.music\.126\.net\/.*?jpg$ - reject
     - ^https?:\/\/iapi\.bishijie\.com\/actopen\/advertising\/ - reject
-    - ^https?:\/\/iface2\.iqiyi\.com\/fusion\/3\.0\/fusion_switch - reject
     - ^https?:\/\/iface\.iqiyi\.com\/api\/getNewAdInfo - reject
     - ^https?:\/\/ih2\.ireader\.com\/zyapi\/bookstore\/ad\/ - reject
     - ^https?:\/\/ih2\.ireader\.com\/zyapi\/self\/screen\/ad - reject
@@ -374,7 +372,6 @@ http:
     - ^https?:\/\/p\d\.meituan\.net\/(bizad|wmbanner)\/\w+\.jpg - reject
     - ^https?:\/\/p\d\.meituan\.net\/movie\/\w+\.jpg\?may_covertWebp - reject
     - ^https?:\/\/p\d\.meituan\.net\/wmbanner\/[A-Za-z0-9]+\.jpg - reject
-    - ^https?:\/\/pages\.xiaohongshu\.com\/data\/native\/matrix_switches - reject
     - ^https?:\/\/pan\.baidu\.com\/act\/api\/activityentry - reject
     - ^https?:\/\/pan\.baidu\.com\/act\/v\d\/bchannel\/list - reject
     - ^https?:\/\/pan\.baidu\.com\/rest\/2\.0\/pcs\/ad - reject
@@ -393,7 +390,6 @@ http:
     - ^https?:\/\/qt\.qq\.com\/lua\/mengyou\/get_splash_screen_info - reject
     - ^https?:\/\/r\.inews\.qq\.com\/(adsBlacklist|getBannerAds|getFullScreenPic|getNewsRemoteConfig|getQQNewsRemoteConfig|searchHotCatList|upLoadLoc) - reject
     - ^https?:\/\/r\.inews\.qq\.com\/(getBannerAds|getNewsRemoteConfig|getSplash|searchHotCatList|upLoadLoc) - reject
-    - ^https?:\/\/referee\.xiaohongshu\.com\/v\d\/stateReport - reject
     - ^https?:\/\/render-oss-cdn\.amap\.com\/render\/studio-dev\/image\/ - reject
     - ^https?:\/\/res-release\.wuta-cam\.com\/json\/ads_component_cache\.json - reject
     - ^https?:\/\/res\.kfc\.com\.cn\/advertisement\/ - reject
@@ -694,7 +690,6 @@ http:
     - "e.dangdang.com"
     - "easyreadfs.nosdn.127.net"
     - "edit.sinaapp.com"
-    - "edith.xiaohongshu.com"
     - "emdcadvertise.eastmoney.com"
     - "explorer.tratao.com"
     - "fb.fbstatic.cn"
@@ -731,7 +726,6 @@ http:
     - "iadmusicmat.music.126.net"
     - "iapi.bishijie.com"
     - "iface.iqiyi.com"
-    - "iface2.iqiyi.com"
     - "ih2.ireader.com"
     - "image.suning.cn"
     - "images.client.vip.xunlei.com"
@@ -818,7 +812,6 @@ http:
     - "p*.meituan.net"
     - "p.du.163.com"
     - "p.kuaidi100.com"
-    - "pages.xiaohongshu.com"
     - "pan.baidu.com"
     - "peisongapi.meituan.com"
     - "pic*.ajkimg.com"
@@ -832,7 +825,6 @@ http:
     - "pzoap.moedot.net"
     - "qt.qq.com"
     - "r.inews.qq.com"
-    - "referee.xiaohongshu.com"
     - "render-oss-cdn.amap.com"
     - "res-release.wuta-cam.com"
     - "res.kfc.com.cn"
