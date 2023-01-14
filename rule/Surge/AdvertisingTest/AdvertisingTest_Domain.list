@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-14 18:27:32
+# UPDATED: 2023-01-15 02:07:40
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
-# DOMAIN: 9985
+# DOMAIN: 9995
 # DOMAIN-KEYWORD: 264
 # DOMAIN-SUFFIX: 100750
 # IP-CIDR: 239
 # URL-REGEX: 285
-# TOTAL: 111524
+# TOTAL: 111534
 00-gov.cn
 0026645142c89aeb1.com
 006a039c957c142bb.com
@@ -2244,6 +2244,7 @@ dows.yuyudl.com
 doxurgeoisuniv.info
 doyugqaizcecne.com
 dp-medien.eu
+dp.coinbase.com
 dp.im.wei.cn
 dpallyihgtgu.com
 dpbrrirhtlo.com
@@ -2778,6 +2779,7 @@ fdmtoyfpjk.com
 fdofosytszg.com
 fdrqokusnwpq.com
 fdrqqpeengzj.com
+fds-1230.cc
 fdvilavipz.com
 fdxsswtgvshhe.com
 fearer.info
@@ -5169,6 +5171,7 @@ metrocuadro.com.ve
 meya41w7.com
 mfdhvdwkdg.com
 mfeed.newzfind.com
+mffdn.xyz
 mffsqhmzeycb.com
 mfgxwluvrr.com
 mfgyyqqjpp.com
@@ -5961,6 +5964,7 @@ oprivi.info
 opsooque.com
 opt-n.net
 optiker-michelmann.de
+optimeeze.appspot.com
 optimization-methods.com
 optimizelydata.com
 opyisszzoyhc.com
@@ -6749,6 +6753,7 @@ qrwixhlz.com
 qrxkugriqkt.com
 qscxylds.com
 qsdlk.tk
+qsezjy.cn
 qsfgszjm.com
 qskmkllcnoku.com
 qsksdpoi.com
@@ -6832,6 +6837,7 @@ qzaahtgpnb.com
 qzbnnpotm.com
 qzcpotzdkfyn.com
 qzdexbmyq.com
+qzeqjvo.cn
 qzfnuwdc.com
 qziqnfwzk.com
 qzismxssqf.com
@@ -7936,6 +7942,7 @@ track.mypcbackup.com
 trackaffpix.com
 trackbar.info
 trackcustomer.laredoute.com
+tracker-dot-optimeeze.appspot.com
 tracki112.com
 tracklab.club
 trackpromotion.net
@@ -8717,6 +8724,7 @@ wcwdjojsxbbl.com
 wcyqoiyohhav.com
 wcyrjlszoo.com
 wdaqrxfppj.com
+wdasa.top
 wdbqsuukggoyg.com
 wdkbcvnh.com
 wdlnoecwykpon.com
@@ -8834,6 +8842,7 @@ wjeeqkdbjsg.com
 wjglgkuyqhaguq.com
 wjhwruwrirpizx.com
 wjkavtihubprn.com
+wjl58.icu
 wjodtshzu.com
 wjpaspdktadog.com
 wjuowevxibmg.com
@@ -8929,6 +8938,7 @@ wu.biquge.info
 wuaefxberbqcv.com
 wudraqvw.com
 wufcygryt.com
+wuge20230104.live
 wugwwssgjcn.com
 wuldvrdfie.com
 wultaikr.net

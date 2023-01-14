@@ -1,31 +1,45 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-14 18:27:33
-# DOMAIN: 9985
+# UPDATED: 2023-01-15 02:07:42
+# DOMAIN: 9995
 # DOMAIN-KEYWORD: 264
 # DOMAIN-SUFFIX: 100750
 # IP-CIDR: 239
-# TOTAL: 111238
+# TOTAL: 111248
 payload:
+  - DOMAIN,3p-geo.yahoo.com
+  - DOMAIN,3p-udc.yahoo.com
   - DOMAIN,46186911.vtt
   - DOMAIN,80055404.vtt
   - DOMAIN,aab-proxy.tld
   - DOMAIN,absurdapple.com
+  - DOMAIN,adfox.yandex.ru
   - DOMAIN,adfstat.yandex.ru
   - DOMAIN,ads.yahoo.com
   - DOMAIN,ads.youtube.com
+  - DOMAIN,adsdk.yandex.ru
+  - DOMAIN,an.yandex.ru
+  - DOMAIN,anonstat.pw
   - DOMAIN,anxiousapples.com
   - DOMAIN,api.sec.miui.com
   - DOMAIN,app.ssp.yahoo.com
   - DOMAIN,appboy-images.com
+  - DOMAIN,apple.www.letv.com
   - DOMAIN,applesometimes.com
+  - DOMAIN,applets.ebxcdn.com
   - DOMAIN,arikhwglvc.xyz
+  - DOMAIN,awaps.yandex.ru
   - DOMAIN,awsync.yandex.ru
+  - DOMAIN,bats.video.yahoo.com
   - DOMAIN,beacon.search.yahoo.com
   - DOMAIN,beap-bc.yahoo.com
   - DOMAIN,blueduckredapple.com
+  - DOMAIN,bs.yandex.ru
+  - DOMAIN,c.bazo.io
   - DOMAIN,chibaigo.com
+  - DOMAIN,collector2c.zhihuishu.com
+  - DOMAIN,cookiex.ngd.yahoo.com
   - DOMAIN,crypta.js
   - DOMAIN,cumuda.com
   - DOMAIN,d1stxfv94hrhia.cloudfront
@@ -33,14 +47,20 @@ payload:
   - DOMAIN,ddqhnjb.cn
   - DOMAIN,dmg-dd.oss-accelerate.aliyuncs.com
   - DOMAIN,dqdyxysrjvkcw.com
+  - DOMAIN,fds-1230.cc
   - DOMAIN,februaryreductionapplet.com
   - DOMAIN,fpb1.apple886.com
+  - DOMAIN,fptls2.com
+  - DOMAIN,ganon.yahoo.com
+  - DOMAIN,geo.yahoo.com
   - DOMAIN,hbwfcuruuwkqeeh.com
   - DOMAIN,iadsdk.apple.com
   - DOMAIN,ib.snssdk.com
+  - DOMAIN,informer.yandex.ru
   - DOMAIN,insteadprincipleshearted.com
   - DOMAIN,institutepigeonsfinger.com
   - DOMAIN,invisiblepine.com
+  - DOMAIN,jill.fc.yahoo.com
   - DOMAIN,jpaasne.e.shifen.com
   - DOMAIN,jqtzw.xyz
   - DOMAIN,kevelandean.com
@@ -49,14 +69,20 @@ payload:
   - DOMAIN,landupoatour.com.ua
   - DOMAIN,log.strm.yandex.ru
   - DOMAIN,marketingsolutions.yahoo.com
+  - DOMAIN,mc.yandex.ru
   - DOMAIN,mediaappletree.com
   - DOMAIN,meitaolianmeng.ltd
+  - DOMAIN,mffdn.xyz
   - DOMAIN,mm.n3w1d0ma1n
   - DOMAIN,mo.vlpyj.xy
+  - DOMAIN,nol.yahoo.com
   - DOMAIN,odipjwipwwyus.xyz
   - DOMAIN,persistentadequate.com
   - DOMAIN,pr.comet.yahoo.com
   - DOMAIN,psaiksou.xyz
+  - DOMAIN,pv.sohu.com
+  - DOMAIN,qsezjy.cn
+  - DOMAIN,qzeqjvo.cn
   - DOMAIN,relationsquiver.com
   - DOMAIN,rrf.fat1domain1
   - DOMAIN,scapid.com
@@ -65,10 +91,17 @@ payload:
   - DOMAIN,shackapple.com
   - DOMAIN,stats.video.search.yahoo.com
   - DOMAIN,sub.powerapple.com
+  - DOMAIN,sugar.zhihu.com
+  - DOMAIN,supportmetrics.apple.com
+  - DOMAIN,test.vast
   - DOMAIN,theapple.site
   - DOMAIN,tibbujo.com
   - DOMAIN,vaikijie.net
+  - DOMAIN,visit.webhosting.yahoo.com
+  - DOMAIN,wdasa.top
+  - DOMAIN,wjl58.icu
   - DOMAIN,wondefulapplend.com
+  - DOMAIN,wuge20230104.live
   - DOMAIN,wzjs1.oss-accelerate.aliyuncs.com
   - DOMAIN,xh33g.net
   - DOMAIN,xjpphoto.com
@@ -9955,31 +9988,11 @@ payload:
   - DOMAIN,wx.yubangsmart.com
   - DOMAIN,xc.xiyqjea.cn
   - DOMAIN,xg.tjwmtrw.cn
-  - DOMAIN,3p-geo.yahoo.com
-  - DOMAIN,3p-udc.yahoo.com
   - DOMAIN,ad.kddi-fs.com
-  - DOMAIN,adfox.yandex.ru
-  - DOMAIN,adsdk.yandex.ru
-  - DOMAIN,an.yandex.ru
-  - DOMAIN,anonstat.pw
-  - DOMAIN,apple.www.letv.com
-  - DOMAIN,applets.ebxcdn.com
-  - DOMAIN,awaps.yandex.ru
-  - DOMAIN,bats.video.yahoo.com
-  - DOMAIN,bs.yandex.ru
-  - DOMAIN,c.bazo.io
-  - DOMAIN,collector2c.zhihuishu.com
-  - DOMAIN,cookiex.ngd.yahoo.com
-  - DOMAIN,fptls2.com
-  - DOMAIN,ganon.yahoo.com
-  - DOMAIN,geo.yahoo.com
-  - DOMAIN,informer.yandex.ru
-  - DOMAIN,jill.fc.yahoo.com
+  - DOMAIN,dp.coinbase.com
   - DOMAIN,log.kuwo.cn
-  - DOMAIN,mc.yandex.ru
   - DOMAIN,metrics.apple.com
-  - DOMAIN,nol.yahoo.com
-  - DOMAIN,pv.sohu.com
+  - DOMAIN,optimeeze.appspot.com
   - DOMAIN,ras.yahoo.com
   - DOMAIN,rba-screen.healthsafe-id.com
   - DOMAIN,retcode.taobao.com
@@ -9988,11 +10001,8 @@ payload:
   - DOMAIN,securemvt.apple.com
   - DOMAIN,securemvt.apple.com.cn
   - DOMAIN,ssp.rambler.ru
-  - DOMAIN,sugar.zhihu.com
-  - DOMAIN,supportmetrics.apple.com
   - DOMAIN,t.zulily.com
-  - DOMAIN,test.vast
-  - DOMAIN,visit.webhosting.yahoo.com
+  - DOMAIN,tracker-dot-optimeeze.appspot.com
   - DOMAIN-SUFFIX,0-000.store
   - DOMAIN-SUFFIX,0.code.cotsta.ru
   - DOMAIN-SUFFIX,0001.best

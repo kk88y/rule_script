@@ -1,28 +1,42 @@
 ! Title: AdvertisingTest
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2023-01-14 18:27:34
-! Total: 110725
+! Updated: 2023-01-15 02:07:42
+! Total: 110735
 
 
+||3p-geo.yahoo.com^
+||3p-udc.yahoo.com^
 ||46186911.vtt^
 ||80055404.vtt^
 ||aab-proxy.tld^
 ||absurdapple.com^
+||adfox.yandex.ru^
 ||adfstat.yandex.ru^
 ||ads.yahoo.com^
 ||ads.youtube.com^
+||adsdk.yandex.ru^
+||an.yandex.ru^
+||anonstat.pw^
 ||anxiousapples.com^
 ||api.sec.miui.com^
 ||app.ssp.yahoo.com^
 ||appboy-images.com^
+||apple.www.letv.com^
 ||applesometimes.com^
+||applets.ebxcdn.com^
 ||arikhwglvc.xyz^
+||awaps.yandex.ru^
 ||awsync.yandex.ru^
+||bats.video.yahoo.com^
 ||beacon.search.yahoo.com^
 ||beap-bc.yahoo.com^
 ||blueduckredapple.com^
+||bs.yandex.ru^
+||c.bazo.io^
 ||chibaigo.com^
+||collector2c.zhihuishu.com^
+||cookiex.ngd.yahoo.com^
 ||crypta.js^
 ||cumuda.com^
 ||d1stxfv94hrhia.cloudfront^
@@ -30,14 +44,20 @@
 ||ddqhnjb.cn^
 ||dmg-dd.oss-accelerate.aliyuncs.com^
 ||dqdyxysrjvkcw.com^
+||fds-1230.cc^
 ||februaryreductionapplet.com^
 ||fpb1.apple886.com^
+||fptls2.com^
+||ganon.yahoo.com^
+||geo.yahoo.com^
 ||hbwfcuruuwkqeeh.com^
 ||iadsdk.apple.com^
 ||ib.snssdk.com^
+||informer.yandex.ru^
 ||insteadprincipleshearted.com^
 ||institutepigeonsfinger.com^
 ||invisiblepine.com^
+||jill.fc.yahoo.com^
 ||jpaasne.e.shifen.com^
 ||jqtzw.xyz^
 ||kevelandean.com^
@@ -46,14 +66,20 @@
 ||landupoatour.com.ua^
 ||log.strm.yandex.ru^
 ||marketingsolutions.yahoo.com^
+||mc.yandex.ru^
 ||mediaappletree.com^
 ||meitaolianmeng.ltd^
+||mffdn.xyz^
 ||mm.n3w1d0ma1n^
 ||mo.vlpyj.xy^
+||nol.yahoo.com^
 ||odipjwipwwyus.xyz^
 ||persistentadequate.com^
 ||pr.comet.yahoo.com^
 ||psaiksou.xyz^
+||pv.sohu.com^
+||qsezjy.cn^
+||qzeqjvo.cn^
 ||relationsquiver.com^
 ||rrf.fat1domain1^
 ||scapid.com^
@@ -62,10 +88,17 @@
 ||shackapple.com^
 ||stats.video.search.yahoo.com^
 ||sub.powerapple.com^
+||sugar.zhihu.com^
+||supportmetrics.apple.com^
+||test.vast^
 ||theapple.site^
 ||tibbujo.com^
 ||vaikijie.net^
+||visit.webhosting.yahoo.com^
+||wdasa.top^
+||wjl58.icu^
 ||wondefulapplend.com^
+||wuge20230104.live^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||xh33g.net^
 ||xjpphoto.com^
@@ -97921,31 +97954,11 @@
 ||zztuu.cn^
 ||zzuzcy.cloud^
 ||zzyanhushi.com^
-||3p-geo.yahoo.com^
-||3p-udc.yahoo.com^
 ||ad.kddi-fs.com^
-||adfox.yandex.ru^
-||adsdk.yandex.ru^
-||an.yandex.ru^
-||anonstat.pw^
-||apple.www.letv.com^
-||applets.ebxcdn.com^
-||awaps.yandex.ru^
-||bats.video.yahoo.com^
-||bs.yandex.ru^
-||c.bazo.io^
-||collector2c.zhihuishu.com^
-||cookiex.ngd.yahoo.com^
-||fptls2.com^
-||ganon.yahoo.com^
-||geo.yahoo.com^
-||informer.yandex.ru^
-||jill.fc.yahoo.com^
+||dp.coinbase.com^
 ||log.kuwo.cn^
-||mc.yandex.ru^
 ||metrics.apple.com^
-||nol.yahoo.com^
-||pv.sohu.com^
+||optimeeze.appspot.com^
 ||ras.yahoo.com^
 ||rba-screen.healthsafe-id.com^
 ||retcode.taobao.com^
@@ -97954,11 +97967,8 @@
 ||securemvt.apple.com^
 ||securemvt.apple.com.cn^
 ||ssp.rambler.ru^
-||sugar.zhihu.com^
-||supportmetrics.apple.com^
 ||t.zulily.com^
-||test.vast^
-||visit.webhosting.yahoo.com^
+||tracker-dot-optimeeze.appspot.com^
 ||17gouwuba.com^
 ||186078.com^
 ||189key.com^
