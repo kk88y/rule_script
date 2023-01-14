@@ -1,8 +1,8 @@
 ! Title: AdvertisingLite
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2023-01-14 02:07:15
-! Total: 37208
+! Updated: 2023-01-14 18:26:27
+! Total: 37207
 
 
 ||00-gov.cn^
@@ -24076,7 +24076,6 @@
 ||pasaigul.com^
 ||pasco.cc^
 ||pass-1234.com^
-||pass.1688.com^
 ||pass1.soogif.com^
 ||pass2.soogif.com^
 ||passeura.com^

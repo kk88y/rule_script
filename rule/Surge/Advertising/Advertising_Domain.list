@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-14 02:07:39
+# UPDATED: 2023-01-14 18:26:46
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 14651
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 77218
+# DOMAIN-SUFFIX: 77236
 # IP-CIDR: 238
 # URL-REGEX: 285
-# TOTAL: 92469
+# TOTAL: 92487
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -15095,6 +15095,7 @@ zzxosget.com
 .111g.yiqig.cn
 .111supjav.xyz
 .1133.cc
+.1134555.com
 .11370090.net
 .1138555.com
 .113aa22d76.com
@@ -15993,6 +15994,7 @@ zzxosget.com
 .37mnm.com
 .37pk49.com
 .37see.com
+.37tek.fun
 .37wan.cn
 .37wan.com
 .380.tw
@@ -16961,6 +16963,7 @@ zzxosget.com
 .77xtv.com
 .7891655.cn
 .7895983.cn
+.78dfvv.com
 .78dx8t.com
 .78rkcgj4i8c6.www.cefirates.com
 .79181531227.com
@@ -23630,7 +23633,6 @@ zzxosget.com
 .affiliate.astraweb.com
 .affiliate.baazee.com
 .affiliate.chiaki.vn
-.affiliate.doubleyourdating.com
 .affiliate.dtiserv.com
 .affiliate.exabytes.com.my
 .affiliate.gameladen.com
@@ -30361,6 +30363,7 @@ zzxosget.com
 .bptracking.com
 .bptxcg.xyz
 .bpu.samsungelectronics.com
+.bqg16.cc
 .bqg99.cc
 .bqge.xyz
 .bqgw.xyz
@@ -34077,6 +34080,7 @@ zzxosget.com
 .collect.nature.com
 .collect.ovp.vn
 .collect.rewardstyle.com
+.collect.rtl.lu
 .collect.sas.com
 .collect.serious.li
 .collect.state.centrum24.pl
@@ -40320,6 +40324,7 @@ zzxosget.com
 .ebuzzing.com
 .ebuzzing.it
 .ebz.io
+.ebzqyow.cn
 .ec-concier.com
 .ec-optimizer.com
 .ec-track.com
@@ -42564,6 +42569,7 @@ zzxosget.com
 .fangjslc.com
 .fanglinwang.cn
 .fangshan.us
+.fangyaomin.site
 .fangzhanla.cn
 .fangzhixinxi.cn
 .fangzi2.top
@@ -45971,6 +45977,7 @@ zzxosget.com
 .gophykopta.com
 .gopig.io
 .gopjn.com
+.goplayhere.com
 .goplayz.com
 .goprediction.com
 .goralogsizers.store
@@ -48393,6 +48400,7 @@ zzxosget.com
 .huahuagoudc.com
 .huahuaka.com
 .huahuaxiji.love
+.hualu.live
 .huang-biao.com
 .huanleshijie.top
 .huanqiucaizhi.com
@@ -50787,6 +50795,7 @@ zzxosget.com
 .ittorchicer.com
 .ittoxicroakon.club
 .ituoniao.co
+.ituxzez.cn
 .itv.hexun.com
 .itwasbrghttohi.com.ua
 .itweedler.com
@@ -51276,6 +51285,7 @@ zzxosget.com
 .jfjsp.com
 .jfltzz.riu.com
 .jfm4.pop.baofeng.net
+.jfmfmgj.cn
 .jfp6.destinia.de
 .jfpltp.eyeforfashion.pl
 .jfqkj.com
@@ -52556,6 +52566,7 @@ zzxosget.com
 .keyrun.com
 .keyrunmodel.com
 .keyshot.cc
+.keysmw.xyz
 .keystone.mwbsys.com
 .keyti.ru
 .keytiles.com
@@ -54877,6 +54888,7 @@ zzxosget.com
 .ll.k743.com
 .ll.songlaoban.cn
 .ll38.com
+.llanalytics.com
 .llantynethebrav.xyz
 .llentmatchw.xyz
 .lletd.cn
@@ -57179,6 +57191,7 @@ zzxosget.com
 .mbctxigml.com
 .mbd.weathercn.com
 .mbdlog.iqiyi.com
+.mbepa.xyz
 .mbethnarrowe.info
 .mbhs.hrm.healthgrades.com
 .mbi3.kuicr.kyoto-u.ac.jp
@@ -64082,7 +64095,6 @@ zzxosget.com
 .paslsa.com
 .pasquinzippy.com
 .pass-1234.com
-.pass.1688.com
 .pass1.soogif.com
 .pass2.soogif.com
 .passedofferundertake.com
@@ -67970,6 +67982,7 @@ zzxosget.com
 .qvbwras.cn
 .qvbxza.stoneberry.com
 .qvcwklhelpk.xyz
+.qvfkiwf.cn
 .qvi0.ru
 .qvorcqfon.com
 .qvpublish.com
@@ -70041,6 +70054,7 @@ zzxosget.com
 .rtb.mts.ru
 .rtb.softcube.com
 .rtb.trade
+.rtb.wedeo.ru
 .rtb123.com
 .rtb1bid.com
 .rtbadzesto.com
@@ -70481,6 +70495,7 @@ zzxosget.com
 .s.sdx.ru
 .s.simcoe.com
 .s.so.360.cn
+.s.sofoot.com
 .s.soha.vn
 .s.somos-arts.org
 .s.sporks.space
@@ -83148,6 +83163,7 @@ zzxosget.com
 .tydouke.com
 .tyessulfone.com
 .tygotwakinrollet.xyz
+.tygsqtkyiwxb.com
 .tyh.taobao.com
 .tyh887.com
 .tyhpksuvshiiwo.xyz
@@ -89760,6 +89776,7 @@ zzxosget.com
 .xzqxz.net
 .xztms.com
 .xzvfd.xyz
+.xzvfyowf.com
 .xzwdo.top
 .xzwk.hk
 .xzyituo.com
@@ -91667,6 +91684,7 @@ zzxosget.com
 .ztvx8.com
 .ztvzfq.com
 .ztwf8lr.cn
+.ztwrnpd.cn
 .ztxbd.com
 .ztxstudy.club
 .ztyumn.ifeng.com

@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-09 02:06:47
+# UPDATED: 2023-01-14 18:26:27
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 23678
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 13530
+# DOMAIN-SUFFIX: 13529
 # IP-CIDR: 184
 # URL-REGEX: 279
-# TOTAL: 37698
+# TOTAL: 37697
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -32748,7 +32748,6 @@ zzxosget.com
 .party-nngvitbizn.now.sh
 .pasaigul.com
 .pasco.cc
-.pass.1688.com
 .pass1.soogif.com
 .pass2.soogif.com
 .passport-log.youku.com

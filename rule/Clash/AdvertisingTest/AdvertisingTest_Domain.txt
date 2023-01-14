@@ -1,16 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-14 02:08:41
-# DOMAIN: 9970
+# UPDATED: 2023-01-14 18:27:33
+# DOMAIN: 9985
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 100733
+# DOMAIN-SUFFIX: 100750
 # IP-CIDR: 239
-# TOTAL: 111206
-1134555.com
-37tek.fun
+# TOTAL: 111238
 46186911.vtt
-78dfvv.com
 80055404.vtt
 aab-proxy.tld
 absurdapple.com
@@ -22,44 +19,59 @@ api.sec.miui.com
 app.ssp.yahoo.com
 appboy-images.com
 applesometimes.com
+arikhwglvc.xyz
 awsync.yandex.ru
 beacon.search.yahoo.com
 beap-bc.yahoo.com
 blueduckredapple.com
-bqg16.cc
-collect.rtl.lu
+chibaigo.com
 crypta.js
+cumuda.com
 d1stxfv94hrhia.cloudfront
+d3qeaw5w9eu3lm.cloudfront.net
+ddqhnjb.cn
 dmg-dd.oss-accelerate.aliyuncs.com
-fangyaomin.site
+dqdyxysrjvkcw.com
 februaryreductionapplet.com
 fpb1.apple886.com
-goplayhere.com
-hualu.live
+hbwfcuruuwkqeeh.com
 iadsdk.apple.com
 ib.snssdk.com
-ituxzez.cn
-jfmfmgj.cn
+insteadprincipleshearted.com
+institutepigeonsfinger.com
+invisiblepine.com
 jpaasne.e.shifen.com
-keysmw.xyz
+jqtzw.xyz
+kevelandean.com
+koatkm.xyz
+laafrce.cn
+landupoatour.com.ua
 log.strm.yandex.ru
 marketingsolutions.yahoo.com
-mbepa.xyz
 mediaappletree.com
 meitaolianmeng.ltd
 mm.n3w1d0ma1n
 mo.vlpyj.xy
+odipjwipwwyus.xyz
+persistentadequate.com
 pr.comet.yahoo.com
-qvfkiwf.cn
+psaiksou.xyz
+relationsquiver.com
 rrf.fat1domain1
-rtb.wedeo.ru
-s.sofoot.com
+scapid.com
+scarflaremorally.com
+scbt.asia
 shackapple.com
 stats.video.search.yahoo.com
 sub.powerapple.com
 theapple.site
+tibbujo.com
+vaikijie.net
 wondefulapplend.com
 wzjs1.oss-accelerate.aliyuncs.com
+xh33g.net
+xjpphoto.com
+ylasthepoityelthens.com.ua
 youtube.local
 ad.xy2013.cn
 ads.play.cbsi.video
@@ -9948,13 +9960,16 @@ ad.kddi-fs.com
 adfox.yandex.ru
 adsdk.yandex.ru
 an.yandex.ru
+anonstat.pw
 apple.www.letv.com
 applets.ebxcdn.com
 awaps.yandex.ru
 bats.video.yahoo.com
 bs.yandex.ru
+c.bazo.io
 collector2c.zhihuishu.com
 cookiex.ngd.yahoo.com
+fptls2.com
 ganon.yahoo.com
 geo.yahoo.com
 informer.yandex.ru
@@ -10165,6 +10180,7 @@ visit.webhosting.yahoo.com
 .1111supjavcom.xyz
 .1118cctv.ltd
 .111supjav.xyz
+.1134555.com
 .1138555.com
 .113aa22d76.com
 .1158555.com
@@ -10714,6 +10730,7 @@ visit.webhosting.yahoo.com
 .3711c45955.com
 .3761fcd24ef9281f5.com
 .377zt.cn
+.37tek.fun
 .380.tw
 .387635.com
 .396f4a512a.com
@@ -11344,6 +11361,7 @@ visit.webhosting.yahoo.com
 .7791.com.cn
 .77nnv9.xyz
 .77tel.com
+.78dfvv.com
 .78dx8t.com
 .79181531227.com
 .799f57f5cc.com
@@ -15110,7 +15128,6 @@ visit.webhosting.yahoo.com
 .affiliate.astraweb.com
 .affiliate.baazee.com
 .affiliate.chiaki.vn
-.affiliate.doubleyourdating.com
 .affiliate.dtiserv.com
 .affiliate.exabytes.com.my
 .affiliate.gameladen.com
@@ -19491,6 +19508,7 @@ visit.webhosting.yahoo.com
 .bpong.fr
 .bptxcg.xyz
 .bpu.samsungelectronics.com
+.bqg16.cc
 .bqg99.cc
 .bqge.xyz
 .bqgw.xyz
@@ -21981,6 +21999,7 @@ visit.webhosting.yahoo.com
 .collect.media.jio.com
 .collect.nature.com
 .collect.ovp.vn
+.collect.rtl.lu
 .collect.serious.li
 .collectfasttracks.com
 .collecting.click
@@ -25973,6 +25992,7 @@ visit.webhosting.yahoo.com
 .ebuzzing.com
 .ebuzzing.it
 .ebz.io
+.ebzqyow.cn
 .ec-concier.com
 .ec-optimizer.com
 .ec-track.com
@@ -27430,6 +27450,7 @@ visit.webhosting.yahoo.com
 .fanghuzhao.co
 .fangirlmag.com
 .fangshan.us
+.fangyaomin.site
 .fangzhixinxi.cn
 .fanjin.name
 .fanniemae.fr
@@ -29778,6 +29799,7 @@ visit.webhosting.yahoo.com
 .gopejk.com
 .gophykopta.com
 .gopjn.com
+.goplayhere.com
 .goplayz.com
 .goprediction.com
 .goralogsizers.store
@@ -31464,6 +31486,7 @@ visit.webhosting.yahoo.com
 .huaerdadi.com
 .huahuagoudc.com
 .huahuaxiji.love
+.hualu.live
 .huang-biao.com
 .huanleshijie.top
 .huasheng.love
@@ -33002,6 +33025,7 @@ visit.webhosting.yahoo.com
 .ittorchicer.com
 .ittoxicroakon.club
 .ituoniao.co
+.ituxzez.cn
 .itwasbrghttohi.com.ua
 .itweedler.com
 .itweepinbelltor.com
@@ -33316,6 +33340,7 @@ visit.webhosting.yahoo.com
 .jfduv7.com
 .jfecfzzuwevyqc.com
 .jfhoq.com
+.jfmfmgj.cn
 .jfsldq.top
 .jfzbgzv.cn
 .jg.wensixuetang.com
@@ -34137,6 +34162,7 @@ visit.webhosting.yahoo.com
 .keypush.net
 .keyrolan.com
 .keyrunmodel.com
+.keysmw.xyz
 .keyti.ru
 .keytiles.com
 .keytrack.de
@@ -37052,6 +37078,7 @@ visit.webhosting.yahoo.com
 .mb57.com
 .mbazhaheix.top
 .mbctxigml.com
+.mbepa.xyz
 .mbi3.kuicr.kyoto-u.ac.jp
 .mbledeparatea.com
 .mblink.in
@@ -44542,6 +44569,7 @@ visit.webhosting.yahoo.com
 .quxiangkeji.cn
 .qvbwras.cn
 .qvcwklhelpk.xyz
+.qvfkiwf.cn
 .qvi0.ru
 .qvorcqfon.com
 .qvpublish.com
@@ -46126,6 +46154,7 @@ visit.webhosting.yahoo.com
 .rtb.mts.ru
 .rtb.softcube.com
 .rtb.trade
+.rtb.wedeo.ru
 .rtb123.com
 .rtb1bid.com
 .rtbadzesto.com
@@ -46396,6 +46425,7 @@ visit.webhosting.yahoo.com
 .s.ppjol.net
 .s.remonti.org
 .s.sdx.ru
+.s.sofoot.com
 .s.soha.vn
 .s.tuoitre.vn
 .s.update.fbsbx.com
@@ -52521,6 +52551,7 @@ visit.webhosting.yahoo.com
 .tydouke.com
 .tyessulfone.com
 .tygotwakinrollet.xyz
+.tygsqtkyiwxb.com
 .tyh887.com
 .tyhpksuvshiiwo.xyz
 .tyingatmosphericprocess.com
@@ -56913,6 +56944,7 @@ visit.webhosting.yahoo.com
 .xzhcedu.cn
 .xzl200107151017.ltd
 .xzvfd.xyz
+.xzvfyowf.com
 .xzwdo.top
 .xzwk.hk
 .y-track.com
@@ -58151,6 +58183,7 @@ visit.webhosting.yahoo.com
 .ztsrv.com
 .ztvzfq.com
 .ztwf8lr.cn
+.ztwrnpd.cn
 .ztxstudy.club
 .zu3f.top
 .zu9g.icu
@@ -66767,7 +66800,6 @@ visit.webhosting.yahoo.com
 .party-nngvitbizn.now.sh
 .pasaigul.com
 .pasco.cc
-.pass.1688.com
 .pass1.soogif.com
 .pass2.soogif.com
 .passport-log.youku.com
@@ -84467,7 +84499,6 @@ visit.webhosting.yahoo.com
 .logger.foxitcloud.com
 .loggerbunty.com
 .logging.fishsticksgames.com
-.loggly.com
 .logic.anzuinfra.com
 .login.admozartppc.com
 .login.adright.com
@@ -84485,6 +84516,7 @@ visit.webhosting.yahoo.com
 .logitepic.com
 .logoduoduo.com
 .logrp.hpplay.cn
+.logs-01.loggly.com
 .logs.81plug.com
 .logs.cnfol.com
 .logs.datadoghq.com

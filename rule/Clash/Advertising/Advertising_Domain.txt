@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-14 02:07:42
+# UPDATED: 2023-01-14 18:26:48
 # DOMAIN: 14651
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 77218
+# DOMAIN-SUFFIX: 77236
 # IP-CIDR: 238
-# TOTAL: 92183
+# TOTAL: 92201
 ad.xy2013.cn
 ads.play.cbsi.video
 ads.reembed.com
@@ -14848,6 +14848,7 @@ opencloud.wostore.cn
 .1111supjavcom.xyz
 .1118cctv.ltd
 .111supjav.xyz
+.1134555.com
 .1138555.com
 .113aa22d76.com
 .1158555.com
@@ -15398,6 +15399,7 @@ opencloud.wostore.cn
 .3711c45955.com
 .3761fcd24ef9281f5.com
 .377zt.cn
+.37tek.fun
 .380.tw
 .387635.com
 .396f4a512a.com
@@ -16029,6 +16031,7 @@ opencloud.wostore.cn
 .77nnv9.xyz
 .77tel.com
 .77tracking.com
+.78dfvv.com
 .78dx8t.com
 .79181531227.com
 .799f57f5cc.com
@@ -19840,7 +19843,6 @@ opencloud.wostore.cn
 .affiliate.astraweb.com
 .affiliate.baazee.com
 .affiliate.chiaki.vn
-.affiliate.doubleyourdating.com
 .affiliate.dtiserv.com
 .affiliate.exabytes.com.my
 .affiliate.gameladen.com
@@ -24534,6 +24536,7 @@ opencloud.wostore.cn
 .bptracking.com
 .bptxcg.xyz
 .bpu.samsungelectronics.com
+.bqg16.cc
 .bqg99.cc
 .bqge.xyz
 .bqgw.xyz
@@ -27079,6 +27082,7 @@ opencloud.wostore.cn
 .collect.media.jio.com
 .collect.nature.com
 .collect.ovp.vn
+.collect.rtl.lu
 .collect.sas.com
 .collect.serious.li
 .collect2.sas.com
@@ -31111,6 +31115,7 @@ opencloud.wostore.cn
 .ebuzzing.com
 .ebuzzing.it
 .ebz.io
+.ebzqyow.cn
 .ec-concier.com
 .ec-optimizer.com
 .ec-track.com
@@ -32590,6 +32595,7 @@ opencloud.wostore.cn
 .fanghuzhao.co
 .fangirlmag.com
 .fangshan.us
+.fangyaomin.site
 .fangzhixinxi.cn
 .fanjin.name
 .fanniemae.fr
@@ -34970,6 +34976,7 @@ opencloud.wostore.cn
 .gopejk.com
 .gophykopta.com
 .gopjn.com
+.goplayhere.com
 .goplayz.com
 .goprediction.com
 .goralogsizers.store
@@ -36671,6 +36678,7 @@ opencloud.wostore.cn
 .huaerdadi.com
 .huahuagoudc.com
 .huahuaxiji.love
+.hualu.live
 .huang-biao.com
 .huanleshijie.top
 .huasheng.love
@@ -38232,6 +38240,7 @@ opencloud.wostore.cn
 .ittorchicer.com
 .ittoxicroakon.club
 .ituoniao.co
+.ituxzez.cn
 .itwasbrghttohi.com.ua
 .itweedler.com
 .itweepinbelltor.com
@@ -38547,6 +38556,7 @@ opencloud.wostore.cn
 .jfduv7.com
 .jfecfzzuwevyqc.com
 .jfhoq.com
+.jfmfmgj.cn
 .jfsldq.top
 .jfzbgzv.cn
 .jg.wensixuetang.com
@@ -39373,6 +39383,7 @@ opencloud.wostore.cn
 .keypush.net
 .keyrolan.com
 .keyrunmodel.com
+.keysmw.xyz
 .keyti.ru
 .keytiles.com
 .keytrack.de
@@ -41007,6 +41018,7 @@ opencloud.wostore.cn
 .lktxelg.cn
 .lkvyfnuaten.com
 .ll.k743.com
+.llanalytics.com
 .llantynethebrav.xyz
 .llentmatchw.xyz
 .llevenmanis.xyz
@@ -42312,6 +42324,7 @@ opencloud.wostore.cn
 .mb57.com
 .mbazhaheix.top
 .mbctxigml.com
+.mbepa.xyz
 .mbi3.kuicr.kyoto-u.ac.jp
 .mbledeparatea.com
 .mblink.in
@@ -49887,6 +49900,7 @@ opencloud.wostore.cn
 .quxiangkeji.cn
 .qvbwras.cn
 .qvcwklhelpk.xyz
+.qvfkiwf.cn
 .qvi0.ru
 .qvorcqfon.com
 .qvpublish.com
@@ -51484,6 +51498,7 @@ opencloud.wostore.cn
 .rtb.mts.ru
 .rtb.softcube.com
 .rtb.trade
+.rtb.wedeo.ru
 .rtb123.com
 .rtb1bid.com
 .rtbadzesto.com
@@ -51762,6 +51777,7 @@ opencloud.wostore.cn
 .s.ppjol.net
 .s.remonti.org
 .s.sdx.ru
+.s.sofoot.com
 .s.soha.vn
 .s.tuoitre.vn
 .s.update.fbsbx.com
@@ -58196,6 +58212,7 @@ opencloud.wostore.cn
 .tydouke.com
 .tyessulfone.com
 .tygotwakinrollet.xyz
+.tygsqtkyiwxb.com
 .tyh887.com
 .tyhpksuvshiiwo.xyz
 .tyingatmosphericprocess.com
@@ -62653,6 +62670,7 @@ opencloud.wostore.cn
 .xzhcedu.cn
 .xzl200107151017.ltd
 .xzvfd.xyz
+.xzvfyowf.com
 .xzwdo.top
 .xzwk.hk
 .y-track.com
@@ -63895,6 +63913,7 @@ opencloud.wostore.cn
 .ztsrv.com
 .ztvzfq.com
 .ztwf8lr.cn
+.ztwrnpd.cn
 .ztxstudy.club
 .zu3f.top
 .zu9g.icu
@@ -72853,7 +72872,6 @@ opencloud.wostore.cn
 .party-nngvitbizn.now.sh
 .pasaigul.com
 .pasco.cc
-.pass.1688.com
 .pass1.soogif.com
 .pass2.soogif.com
 .passport-log.youku.com
