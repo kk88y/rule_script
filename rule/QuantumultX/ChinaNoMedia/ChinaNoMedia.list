@@ -1,14 +1,14 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-09 02:11:26
+# UPDATED: 2023-01-16 02:12:43
 # HOST: 18
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 3448
+# HOST-SUFFIX: 3450
 # IP-CIDR: 10
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 3520
+# TOTAL: 3522
 HOST,analytics.strava.com,ChinaNoMedia
 HOST,blzddist1-a.akamaihd.net,ChinaNoMedia
 HOST,cdn.angruo.com,ChinaNoMedia
@@ -65,6 +65,7 @@ HOST-SUFFIX,163industry.com,ChinaNoMedia
 HOST-SUFFIX,163mail.com,ChinaNoMedia
 HOST-SUFFIX,163qiyukf.com,ChinaNoMedia
 HOST-SUFFIX,163yun.com,ChinaNoMedia
+HOST-SUFFIX,166.com,ChinaNoMedia
 HOST-SUFFIX,166.net,ChinaNoMedia
 HOST-SUFFIX,1688.com,ChinaNoMedia
 HOST-SUFFIX,16888.com,ChinaNoMedia
@@ -3437,6 +3438,7 @@ HOST-SUFFIX,zhuancorp.com,ChinaNoMedia
 HOST-SUFFIX,zhuangjiba.com,ChinaNoMedia
 HOST-SUFFIX,zhuanspirit.com,ChinaNoMedia
 HOST-SUFFIX,zhuanyewanjia.com,ChinaNoMedia
+HOST-SUFFIX,zhuanzfx.com,ChinaNoMedia
 HOST-SUFFIX,zhuanzhuan.com,ChinaNoMedia
 HOST-SUFFIX,zhuayoukong.com,ChinaNoMedia
 HOST-SUFFIX,zhubajie.com,ChinaNoMedia
