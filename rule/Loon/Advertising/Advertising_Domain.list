@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-16 02:07:40
+# UPDATED: 2023-01-17 02:07:16
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 14650
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 77314
+# DOMAIN-SUFFIX: 77343
 # IP-CIDR: 238
 # URL-REGEX: 285
-# TOTAL: 92563
+# TOTAL: 92592
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -19337,6 +19337,7 @@ zzxosget.com
 .academy-internet.net
 .academyenrage.com
 .acales.ru
+.acalraiz.xyz
 .acaog.com
 .acaox.com
 .acaoz.com
@@ -23749,6 +23750,7 @@ zzxosget.com
 .affpros.net
 .affrh2023.com
 .affsnetwork.com
+.affsuhgiyd.com
 .afftrack.com
 .afftrack.pro
 .afftrack001.com
@@ -28431,6 +28433,7 @@ zzxosget.com
 .batesafraidacquit.com
 .batespecializecoal.com
 .batheattendancewreck.com
+.batheunits.com
 .bathibsa.com
 .batiao20221209.xyz
 .batmenmessily.website
@@ -35897,6 +35900,7 @@ zzxosget.com
 .cxd-ailegou.com
 .cxdcn9c.fjshxjs.cn
 .cxense.com
+.cxfteuryfjdg.com
 .cxfzw.cn
 .cxgfq.pinlue.com
 .cxiwn.xyz
@@ -36746,6 +36750,7 @@ zzxosget.com
 .d576de5d7d.com
 .d58zz.com
 .d5a5a.xyz
+.d5d3sg85gu7o6.cloudfront.net
 .d5df191530.com
 .d5etv3akk3gsa.cloudfront.net
 .d5g0nxmbdku6r.cloudfront.net
@@ -38056,6 +38061,7 @@ zzxosget.com
 .dgaoz.com
 .dgbaozhuang.cn
 .dgcollector.evidon.com
+.dgemanowhot.com.ua
 .dgemwx.whiteteak.com
 .dgfggy.com
 .dggaenaawxe8z.cloudfront.net
@@ -38964,6 +38970,7 @@ zzxosget.com
 .dodomo.info
 .dodouhoa.com
 .dodurantom.com
+.doeisjyhqtqsy.com
 .doerscharre.com
 .doesok.top
 .doffingiceboat.com
@@ -42855,6 +42862,7 @@ zzxosget.com
 .februarynip.com
 .fecjf.cn
 .fed21ff011.com
+.federalcertainty.com
 .fedethezo.pro
 .fedlugk.cn
 .fedrocou.net
@@ -43733,6 +43741,7 @@ zzxosget.com
 .fourier.taobao.com
 .fourmtagservices.appspot.com
 .fourtuneo.fr
+.fourwhenstatistics.com
 .fout.jp
 .foutuneo.fr
 .fovs.qkvipgloy.xyz
@@ -44104,6 +44113,7 @@ zzxosget.com
 .ftzets.silkfred.com
 .fu.golikeus.net
 .fu68.com
+.fublkelpi.com
 .fubsoucm.com
 .fuckthat.xyz
 .fucnm.com
@@ -44206,6 +44216,7 @@ zzxosget.com
 .fusion.sydsvenskan.se
 .fusionads.net
 .fusionquest.com
+.fusionwishful.com
 .fusoidactuate.com
 .futengbao.com.cn
 .futiledrugstore.com
@@ -50102,6 +50113,7 @@ zzxosget.com
 .inkscape.es
 .inkscape.fr
 .inktad.com
+.inkuae.com
 .inlinefascia.com
 .inlinks.de
 .inlive.link
@@ -51074,6 +51086,7 @@ zzxosget.com
 .janrain.xyz
 .janufa.com
 .jaomlf.giftmall.co.jp
+.japact.com
 .japanbros.com
 .japanhotties.jp
 .japersuncials.com
@@ -51786,6 +51799,7 @@ zzxosget.com
 .jqcgyjwidktu.xyz
 .jqdldk.cn
 .jqdnvg.com
+.jqeyvtgelo.com
 .jqk2me2mzf.ru
 .jqk72ugyl2pz.com
 .jqmt.qq.com
@@ -54069,6 +54083,7 @@ zzxosget.com
 .leiwo.xyz
 .leixigroup.com
 .lejlb.com
+.lejlchnxlrsdfev.com
 .lejso.com
 .leju.sina.com.cn
 .leket.fr
@@ -61941,6 +61956,7 @@ zzxosget.com
 .oal2.destinia.co.uk
 .oalsauwy.net
 .oalselry.com
+.oalsoagn.com
 .oamoatch.com
 .oamsrhads.us.publicus.com
 .oamtorsa.net
@@ -62692,6 +62708,7 @@ zzxosget.com
 .onakasulback.autos
 .onalentressionw.info
 .onalskillsexkc.com
+.onandeggsiswe.com.ua
 .onapp.haravan.com
 .onastydrum.com
 .onaudience.com
@@ -63531,6 +63548,7 @@ zzxosget.com
 .owlunimmvn.com
 .own-eu-cloud.com
 .ownadne.ru
+.owncdrfpv.com
 .owncutone.com
 .owndata.network
 .ownerfacinglung.com
@@ -64725,6 +64743,7 @@ zzxosget.com
 .phaurtuh.net
 .phca85g3n400.com
 .phcoal.com
+.phdwxsui.xyz
 .pheasantcardboardcohort.com
 .pheasantgobetweenyearbook.com
 .phee1oci.com
@@ -68243,6 +68262,7 @@ zzxosget.com
 .raglogripsa.com
 .raicabuy.net
 .raidnarcotic.com
+.raiglihi.net
 .raigluce.net
 .raigns.com
 .railroadfatherenlargement.com
@@ -69895,6 +69915,8 @@ zzxosget.com
 .roosterfirework.com
 .rootbuzz.com
 .ropeanres.com
+.ropemoon.com
+.roqmerdeuro.com
 .roredi.com
 .rorer.ru
 .rorgoops.com
@@ -71799,6 +71821,7 @@ zzxosget.com
 .secretspiders.com
 .secretturtle.com
 .secrud.com
+.secruz.com
 .secserv.adtech.fr
 .secserv.adtech.us
 .sectordisturb.com
@@ -79785,6 +79808,7 @@ zzxosget.com
 .thitsiryke.live
 .thizamocu.pro
 .thj.astrakhan.ru
+.thkxtvklfdeget.com
 .thli43.cn
 .thnqemehtyfe.com
 .thoaltie.net
@@ -87048,6 +87072,7 @@ zzxosget.com
 .whoutsog.net
 .whouvike.com
 .whowhipi.net
+.whpqvmaxr.xyz
 .whpxy.com
 .whqxj.xyz
 .whrc.xyz
@@ -89114,6 +89139,7 @@ zzxosget.com
 .xdcqcyp.com
 .xdcs-collector.ximalaya.com
 .xddfsp.com
+.xddsuxmfvi.com
 .xdeqhxqu.com
 .xdgeph.ru
 .xdh0808.com
@@ -90180,6 +90206,7 @@ zzxosget.com
 .yhkt.online
 .yhp4an7.cn
 .yhpknxzspo8a.kvest.ee
+.yhsfsdv03.com
 .yhsmk.com
 .yhtcd.com
 .yhti.net
@@ -90449,6 +90476,7 @@ zzxosget.com
 .yodr.net
 .yofdifferents.biz
 .yofoto.ltd
+.yogacomplyfuel.com
 .yogamagazine.fr
 .yogar2ti8nf09.com
 .yogawrite.com
@@ -91949,6 +91977,7 @@ zzxosget.com
 .zzmmkj.com
 .zzmtfz.com
 .zzngisyq.xyz
+.zzoluickymwz.com
 .zzpush.58.com
 .zzpwwbf.cn
 .zzpzero.com

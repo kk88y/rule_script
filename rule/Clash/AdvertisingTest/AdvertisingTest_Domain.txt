@@ -1,15 +1,16 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-16 02:08:35
-# DOMAIN: 9954
+# UPDATED: 2023-01-17 02:08:03
+# DOMAIN: 9975
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 100835
+# DOMAIN-SUFFIX: 100863
 # IP-CIDR: 239
-# TOTAL: 111292
+# TOTAL: 111341
 3p-geo.yahoo.com
 3p-udc.yahoo.com
 46186911.vtt
+6db7837ac4.com
 80055404.vtt
 aab-proxy.tld
 absurdapple.com
@@ -19,6 +20,7 @@ ads.yahoo.com
 ads.youtube.com
 adsdk.yandex.ru
 an.yandex.ru
+andoldifiscqa.com.ua
 anxiousapples.com
 api.sec.miui.com
 app.ssp.yahoo.com
@@ -26,11 +28,13 @@ appboy-images.com
 apple.www.letv.com
 applesometimes.com
 applets.ebxcdn.com
+aqtcw.cn
 awaps.yandex.ru
 awsync.yandex.ru
 bats.video.yahoo.com
 beacon.search.yahoo.com
 beap-bc.yahoo.com
+big-loads.com
 blueduckredapple.com
 bs.yandex.ru
 collector2c.zhihuishu.com
@@ -38,37 +42,53 @@ cookiex.ngd.yahoo.com
 crypta.js
 d1stxfv94hrhia.cloudfront
 dmg-dd.oss-accelerate.aliyuncs.com
+doracms.cn
 februaryreductionapplet.com
 fpb1.apple886.com
 ganon.yahoo.com
 geo.yahoo.com
+gvqrclx.cn
 iadsdk.apple.com
 ib.snssdk.com
 informer.yandex.ru
 jill.fc.yahoo.com
 jpaasne.e.shifen.com
 log.strm.yandex.ru
+lwpxhr.xyz
 marketingsolutions.yahoo.com
+mbqwwa.cn
 mc.yandex.ru
 mediaappletree.com
 meitaolianmeng.ltd
 mm.n3w1d0ma1n
 mo.vlpyj.xy
+neaqi.top
+nissifresh.com
 nol.yahoo.com
+pic123.top
 pr.comet.yahoo.com
 pv.sohu.com
+qanduan.com
+qj399htl.de
 rrf.fat1domain1
 shackapple.com
+siuscs.xyz
 stats.video.search.yahoo.com
 sub.powerapple.com
 sugar.zhihu.com
 supportmetrics.apple.com
 test.vast
 theapple.site
+trk.lightdatahouse.com
+tuape.xyz
 visit.webhosting.yahoo.com
+wixorqoqmq.com
 wondefulapplend.com
 wzjs1.oss-accelerate.aliyuncs.com
+xhjxkgc.cn
+yieldtrk.com
 youtube.local
+zurwtuvt.com
 ad.xy2013.cn
 ads.play.cbsi.video
 api.cupid.dns.iqiyi.com
@@ -9961,6 +9981,7 @@ securemetrics.experience.apple
 securemvt.apple.com
 securemvt.apple.com.cn
 ssp.rambler.ru
+stats.sandberg.world
 .0-000.store
 .0.code.cotsta.ru
 .0001.best
@@ -12056,6 +12077,7 @@ ssp.rambler.ru
 .academy-internet.net
 .academyenrage.com
 .acales.ru
+.acalraiz.xyz
 .acareewitu.com
 .acaupail.net
 .acc-hd.de
@@ -15191,6 +15213,7 @@ ssp.rambler.ru
 .affpros.net
 .affrh2023.com
 .affsnetwork.com
+.affsuhgiyd.com
 .afftrack.com
 .afftrack.pro
 .afftrack001.com
@@ -18099,6 +18122,7 @@ ssp.rambler.ru
 .batesafraidacquit.com
 .batespecializecoal.com
 .batheattendancewreck.com
+.batheunits.com
 .batiao20221209.xyz
 .batmenmessily.website
 .batmobile.com.tw
@@ -23121,6 +23145,7 @@ ssp.rambler.ru
 .cxbge.xyz
 .cxdcn9c.fjshxjs.cn
 .cxense.com
+.cxfteuryfjdg.com
 .cxgfq.pinlue.com
 .cxiwn.xyz
 .cxjrsb.com
@@ -23854,6 +23879,7 @@ ssp.rambler.ru
 .d4q8zgf756.com
 .d576de5d7d.com
 .d58zz.com
+.d5d3sg85gu7o6.cloudfront.net
 .d5df191530.com
 .d5etv3akk3gsa.cloudfront.net
 .d5g0nxmbdku6r.cloudfront.net
@@ -24635,6 +24661,7 @@ ssp.rambler.ru
 .dfwskw7.com
 .dfyouolsdq.com
 .dgbaozhuang.cn
+.dgemanowhot.com.ua
 .dggaenaawxe8z.cloudfront.net
 .dgm2.com
 .dgmaplain.club
@@ -25177,6 +25204,7 @@ ssp.rambler.ru
 .dodolive.cn
 .dodouhoa.com
 .dodurantom.com
+.doeisjyhqtqsy.com
 .doerscharre.com
 .doesok.top
 .doffingiceboat.com
@@ -27611,6 +27639,7 @@ ssp.rambler.ru
 .featurespossessed.com
 .featurewinning.life
 .februarynip.com
+.federalcertainty.com
 .fedethezo.pro
 .fedlugk.cn
 .fedrocou.net
@@ -28273,6 +28302,7 @@ ssp.rambler.ru
 .fouoh.com
 .fouptebu.net
 .fourtuneo.fr
+.fourwhenstatistics.com
 .fout.jp
 .foutuneo.fr
 .fovs.qkvipgloy.xyz
@@ -28547,6 +28577,7 @@ ssp.rambler.ru
 .ftylpm.com
 .ftz.io
 .fu.golikeus.net
+.fublkelpi.com
 .fubsoucm.com
 .fuckthat.xyz
 .fudeidsoanadthe.info
@@ -28612,6 +28643,7 @@ ssp.rambler.ru
 .fusion.sydsvenskan.se
 .fusionads.net
 .fusionquest.com
+.fusionwishful.com
 .fusoidactuate.com
 .futiledrugstore.com
 .futilereposerefreshments.com
@@ -32476,6 +32508,7 @@ ssp.rambler.ru
 .inkscape.es
 .inkscape.fr
 .inktad.com
+.inkuae.com
 .inlinefascia.com
 .inlinks.de
 .inlive.link
@@ -33183,6 +33216,7 @@ ssp.rambler.ru
 .janitoraccrue.com
 .janrain.xyz
 .janufa.com
+.japact.com
 .japanbros.com
 .japanhotties.jp
 .japersuncials.com
@@ -33628,6 +33662,7 @@ ssp.rambler.ru
 .jqcgyjwidktu.xyz
 .jqdldk.cn
 .jqdnvg.com
+.jqeyvtgelo.com
 .jqk2me2mzf.ru
 .jqnggnsa.fun
 .jqtzw.xyz
@@ -35257,6 +35292,7 @@ ssp.rambler.ru
 .leiwo.xyz
 .leixigroup.com
 .lejlb.com
+.lejlchnxlrsdfev.com
 .lejso.com
 .leket.fr
 .leklicht.net
@@ -40192,6 +40228,7 @@ ssp.rambler.ru
 .oaksafta.com
 .oalsauwy.net
 .oalselry.com
+.oalsoagn.com
 .oamoatch.com
 .oamsrhads.us.publicus.com
 .oamtorsa.net
@@ -40741,6 +40778,7 @@ ssp.rambler.ru
 .onads.com
 .onakasulback.autos
 .onalskillsexkc.com
+.onandeggsiswe.com.ua
 .onapp.haravan.com
 .onastydrum.com
 .onaudience.com
@@ -41398,6 +41436,7 @@ ssp.rambler.ru
 .owlunimmvn.com
 .own-eu-cloud.com
 .ownadne.ru
+.owncdrfpv.com
 .owncutone.com
 .owndata.network
 .ownerfacinglung.com
@@ -42250,6 +42289,7 @@ ssp.rambler.ru
 .phaurtuh.net
 .phca85g3n400.com
 .phcoal.com
+.phdwxsui.xyz
 .pheasantcardboardcohort.com
 .pheasantgobetweenyearbook.com
 .phee1oci.com
@@ -44709,6 +44749,7 @@ ssp.rambler.ru
 .raglogripsa.com
 .raicabuy.net
 .raidnarcotic.com
+.raiglihi.net
 .raigluce.net
 .raigns.com
 .railroadfatherenlargement.com
@@ -46019,6 +46060,8 @@ ssp.rambler.ru
 .roosterfirework.com
 .rootbuzz.com
 .ropeanres.com
+.ropemoon.com
+.roqmerdeuro.com
 .rorer.ru
 .rorgoops.com
 .rorlsblm.cyou
@@ -47009,6 +47052,7 @@ ssp.rambler.ru
 .secretgirlfriend.net
 .secretosdelagua.fr
 .secrud.com
+.secruz.com
 .secserv.adtech.fr
 .secserv.adtech.us
 .sectordisturb.com
@@ -50952,6 +50996,7 @@ ssp.rambler.ru
 .thitsiryke.live
 .thizamocu.pro
 .thj.astrakhan.ru
+.thkxtvklfdeget.com
 .thnqemehtyfe.com
 .thoaltie.net
 .thoamike.xyz
@@ -55242,6 +55287,7 @@ ssp.rambler.ru
 .whoutsog.net
 .whouvike.com
 .whowhipi.net
+.whpqvmaxr.xyz
 .whqxj.xyz
 .whrc.xyz
 .whs82908.com
@@ -56516,6 +56562,7 @@ ssp.rambler.ru
 .xd4a.top
 .xdaigua.cn
 .xddfsp.com
+.xddsuxmfvi.com
 .xdeqhxqu.com
 .xdgeph.ru
 .xdh0808.com
@@ -57196,6 +57243,7 @@ ssp.rambler.ru
 .yhkiain.cn
 .yhkt.online
 .yhp4an7.cn
+.yhsfsdv03.com
 .yhti.net
 .yhz18.com
 .yhzm.xyz
@@ -57349,6 +57397,7 @@ ssp.rambler.ru
 .yoc.com
 .yodr.net
 .yofdifferents.biz
+.yogacomplyfuel.com
 .yogamagazine.fr
 .yogar2ti8nf09.com
 .yogawrite.com
@@ -58330,6 +58379,7 @@ ssp.rambler.ru
 .zzhengre.com
 .zzkj.biz
 .zzngisyq.xyz
+.zzoluickymwz.com
 .zzpwwbf.cn
 .zzpzero.com
 .zzwzsic.cn
@@ -72810,7 +72860,6 @@ ssp.rambler.ru
 .affilo.vivaboty.cz
 .affilpartner.descanti.com
 .affluencepaymentlandscape.com
-.affsuhgiyd.com
 .afftrack.healthprimeplus.net
 .afgfjdivrf.com
 .afgjbleiuoqt.com
@@ -78613,6 +78662,7 @@ ssp.rambler.ru
 .datingadnetwork.com
 .datingamateurs.com
 .datingcensored.com
+.datinggoodtaste.life
 .datingidol.com
 .datingshall.life
 .datingtorrid.top
@@ -83519,7 +83569,6 @@ ssp.rambler.ru
 .jqcdn01.herokuapp.com
 .jqcdn03.herokuapp.com
 .jqcdn2.herokuapp.com
-.jqeyvtgelo.com
 .jqki.cn
 .jqr-cdn.download
 .jqsrmm.sousou.co.jp

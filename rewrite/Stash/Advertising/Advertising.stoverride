@@ -1,11 +1,11 @@
 name: 复写去广告
-desc: 最后更新时间 2023-01-14 02:14:40
+desc: 最后更新时间 2023-01-17 02:12:47
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 537
-# mitm: 494
+# reject: 536
+# mitm: 493
 # force-http-engine-hosts: 6
-# total: 1037
+# total: 1035
 
 
 
@@ -271,7 +271,6 @@ http:
     - ^https?:\/\/foodie-api\.yiruikecorp\.com\/v\d\/(banner|notice)\/overview - reject
     - ^https?:\/\/fuss10\.elemecdn\.com\/.+?\.mp4 - reject
     - ^https?:\/\/fuss10\.elemecdn\.com\/.+?\/w\/640\/h\/\d{3,4} - reject
-    - ^https?:\/\/g\.alicdn\.com\/living\/mesh-std-spec - reject
     - ^https?:\/\/g\.cdn\.pengpengla\.com\/starfantuan\/boot-screen-info\/ - reject
     - ^https?:\/\/gab\.122\.gov\.cn\/eapp\/m\/sysquery - reject
     - ^https?:\/\/games\.mobileapi\.hupu\.com\/.+?\/(interfaceAdMonitor|interfaceAd)\/ - reject
@@ -802,7 +801,6 @@ http:
     - "flowplus.meituan.net"
     - "foodie-api.yiruikecorp.com"
     - "fuss10.elemecdn.com"
-    - "g.alicdn.com"
     - "g.cdn.pengpengla.com"
     - "gab.122.gov.cn"
     - "games.mobileapi.hupu.com"
