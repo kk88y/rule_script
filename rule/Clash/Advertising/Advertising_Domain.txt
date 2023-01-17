@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-17 02:07:17
-# DOMAIN: 14650
+# UPDATED: 2023-01-18 02:07:35
+# DOMAIN: 14649
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 77343
+# DOMAIN-SUFFIX: 77387
 # IP-CIDR: 238
-# TOTAL: 92307
+# TOTAL: 92350
 ad.xy2013.cn
 ads.play.cbsi.video
 ads.reembed.com
@@ -902,7 +902,6 @@ adlog.vivo.com.cn
 adm668.com
 admartzone.com
 admeira.ch
-admitad.com
 admngronline.com
 admother.com
 adnanny.com
@@ -15397,6 +15396,7 @@ opencloud.wostore.cn
 .36dfsa.com
 .36yoo.net
 .3711c45955.com
+.375772rug.com
 .3761fcd24ef9281f5.com
 .377zt.cn
 .37tek.fun
@@ -15947,6 +15947,7 @@ opencloud.wostore.cn
 .6c25910c97.com
 .6c5xnntfvi.com
 .6d79qh7j.com
+.6db7837ac4.com
 .6dd4a8313e.com
 .6dkl1vb.site
 .6e3ee87ff2.com
@@ -17035,7 +17036,6 @@ opencloud.wostore.cn
 .ad.accesstrade.vn
 .ad.aceplanet.co.kr
 .ad.activetk.cf
-.ad.admitad.com
 .ad.allboxing.ru
 .ad.altervista.org
 .ad.angel-live.com
@@ -17935,6 +17935,7 @@ opencloud.wostore.cn
 .admiredexpansioncollege.com
 .admission.net
 .admitad-connect.com
+.admitad.com
 .admitlead.ru
 .admittedfaults.com
 .admix.in
@@ -21062,6 +21063,7 @@ opencloud.wostore.cn
 .andinterpers.com
 .andmlb.kshwtj.com
 .andohs.net
+.andoldifiscqa.com.ua
 .andomedia.com
 .andomediagroup.com
 .andorapx.com
@@ -21221,6 +21223,7 @@ opencloud.wostore.cn
 .antiterroristqueenjolly.com
 .antivi.xyz
 .antivirus-scanner.com
+.antivirushub.co
 .antivirussprotection.com
 .antoinettepoisson.fr
 .antpeelpiston.com
@@ -21569,6 +21572,7 @@ opencloud.wostore.cn
 .aq.prices25.com
 .aq7ua5ma85rddeinve.com
 .aqc.gucheng.com
+.aqcutwom.xyz
 .aqfwigotem.xyz
 .aqi.wd.amberweather.com
 .aqiwxzv.cn
@@ -21579,6 +21583,7 @@ opencloud.wostore.cn
 .aqntswfhpxwlifl.top
 .aqpogwawr.com
 .aqsj.xyz
+.aqtcw.cn
 .aqtracker.com
 .aquabibchawed.website
 .aquaplatform.com
@@ -22454,6 +22459,7 @@ opencloud.wostore.cn
 .ayads.co
 .ayahucapasso.website
 .ayandns.com
+.ayanpleasea.com.ua
 .ayassociallya.xyz
 .aybe.me
 .ayboll.com
@@ -23835,6 +23841,7 @@ opencloud.wostore.cn
 .bifjicdigchgihajabb.ru
 .big-bang-ads.com
 .big-hunter.com
+.big-loads.com
 .big6q4y2oy.ru
 .bigads.guj.de
 .bigappboi.com
@@ -24388,6 +24395,7 @@ opencloud.wostore.cn
 .bolssc.com
 .bom-soft.com.cn
 .bombeers.ru
+.bomboms.xyz
 .bonad.io
 .bondagecoexist.com
 .bondfondif.com
@@ -26276,6 +26284,7 @@ opencloud.wostore.cn
 .chrliehebdo.fr
 .chronicads.com
 .chrumedia.com
+.chsfdfkwsrjwe.xyz
 .chslwea.top
 .chsrkred.com
 .chtntr.com
@@ -28417,6 +28426,7 @@ opencloud.wostore.cn
 .d1af033869koo7.cloudfront.net
 .d1af165twk0zgn.cloudfront.net
 .d1aqvw7cn4ydzo.cloudfront.net
+.d1az618or4kzj8.cloudfront.net
 .d1aznprfp4xena.cloudfront.net
 .d1b0fk9ns6n0w9.cloudfront.net
 .d1b240xv9h0q8y.cloudfront.net
@@ -30434,6 +30444,7 @@ opencloud.wostore.cn
 .dopingdiallyl.com
 .dopor.info
 .doptik.ru
+.doracms.cn
 .dorbanise.pw
 .doremi.ink
 .dorful.com
@@ -34048,6 +34059,7 @@ opencloud.wostore.cn
 .garnetsnails.com
 .garotas.info
 .garouspostern.com
+.garretcanvasseruption.com
 .garysero.xyz
 .gasasthe.freehostia.com
 .gashewasf.xyz
@@ -34909,6 +34921,7 @@ opencloud.wostore.cn
 .goingtoothachemagician.com
 .goingup.com
 .gointhe.space
+.gokedoas.xyz
 .gold-mir.com
 .gold-wm.ru
 .gold.ibiza-court.com
@@ -35293,6 +35306,7 @@ opencloud.wostore.cn
 .growingfailure.pro
 .grown-inpp-code.com
 .grown-t-code.com
+.growngame.life
 .growstart.net
 .growthrx.in
 .grozeesh.com
@@ -35454,6 +35468,7 @@ opencloud.wostore.cn
 .gvfror.com
 .gvhmoascwa.xyz
 .gvisit.com
+.gvqrclx.cn
 .gvt2.com
 .gwaaz.cn
 .gwallet.com
@@ -36472,6 +36487,7 @@ opencloud.wostore.cn
 .horsebackcastle.com
 .horsenectar.com
 .horsered.com
+.horseuptown.com
 .hortestoz.com
 .hortitedigress.com
 .horyzon-media.com
@@ -36643,6 +36659,7 @@ opencloud.wostore.cn
 .hrrbc.top
 .hrsaeecwvkg.com
 .hrscompetepickles.com
+.hrscouchoutbreak.com
 .hrtennaarn.com
 .hrtya.com
 .hrtyc.com
@@ -36822,6 +36839,7 @@ opencloud.wostore.cn
 .huoyun.site
 .hupneyv.cn
 .huppahshoras.com
+.hurced.com
 .hurdlesmuchel.com
 .hurdleyreer.info
 .huronews.com
@@ -39531,6 +39549,7 @@ opencloud.wostore.cn
 .kinotraff.ru
 .kinott.com
 .kinott.ru
+.kinqibpwun.com
 .kinripen.com
 .kinsecutiony.club
 .kinsmenmislies.com
@@ -40168,6 +40187,7 @@ opencloud.wostore.cn
 .lambda.center
 .lamberserer.club
 .lambingsyddir.com
+.lambu.info
 .lamburnsay.live
 .lame7bsqu8barters.com
 .lameletters.com
@@ -41752,6 +41772,7 @@ opencloud.wostore.cn
 .lwobol.cloud
 .lwogldl.top
 .lwppiglets.website
+.lwpxhr.xyz
 .lwtlock.cn
 .lwxqaq.club
 .lx2rv.com
@@ -42382,6 +42403,7 @@ opencloud.wostore.cn
 .mbn.com.ua
 .mbnot.com
 .mbotvisit.com
+.mbqwwa.cn
 .mbs.megaroticlive.com
 .mbsy.co
 .mbt.deeterno.cn
@@ -44493,6 +44515,7 @@ opencloud.wostore.cn
 .neads.delivery
 .neadwnhhis.xyz
 .neague.com
+.neaqi.top
 .nearbyad.com
 .nearbyforcedirty.com
 .nearestaxe.com
@@ -44956,6 +44979,7 @@ opencloud.wostore.cn
 .nirisrutin.store
 .nisafnic.space
 .nisihu.com.cn
+.nissifresh.com
 .nitheemp.net
 .nitmus.com
 .nitridsplurel.com
@@ -46607,6 +46631,7 @@ opencloud.wostore.cn
 .ourdadaikri.com
 .ourdailystories.com
 .oureh.xyz
+.ourgoldpiece.com.ua
 .ourgoldpiece.xyz
 .ourhotfeed.com
 .ourhypewords.com
@@ -47761,6 +47786,7 @@ opencloud.wostore.cn
 .piasterpoleyns.com
 .pic.baihuawen.cn
 .pic1.dianshu119.com
+.pic123.top
 .picadmedia.com
 .picalchymic.uno
 .picbucks.com
@@ -47974,6 +48000,7 @@ opencloud.wostore.cn
 .plaintfarrel.com
 .plainwrk.name
 .planearconsultoria.com.br
+.planesknob.com
 .planet-news.ru
 .planetactive.com
 .planetapozitiva.ru
@@ -49563,6 +49590,7 @@ opencloud.wostore.cn
 .qakdki.com
 .qamwm5o8dlgijte.com
 .qanatn.com
+.qanduan.com
 .qaolyke.cn
 .qapsmny.cyou
 .qarewien.com
@@ -49612,6 +49640,7 @@ opencloud.wostore.cn
 .qcyunnan.cn
 .qczj.xyz
 .qd3zn.xyz
+.qdagihwi.xyz
 .qdatasales.com
 .qdb6gd3nth.ru
 .qdbh.store
@@ -49724,6 +49753,7 @@ opencloud.wostore.cn
 .qiyijiazhuangshi.com
 .qiyu.shop
 .qizjkwx9klim.com
+.qj399htl.de
 .qj86.cn
 .qjfokdzhkyjf.com
 .qjing39.top
@@ -51520,6 +51550,7 @@ opencloud.wostore.cn
 .rrf.fat1domain1
 .rriedstronugos.xyz
 .rrimpl.com
+.rrkgjtdn.com
 .rrkky.top
 .rrll.love
 .rrolawcats2bsl4b.in.net
@@ -52306,6 +52337,7 @@ opencloud.wostore.cn
 .scswlgxttvekd.com
 .scswuliu.com
 .sctwny.com
+.scubaenterdane.com
 .scuffereggnog.website
 .sculledoxygens.com
 .sculpedmanky.uno
@@ -53356,6 +53388,7 @@ opencloud.wostore.cn
 .sittingfoot.com
 .situatebullied.com
 .situsiklanbaris.com
+.siuscs.xyz
 .sixft-apart.com
 .sixminutes.biz
 .sixsigmatraffic.com
@@ -55711,6 +55744,7 @@ opencloud.wostore.cn
 .taizigly.net
 .taiztf.cn
 .tajikireffo.website
+.take-grandincome.life
 .takeallsoft.ru
 .takechaukr.com
 .takelnk.com
@@ -57428,6 +57462,7 @@ opencloud.wostore.cn
 .tracking.diginetica.net
 .tracking.directservices.it
 .tracking.ditv.di.se
+.tracking.dn.se
 .tracking.drsfostersmith.com
 .tracking.edvisors.com
 .tracking.emilyclarkconsulting.com
@@ -57894,6 +57929,7 @@ opencloud.wostore.cn
 .trk.cachemetracking.com
 .trk.cpaoptimizer.com
 .trk.i0.cz
+.trk.lightdatahouse.com
 .trk.nfl-online-streams.live
 .trk.olnl.net
 .trk.pinterest.com
@@ -58090,6 +58126,7 @@ opencloud.wostore.cn
 .tu2.taohuaimg.com
 .tualaticurnock.com
 .tuangou.pro
+.tuape.xyz
 .tuateramiking.com
 .tubberlo.com
 .tubealliance.com
@@ -58667,6 +58704,7 @@ opencloud.wostore.cn
 .uncoreswizzle.com
 .uncour.com
 .uncoverherbal.com
+.uncree.com
 .undailysnout.com
 .undard.com
 .undedfracted.club
@@ -61167,6 +61205,7 @@ opencloud.wostore.cn
 .wittilyfrogleg.com
 .wiuspckmn.bar
 .wivesdandyemulation.com
+.wixorqoqmq.com
 .wizaly.com
 .wizard-teasers.com
 .wizard-traffic.com
@@ -62344,6 +62383,7 @@ opencloud.wostore.cn
 .xhhy.online
 .xhit.com
 .xhiteam.club
+.xhjxkgc.cn
 .xhkvff.cn
 .xhl161.com
 .xhmybanjia.cn
@@ -62941,6 +62981,7 @@ opencloud.wostore.cn
 .yeswegays.com
 .yettyz.com
 .yev.moviesdirectpro.com
+.yevcjqgi.com
 .yext-pixel.com
 .yeyuly.love
 .yfddaetiu.xyz
@@ -63011,6 +63052,7 @@ opencloud.wostore.cn
 .yieldselect.com
 .yieldsoftware.com
 .yieldtraffic.com
+.yieldtrk.com
 .yieldx.com
 .yifenghuyu.com
 .yifuffbypvps.xyz
@@ -64033,6 +64075,7 @@ opencloud.wostore.cn
 .zuphaims.com
 .zuqiuju.com
 .zurgerya.ru
+.zurwtuvt.com
 .zusbzr.com
 .zusepe.xyz
 .zusholro.net
