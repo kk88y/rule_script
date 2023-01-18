@@ -1,16 +1,16 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-18 02:11:45
+# UPDATED: 2023-01-19 02:11:18
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 67413
+# DOMAIN-SUFFIX: 67414
 # IP-ASN: 932
 # IP-CIDR: 5265
 # IP-CIDR6: 5321
 # PROCESS-NAME: 11
 # USER-AGENT: 65
-# TOTAL: 79194
+# TOTAL: 79195
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -30973,6 +30973,7 @@ xn--flw351e.com
 .infoxgame.com
 .infoxmation.com
 .inframe.mobi
+.inftab.com
 .infzm.com
 .ing10bbs.com
 .ingageapp.com
