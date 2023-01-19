@@ -1,14 +1,14 @@
 # NAME: Netflix
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-19 02:10:07
+# UPDATED: 2023-01-20 02:10:57
 # DOMAIN: 3
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 28
-# IP-CIDR: 2117
+# IP-CIDR: 2122
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 2157
+# TOTAL: 2162
 payload:
   - DOMAIN,e13252.dscg.akamaiedge.net
   - DOMAIN,h-netflix.online-metrix.net
