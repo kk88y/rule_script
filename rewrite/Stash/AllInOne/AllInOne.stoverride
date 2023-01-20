@@ -1,5 +1,5 @@
 name: AllInOne
-desc: 最后更新时间 2023-01-17 02:12:52
+desc: 最后更新时间 2023-01-21 02:12:28
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # domain: 3
@@ -8,10 +8,10 @@ desc: 最后更新时间 2023-01-17 02:12:52
 # http-request-script: 1
 # http-response-script: 28
 # redirect: 8
-# reject: 508
-# mitm: 553
+# reject: 509
+# mitm: 554
 # force-http-engine-hosts: 6
-# total: 1109
+# total: 1111
 
 
 
@@ -216,6 +216,7 @@ http:
     - ^https?:\/\/capis\.didapinche\.com\/ad\/ - reject
     - ^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/ad\/ - reject
     - ^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/appVersion\/detectionUpgrade - reject
+    - ^https?:\/\/cdn-evone-ceph\.echargenet\.com\/gw-emas-cdn\/63c4e3b558bb610008969f89 - reject
     - ^https?:\/\/cdn\.api\.fotoable\.com\/Advertise\/ - reject
     - ^https?:\/\/cdn\.cmgadx\.com\/sdk\/pool\/\w+\.json - reject
     - ^https?:\/\/cdn\.dianshihome\.com\/static\/ad\/ - reject
@@ -948,6 +949,7 @@ http:
     - "capi.mwee.cn"
     - "capis*.didapinche.com"
     - "ccsp-egmas.sf-express.com"
+    - "cdn-evone-ceph.echargenet.com"
     - "cdn.*.chelaileapp.cn"
     - "cdn.api.fotoable.com"
     - "cdn.cmgadx.com"

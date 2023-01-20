@@ -1,11 +1,11 @@
 name: 复写去广告
-desc: 最后更新时间 2023-01-17 02:12:47
+desc: 最后更新时间 2023-01-21 02:12:23
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 536
-# mitm: 493
+# reject: 538
+# mitm: 494
 # force-http-engine-hosts: 6
-# total: 1035
+# total: 1038
 
 
 
@@ -61,6 +61,7 @@ http:
     - ^https?:\/\/.+?\/img\/ad\.union\.api\/ - reject
     - ^https?:\/\/.+?\/music\/common\/upload\/t_splash_info - reject
     - ^https?:\/\/103\.91\.210\.141\:2515\/xgapp\.php\/v2\/top_notice - reject
+    - ^https?:\/\/2023\.01\.20/v2\.0\/246 - reject
     - ^https?:\/\/203\.205\.255\.16\/retrieval\/getAd - reject
     - ^https?:\/\/3g\.csair\.com\/CSMBP\/bookProcess\/homepopup\/queryAdvertisement - reject
     - ^https?:\/\/3gimg\.qq\.com\/tencentMapTouch\/app\/activity\/ - reject
@@ -224,6 +225,7 @@ http:
     - ^https?:\/\/capis\.didapinche\.com\/ad\/ - reject
     - ^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/ad\/ - reject
     - ^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/appVersion\/detectionUpgrade - reject
+    - ^https?:\/\/cdn-evone-ceph\.echargenet\.com\/gw-emas-cdn\/63c4e3b558bb610008969f89 - reject
     - ^https?:\/\/cdn\.\w{3}\.chelaileapp\.cn\/(api\/)?adpub - reject
     - ^https?:\/\/cdn\.api\.fotoable\.com\/Advertise\/ - reject
     - ^https?:\/\/cdn\.cmgadx\.com\/sdk\/pool\/\w+\.json - reject
@@ -749,6 +751,7 @@ http:
     - "capi.mwee.cn"
     - "capis*.didapinche.com"
     - "ccsp-egmas.sf-express.com"
+    - "cdn-evone-ceph.echargenet.com"
     - "cdn.*.chelaileapp.cn"
     - "cdn.api.fotoable.com"
     - "cdn.cmgadx.com"

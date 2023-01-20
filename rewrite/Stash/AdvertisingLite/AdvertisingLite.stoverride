@@ -1,11 +1,11 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2023-01-17 02:13:00
+desc: 最后更新时间 2023-01-21 02:12:36
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 490
-# mitm: 402
+# reject: 491
+# mitm: 403
 # force-http-engine-hosts: 6
-# total: 898
+# total: 900
 
 
 
@@ -188,6 +188,7 @@ http:
     - ^https?:\/\/capis\.didapinche\.com\/ad\/ - reject
     - ^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/ad\/ - reject
     - ^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/appVersion\/detectionUpgrade - reject
+    - ^https?:\/\/cdn-evone-ceph\.echargenet\.com\/gw-emas-cdn\/63c4e3b558bb610008969f89 - reject
     - ^https?:\/\/cdn\.\w{3}\.chelaileapp\.cn\/(api\/)?adpub - reject
     - ^https?:\/\/cdn\.api\.fotoable\.com\/Advertise\/ - reject
     - ^https?:\/\/cdn\.cmgadx\.com\/sdk\/pool\/\w+\.json - reject
@@ -648,6 +649,7 @@ http:
     - "capi.mwee.cn"
     - "capis*.didapinche.com"
     - "ccsp-egmas.sf-express.com"
+    - "cdn-evone-ceph.echargenet.com"
     - "cdn.api.fotoable.com"
     - "cdn.cmgadx.com"
     - "cdn.dianshihome.com"

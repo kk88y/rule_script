@@ -18,7 +18,7 @@ QuantumultX需要添加部分分流规则才能生效，具体配置请参照数
 
 ## 规则统计
 
-最后更新时间：2023-01-17 02:12:55
+最后更新时间：2023-01-21 02:12:31
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -30,9 +30,9 @@ QuantumultX需要添加部分分流规则才能生效，具体配置请参照数
 | HTTP-REQUEST-SCRIPT | 3  | 
 | HTTP-RESPONSE-SCRIPT | 28  | 
 | REDIRECT | 62  | 
-| REJECT | 586  | 
-| MITM | 593  | 
-| TOTAL | 1277  | 
+| REJECT | 588  | 
+| MITM | 594  | 
+| TOTAL | 1280  | 
 
 
 ## QuantumultX 

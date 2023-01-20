@@ -1,16 +1,21 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-20 02:08:50
-# DOMAIN: 9978
+# UPDATED: 2023-01-21 02:07:44
+# DOMAIN: 9981
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 101557
+# DOMAIN-SUFFIX: 101632
 # IP-CIDR: 239
-# TOTAL: 112038
+# TOTAL: 112116
+1129555.com
+1190555.com
+3633a.com
 3p-geo.yahoo.com
 3p-udc.yahoo.com
 46186911.vtt
 80055404.vtt
+8499136.com
+9cgms.xyz
 aab-proxy.tld
 absurdapple.com
 adfox.yandex.ru
@@ -18,49 +23,43 @@ adfstat.yandex.ru
 ads.yahoo.com
 ads.youtube.com
 adsdk.yandex.ru
-ajkcdpm.cn
 an.yandex.ru
 anxiousapples.com
+api.adfenix.com
 api.sec.miui.com
 app.ssp.yahoo.com
 appboy-images.com
 apple.www.letv.com
 applesometimes.com
 applets.ebxcdn.com
+assets.adfenix.com
 awaps.yandex.ru
 awsync.yandex.ru
-basogachummy.com
 bats.video.yahoo.com
-bavxxf.xyz
 beacon.search.yahoo.com
 beap-bc.yahoo.com
 blueduckredapple.com
+bmcdn5.com
 bs.yandex.ru
-buqkrzbrucz.com
-buttn.cyou
-certificaterainbow.com
 collector2c.zhihuishu.com
 cookiex.ngd.yahoo.com
 crypta.js
 d1stxfv94hrhia.cloudfront
-dfghaqea.xyz
+davzwyavjm.com
 dmg-dd.oss-accelerate.aliyuncs.com
-doubleclicks.biz
-dr5.biz
+efully.info
+fdbskb.cn
 februaryreductionapplet.com
-fikccnef.top
 fpb1.apple886.com
-fyzbvwb.cn
 ganon.yahoo.com
 geo.yahoo.com
-huijizhen.com
+guge.red
 iadsdk.apple.com
 ib.snssdk.com
-imassg.xyz
 informer.yandex.ru
 jill.fc.yahoo.com
+jkxvvv.xyz
 jpaasne.e.shifen.com
-kasfas.com
 log.strm.yandex.ru
 marketingsolutions.yahoo.com
 mc.yandex.ru
@@ -68,29 +67,32 @@ mediaappletree.com
 meitaolianmeng.ltd
 mm.n3w1d0ma1n
 mo.vlpyj.xy
+nezuel.com
 nol.yahoo.com
-pickedlawhandshake.com
+paongfh.cn
 pr.comet.yahoo.com
+ptiftols.net
 pv.sohu.com
-recentlymourning.com
+qwcqqw.xyz
+qwrot.cyou
 rrf.fat1domain1
-ruyqiolnz.cyou
 shackapple.com
-squeezesharedman.com
 stats.video.search.yahoo.com
 sub.powerapple.com
 sugar.zhihu.com
 supportmetrics.apple.com
+t3p58.com
 test.vast
 theapple.site
-turfedtaboret.com
+twlcyc.cn
+tzsvodu.cn
 visit.webhosting.yahoo.com
-wardrobecontingent.com
 wondefulapplend.com
+wrenchsound.store
 wzjs1.oss-accelerate.aliyuncs.com
+xpblitgpg.com
+yhjh04.com
 youtube.local
-yunwu.red
-zdrvtmj.cn
 ad.xy2013.cn
 ads.play.cbsi.video
 api.cupid.dns.iqiyi.com
@@ -7646,6 +7648,7 @@ taozgpkjzpdtgr.com
 tapffdskgjr.com
 targetctracker.com
 tarteaucitron.ml
+tat.pandora.xiaomi.com
 tataget.ru
 tatami-solutions.com
 tauwhout.net
@@ -9914,7 +9917,6 @@ zzxlukodff.com
 zzxosget.com
 519332da.rtc.youme.im
 gvod.aiseejapp.atianqi.com
-tat.pandora.xiaomi.com
 39d83s.com
 aboard.apilocate.amap.com
 access.open.uc.cn
@@ -9985,6 +9987,7 @@ securemvt.apple.com
 securemvt.apple.com.cn
 ssp.rambler.ru
 stats.sandberg.world
+tla.traderlink.com
 .0-000.store
 .0.code.cotsta.ru
 .0001.best
@@ -11372,6 +11375,7 @@ stats.sandberg.world
 .79zxcv.com
 .7a07c25a29.com
 .7a6a4e9e27.com
+.7a7f07591f.com
 .7a864ece03.com
 .7ad.media
 .7adea8620f.com
@@ -15592,6 +15596,7 @@ stats.sandberg.world
 .ajhgruraqvoweo.xyz
 .ajillionmax.com
 .ajjhtetv87.com
+.ajkcdpm.cn
 .ajkzd9h.com
 .ajointstalder.website
 .ajoqysuc.xyz
@@ -16686,6 +16691,7 @@ stats.sandberg.world
 .arianelab.com
 .arielpri2nce8ss09.com
 .arikhwglvc.xyz
+.ariotgribble.com
 .aripplebeluga.com
 .arisedammiral.com
 .arithmeticshovel.com
@@ -18140,6 +18146,7 @@ stats.sandberg.world
 .basnn14.com
 .basnn15.com
 .basnn16.com
+.basogachummy.com
 .basquedplotx.store
 .bassdyemanipulate.com
 .bassistscrap.com
@@ -18172,6 +18179,7 @@ stats.sandberg.world
 .bauvaikul.com
 .bauweethie.com
 .bauwezou.net
+.bavxxf.xyz
 .bawdylytta.com
 .bawlerhanoi.website
 .baxofalis.com
@@ -19911,6 +19919,7 @@ stats.sandberg.world
 .bupb.xyz
 .buphoolo.net
 .bupropion-hcl.1.p2l.info
+.buqkrzbrucz.com
 .burbibape.com
 .burdaffi.burdadigital.pl
 .burdiesfogyish.com
@@ -19962,6 +19971,7 @@ stats.sandberg.world
 .butterburst.com
 .butterdogchange.com
 .butterflypronounceditch.com
+.buttn.cyou
 .button-call.zalo.me
 .button-follow.zalo.me
 .button-share.zalo.me
@@ -20460,6 +20470,7 @@ stats.sandberg.world
 .carcflma.de
 .cardgamespidersolitaire.com
 .cardiwersg.com
+.cardloomed.com
 .careersincorrectquickie.com
 .careful-oven.pro
 .carenterhosi.xyz
@@ -20935,6 +20946,7 @@ stats.sandberg.world
 .certainalmostcontent.com
 .certaintysurroundingcab.com
 .certifica.com
+.certificaterainbow.com
 .certified-apps.com
 .certifiedwinners.info
 .certifiedwinners.today
@@ -21778,6 +21790,7 @@ stats.sandberg.world
 .cloudcnfare.com
 .cloudcoins.biz
 .cloudcrown.com
+.clouddecrease.com
 .clouddream.ltd
 .cloudfastads.ru
 .cloudflare.solutions
@@ -23507,6 +23520,7 @@ stats.sandberg.world
 .d1xkyo9j4r7vnn.cloudfront.net
 .d1ybdlg8aoufn.cloudfront.net
 .d1yt8zt4633tzi.cloudfront.net
+.d1ytalcrl612d7.cloudfront.net
 .d1yu5hbtu8mng9.cloudfront.net
 .d1yu67rmchodpo.cloudfront.net
 .d1z2jf7jlzjs58.cloudfront.net
@@ -24708,6 +24722,7 @@ stats.sandberg.world
 .dfffpyu8fhawcnd.ru
 .dfgbalon.com
 .dfggq.com
+.dfghaqea.xyz
 .dfjbgfldsjdsnldksjalld1235.cn
 .dfkd.xyz
 .dfnac.fr
@@ -24904,6 +24919,7 @@ stats.sandberg.world
 .diplomasewerivory.com
 .dipobeds.com
 .dippingearlier.com
+.dipseymontia.com
 .diptaich.com
 .dir.opank.com
 .dircont3.com
@@ -25165,6 +25181,7 @@ stats.sandberg.world
 .dlzxjk.cn
 .dm.17xuexiba.com
 .dm.hxzdhn.com
+.dm.isnssdk.com
 .dm.lianzhixiu.com
 .dm.zjut.cc
 .dm0acvguygm9h.cloudfront.net
@@ -25423,6 +25440,7 @@ stats.sandberg.world
 .doubleclick.de
 .doubleclick.ne.jp
 .doubleclickbygoogle.com
+.doubleclicks.biz
 .doublemax.net
 .doubleonclick.com
 .doublepimp.com
@@ -25510,6 +25528,7 @@ stats.sandberg.world
 .dr.atwoodubre.com
 .dr.soso.com
 .dr3k6qonw2kee.cloudfront.net
+.dr5.biz
 .dr8pk6ovub897.cloudfront.net
 .draco-artgallery.wz.cz
 .draggedgram.com
@@ -26219,6 +26238,7 @@ stats.sandberg.world
 .eegnacou.com
 .eehuzaih.com
 .eeksidro.com
+.eelipaus.net
 .eelsoup.net
 .eemedlikeama.xyz
 .eempacmy.com
@@ -26643,6 +26663,7 @@ stats.sandberg.world
 .enquisite.com
 .enrilov.info
 .enrobeddhuti.space
+.enroes.com
 .enrosr.cn
 .enseelgrippy.com
 .ensighten.com
@@ -26967,6 +26988,7 @@ stats.sandberg.world
 .ets.easybrain.com
 .ettalhap.com
 .ettilt.com
+.ettjvrjujt.xyz
 .ettlingnidana.com
 .etxggi.cn
 .etxjbxs.top
@@ -27161,6 +27183,7 @@ stats.sandberg.world
 .exceedinglydiscovered.com
 .excellenceads.com
 .excellernod.xyz
+.exceph.com
 .exceptexchange.com
 .exchak.com
 .exchange-it.com
@@ -27270,6 +27293,7 @@ stats.sandberg.world
 .exposuremixed.com
 .express-submit.de
 .expressvampire.com
+.expwyredocks.com
 .exrtbsrv.com
 .ext.bhol.co.il
 .ext.goguardian.com
@@ -27902,8 +27926,10 @@ stats.sandberg.world
 .figyelo-net.com
 .fiinann.com
 .fijekone.com
+.fikccnef.top
 .fiksu.com
 .filateliadimauro.com
+.filchimpossible.com
 .file-online.ru
 .file-shares.com
 .file-subiz.com
@@ -28799,6 +28825,7 @@ stats.sandberg.world
 .fyvgfharltlvv.com
 .fyvvm.com
 .fyyqq.top
+.fyzbvwb.cn
 .fz2c.top
 .fz8g.top
 .fzbjzlwcnd.com
@@ -29726,6 +29753,7 @@ stats.sandberg.world
 .go.clicknplay.to
 .go.data1rtb.com
 .go.dhs.gov
+.go.dnsfilter.com
 .go.eu.sparkpostmail1.com
 .go.icann.org
 .go.jetswap.com
@@ -30211,6 +30239,7 @@ stats.sandberg.world
 .grtyj.com
 .grubfast.com
 .grudgemotivate.com
+.grudgewallet.com
 .grudreeb.com
 .grumblecrytopless.com
 .grumrt.com
@@ -30446,6 +30475,7 @@ stats.sandberg.world
 .h41s.com
 .h45pmx1.cn
 .h5.eagllwin.com
+.h5.isnssdk.com
 .h5.wannaplay.cn
 .h5634t.site
 .h56hg7.site
@@ -30462,6 +30492,7 @@ stats.sandberg.world
 .h8vzwpv.com
 .h98s.com
 .haa66855mo.club
+.habaerashiksas.com
 .habboss.fr
 .habbubrauraci.live
 .habeglee.net
@@ -31415,6 +31446,7 @@ stats.sandberg.world
 .hot24profit.life
 .hot4k.org
 .hot59.de
+.hotapi-va.isnssdk.com
 .hotbanner.site
 .hotchat-im.iqiyi.com
 .hotchatdate.com
@@ -31536,6 +31568,7 @@ stats.sandberg.world
 .hrahdmon.com
 .hranakel.xyz
 .hrbpark.bid
+.hreerfdfgourg.com.ua
 .hrmationeng.xyz
 .hrnecek.com
 .hrptaxegfly.com
@@ -31648,6 +31681,7 @@ stats.sandberg.world
 .huigun.top
 .huihemou.com
 .huijiamei.cn
+.huijizhen.com
 .huilianji.com
 .huineihan.com
 .huisatu.xyz
@@ -31855,6 +31889,7 @@ stats.sandberg.world
 .i.adwise.bg
 .i.bigin.io
 .i.interia.pl
+.i.isnssdk.com
 .i.j2j.ru
 .i.media.cz
 .i.seznam.cz
@@ -31863,6 +31898,7 @@ stats.sandberg.world
 .i010b048d3e4a1e4b70aba72b169e70c90971f9.xyz
 .i03.xyz
 .i0l7.icu
+.i16-tb.isnssdk.com
 .i1img.com
 .i1media.no
 .i2.myapkcdn.in
@@ -31956,6 +31992,7 @@ stats.sandberg.world
 .iceplant.hk
 .icewaterhou.xyz
 .icfy.xyz
+.ichannel.isnssdk.com
 .ichimaip.net
 .ichisushi.fr
 .ichlnk.com
@@ -32264,10 +32301,12 @@ stats.sandberg.world
 .imageserv.adtech.fr
 .imageserv.adtech.us
 .imago-tv.fr
+.imapi-sg.isnssdk.com
 .imarker.com
 .imarker.ru
 .imarketservices.com
 .imasdk.googleapis.com
+.imassg.xyz
 .imatrk.net
 .imbalmenvy.website
 .imbalmscashews.com
@@ -33062,7 +33101,6 @@ stats.sandberg.world
 .ismatlab.com
 .ismlks.com
 .ismscold.buzz
-.isnssdk.com
 .iso100.ru
 .isocolaparoles.com
 .isohits.com
@@ -33770,7 +33808,6 @@ stats.sandberg.world
 .jpai.xyz
 .jpdniuaaqt.xyz
 .jpesfzcjob.com
-.jpg.church
 .jpgtpbl.cn
 .jphfqq.cn
 .jpivxtsxpkn.com
@@ -34162,6 +34199,7 @@ stats.sandberg.world
 .kartables.fr
 .karvarcloit.com
 .kasdwergv.com
+.kasfas.com
 .kasheglesy.pro
 .kastafor.com
 .kasumikarate.hanagasumi.net
@@ -34844,6 +34882,7 @@ stats.sandberg.world
 .kvhttt.top
 .kvidcq.com
 .kvision.tv
+.kvjkkwyomjrx.com
 .kvkaa.com
 .kvkddd.top
 .kvkggg.top
@@ -35176,6 +35215,7 @@ stats.sandberg.world
 .latvik.com
 .laufonie.net
 .laughcloth.com
+.laugoust.com
 .laugue.com
 .lauhefoo.com
 .lauhoosh.net
@@ -36073,6 +36113,7 @@ stats.sandberg.world
 .log-player.arte.tv
 .log-sg.bytegsdk.com
 .log-stats.weathercn.com
+.log-tb.isnssdk.com
 .log-tb.sgsnssdk.com
 .log-upload-eur.mihoyo.com
 .log-upload-os.hoyoverse.com
@@ -36128,6 +36169,7 @@ stats.sandberg.world
 .log.happyapkdown.com
 .log.hemera.com.vn
 .log.infonet.vn
+.log.isnssdk.com
 .log.iyunmai.com
 .log.kaka.me
 .log.kienthuc.net.vn
@@ -36370,6 +36412,7 @@ stats.sandberg.world
 .losingoldfry.com
 .losstrack.com
 .lotionmodule.com
+.lotosmarkkaa.com
 .lotreal.com
 .lotsnippier.cam
 .lotsooms.com
@@ -38374,6 +38417,7 @@ stats.sandberg.world
 .mon-pagerank.com
 .mon-va.byteoversea.com
 .mon.byteoversea.com
+.mon.isnssdk.com
 .mon.snssdk.com
 .mon.tiktokv.com
 .monarchads.com
@@ -38487,6 +38531,7 @@ stats.sandberg.world
 .mopo.jp
 .moprujg.cn
 .mopub-win-us-east.bksn.se
+.moraec.xyz
 .morar.biz
 .morbidlocally.com
 .mordieuweeshee.com
@@ -38517,6 +38562,7 @@ stats.sandberg.world
 .morred.com
 .morrowfreezer.com
 .morsinsaner.uno
+.mortalskeer.com
 .mortgage-rates.now-cash.com
 .mortypush.com
 .mosaiq.io
@@ -39416,6 +39462,7 @@ stats.sandberg.world
 .nelado.xyz
 .nellads.com
 .nelo2-col.linecorp.com
+.nemesiacalesa.website
 .nemewagro.com
 .nemgnephyfmt.xyz
 .neno.ink
@@ -41148,6 +41195,7 @@ stats.sandberg.world
 .opelop.com
 .open-adx.com
 .open-up.it
+.open.isnssdk.com
 .open.oneplus.net
 .openad.tf1.fr
 .openad.travelnow.com
@@ -41273,6 +41321,7 @@ stats.sandberg.world
 .or.5.p2l.info
 .oracleinfinity.io
 .orahmaggi.xyz
+.oralmaliciousmonday.com
 .oralse.ca
 .oralse.cx
 .oranegfodnd.com
@@ -41865,6 +41914,7 @@ stats.sandberg.world
 .panelsave.com
 .pangle-b.io
 .pangle.io
+.pangolin16.isnssdk.com
 .pangrespectfully.com
 .paniccursor.com
 .panickycurtain.com
@@ -42619,6 +42669,7 @@ stats.sandberg.world
 .picalchymic.uno
 .picbucks.com
 .pickaflick.co
+.pickedlawhandshake.com
 .pickinnimiety.com
 .pickleresurrection.com
 .picklesadamantempire.com
@@ -43756,6 +43807,7 @@ stats.sandberg.world
 .protect-your-privacy.net
 .protectcrev.com
 .protectedfolkssomebody.com
+.protectedpeat.com
 .protectheader.com
 .protecthumor.com
 .protection.aspolice.com
@@ -45212,6 +45264,7 @@ stats.sandberg.world
 .receiver.pravoved.org
 .receme.com
 .recentinteriorcrab.com
+.recentlymourning.com
 .recentpoisoncoma.com
 .recentrecentturf.com
 .reception-desk.net
@@ -46585,6 +46638,7 @@ stats.sandberg.world
 .ruuwkftrtegqj.com
 .ruwei.me
 .ruwertur.com
+.ruyqiolnz.cyou
 .rvbztg.cn
 .rvddfchkj.xyz
 .rvmessage.online
@@ -46916,6 +46970,7 @@ stats.sandberg.world
 .satisfactionpredictmusic.com
 .satisfactorilybewitchgreatness.com
 .satisfactorydipforeman.com
+.satraefreath.com
 .saturdayaremoaning.com
 .saturdayloathe.com
 .saturdaymarryspill.com
@@ -47410,6 +47465,7 @@ stats.sandberg.world
 .sempcxjajh.com
 .semsicou.net
 .semtracker.de
+.semupgrjbnlhi.com
 .send-news.net
 .send2url.com
 .sendhtml.net
@@ -48935,6 +48991,7 @@ stats.sandberg.world
 .spideramebian.com
 .spidersmerithenceforward.com
 .spidersprimary.com
+.spikethat.xyz
 .spikscabrin.com
 .spinaleighth.com
 .spinalmultiple.com
@@ -49095,6 +49152,7 @@ stats.sandberg.world
 .squeezedthoughtfully.com
 .squeezely.tech
 .squeezemicrowave.com
+.squeezesharedman.com
 .squeezeutteredcertainty.com
 .squemi.xyz
 .squetanonym.com
@@ -51541,6 +51599,8 @@ stats.sandberg.world
 .tn05.ru
 .tnarzc.com
 .tnative.ru
+.tnc16-alisg.isnssdk.com
+.tnc16-useast1a.isnssdk.com
 .tncomg.com
 .tncred.com
 .tnctrx.com
@@ -52729,6 +52789,7 @@ stats.sandberg.world
 .turboadv.com
 .turbocap.net
 .turdgasm.com
+.turfedtaboret.com
 .turfomani.fr
 .turgh.com
 .turkish-ru.ru
@@ -53414,6 +53475,7 @@ stats.sandberg.world
 .uofmnbkm.com
 .uogrvci.cn
 .uole.ad.uol.com.br
+.uomsogicgi.com
 .uongsona.uno
 .uongsono.uno
 .uorlsblg.cyou
@@ -54091,6 +54153,7 @@ stats.sandberg.world
 .very.big-sword.ga
 .very010.com
 .verycleaner.cn
+.veryinterestvids.xyz
 .veryn1ce.com
 .verypopularwebsite.com
 .verytransions.xyz
@@ -54939,6 +55002,7 @@ stats.sandberg.world
 .wapstart.ru
 .waptrick.com
 .waqool.com
+.wardrobecontingent.com
 .wardrobemeddleorganism.com
 .warehousecanneddental.com
 .warhui.com
@@ -55554,6 +55618,7 @@ stats.sandberg.world
 .wibtntmvox.com
 .wickedlongingbelfry.com
 .wickedreports.com
+.wickiupcopalms.com
 .widaimty.com
 .wideangle.co
 .widebanner.com
@@ -55989,6 +56054,7 @@ stats.sandberg.world
 .wrapper.lemde.fr
 .wrathfultower.pro
 .wreathabble.com
+.wreckergaboon.com
 .wreckgroupads.com
 .wretchauraflirt.com
 .wrfgenwgdfi.xyz
@@ -56919,6 +56985,7 @@ stats.sandberg.world
 .xiji-express.com
 .xiji.de
 .xijkye.top
+.xijojwonz.com
 .xilbalar.com
 .xilqhukky.com
 .ximad.com
@@ -57110,6 +57177,7 @@ stats.sandberg.world
 .xqmyebdrunebsh.xyz
 .xqoekp.cn
 .xqrprttdvmynv.com
+.xqrykosuvwibnw.com
 .xqzlgbbe.com
 .xqzzl1l.cn
 .xr-tds.com
@@ -57922,6 +57990,7 @@ stats.sandberg.world
 .yunrong360.com
 .yunsennet.com
 .yuntuiguang.co
+.yunwu.red
 .yupei.love
 .yupfiles.net
 .yuppads.com
@@ -58121,6 +58190,7 @@ stats.sandberg.world
 .zdktgps.cn
 .zdorovmagazine.ru
 .zdrawnews.ru
+.zdrvtmj.cn
 .zdryg.com
 .zdsfnagupwkztl.com
 .zdtag.com
@@ -58215,6 +58285,7 @@ stats.sandberg.world
 .zezvty.com
 .zferral.com
 .zfoffp.com
+.zfopakkt.com
 .zfsfkp.com
 .zfvklk.ru
 .zgbtw.mobi
@@ -71398,6 +71469,7 @@ stats.sandberg.world
 .24click.top
 .24kad.com
 .24smi.org
+.24x7report.com
 .2529.com
 .25381bfc0c.com
 .25391ebf69.com
@@ -71882,6 +71954,7 @@ stats.sandberg.world
 .a.oney.es
 .a.perfumesclub.com
 .a.perfumesclub.nl
+.a.pikabu.ru
 .a.pinayviralsexx.com
 .a.pinoymoviepedia.ru
 .a.pornhex.com
@@ -73153,6 +73226,7 @@ stats.sandberg.world
 .affilo.lingerio.cz
 .affilo.vivaboty.cz
 .affilpartner.descanti.com
+.afflat3e1.com
 .affluencepaymentlandscape.com
 .afftrack.healthprimeplus.net
 .afgfjdivrf.com
@@ -75886,6 +75960,7 @@ stats.sandberg.world
 .cdn.gubagoo.io
 .cdn.hiido.cn
 .cdn.hqwa.xyz
+.cdn.isnssdk.com
 .cdn.jeapie.com
 .cdn.krible.com
 .cdn.linkbr.xyz
@@ -76217,6 +76292,7 @@ stats.sandberg.world
 .clean-blocker.com
 .cleanupcokesunny.com
 .clenchedyouthmatching.com
+.clentrk.com
 .clevergirlscollective.com
 .cleversite.ru
 .clhqabmmextykkj.com
@@ -76842,6 +76918,7 @@ stats.sandberg.world
 .cooch.tv
 .cookie-accept.com
 .cookie-jam.sgn.com
+.cookie-lista.cz
 .cookie-script.com
 .cookie-switch.viminds.de
 .cookie-widget.ru
@@ -82149,6 +82226,7 @@ stats.sandberg.world
 .grtmpr.vertbaudet.fr
 .grtyv.com
 .grumpyadzen.com
+.grupif.com
 .grursusy.com
 .grxxvx.centerparcs.nl
 .gsasolutionssecure.gsa.gov
@@ -82943,6 +83021,7 @@ stats.sandberg.world
 .icebns.com
 .icemining.ca
 .icgirls.com
+.ichannel-tb.isnssdk.com
 .iche88.cn
 .ichecknotifyfriends.info
 .icknsdsqksicda.xyz
@@ -84581,7 +84660,6 @@ stats.sandberg.world
 .kveaa.com
 .kvhrrr.top
 .kvilhypwtelaos.xyz
-.kvjkkwyomjrx.com
 .kvlzsbxn.com
 .kwbtootugsx.com
 .kwerxnefv.com
@@ -92858,6 +92936,7 @@ stats.sandberg.world
 .spartapiation.com
 .spattepush.com
 .spayedjetty.com
+.special-trending-news.com
 .special.kvetinyexpres.cz
 .specialdeals.g5e.com
 .specialscammerinitially.com
@@ -96180,7 +96259,6 @@ stats.sandberg.world
 .uohtnfdrnhqyc.com
 .uojjpevjusfoidc.com
 .uolwbz.heine.de
-.uomsogicgi.com
 .uopmcdnpad.com
 .uoxhxwrttmmq.com
 .uozrikpw.com
@@ -96737,7 +96815,6 @@ stats.sandberg.world
 .vuvlog.lol
 .vuwmxjusucnh.com
 .vuypew.ikks.com
-.vv.habaerashiksas.com
 .vvaaol.enuygun.com
 .vvcufx.colombo.com.br
 .vvlian.com
@@ -98246,6 +98323,7 @@ stats.sandberg.world
 .yfpvmd.reed.co.uk
 .yfum.com
 .yfzcuw.cn
+.ygamey.com
 .ygamhusjtdzajm.com
 .ygcxcqgsnemsb.com
 .ygetatleiomrrr.com
