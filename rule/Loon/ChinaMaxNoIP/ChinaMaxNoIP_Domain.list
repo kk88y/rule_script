@@ -1,12 +1,12 @@
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-19 02:11:48
+# UPDATED: 2023-01-22 02:11:22
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 67162
+# DOMAIN-SUFFIX: 67161
 # USER-AGENT: 65
-# TOTAL: 67414
+# TOTAL: 67413
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -6274,7 +6274,6 @@ xn--flw351e.com
 .8477.com
 .848.com
 .8487x.com
-.8499136.com
 .8499159.com
 .84992446.xyz
 .849959.com
