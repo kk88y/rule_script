@@ -1,130 +1,52 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-22 02:07:43
-# DOMAIN: 10037
+# UPDATED: 2023-01-22 15:44:18
+# DOMAIN: 9961
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 101678
+# DOMAIN-SUFFIX: 101722
 # IP-CIDR: 239
-# TOTAL: 112218
+# TOTAL: 112186
 46186911.vtt
-5c4a902f7e.com
 80055404.vtt
-800c7864eb.com
-8881img.com
-98dvu.fun
 aab-proxy.tld
 absurdapple.com
 adfstat.yandex.ru
 ads.yahoo.com
 ads.youtube.com
-aforepayoffstutter.com
-almsmanmalthe.com
-amassshack.com
 anxiousapples.com
 api.sec.miui.com
 app.ssp.yahoo.com
 appboy-images.com
 applesometimes.com
-arriedand.xyz
-auojsgyulikspj.xyz
-avjnigvabhi.com
-awecrptjmp.com
 awsync.yandex.ru
 beacon.search.yahoo.com
 beap-bc.yahoo.com
 blueduckredapple.com
-bngmadjd.de
-c69d50bdaf.com
-camewiththe.com.ua
-challasowns.com
-chebecsunsack.com
-chestucoso.pro
-ciscoesfirring.guru
 crypta.js
-cvkypgtbxocwx.com
 d1stxfv94hrhia.cloudfront
-dcvcptbqcg.com
-dfrsbodywjntmy.com
-dizzyincome.pro
 dmg-dd.oss-accelerate.aliyuncs.com
-duckiecaesura.com
-e5z14.icu
-ec5e727d37.com
-expressalike.com
 februaryreductionapplet.com
-firmlychurchyard.com
-flavoursomewherefertilised.com
-fluffynickname.com
 fpb1.apple886.com
-grumpy-fear.pro
-hss2y.com
-hwaawsh.com
 iadsdk.apple.com
 ib.snssdk.com
-iludmt.com
-iucobwkeyai.com
-jbuzacg.cn
 jpaasne.e.shifen.com
-juzwrl.xyz
-karshagirdled.com
-keen-slip.com
 log.strm.yandex.ru
-lonits.com
-ltyscmtia.xyz
 marketingsolutions.yahoo.com
 mediaappletree.com
 meitaolianmeng.ltd
-mesallyrewoke.com
-mftfkpwsl.com
 mm.n3w1d0ma1n
 mo.vlpyj.xy
-monts.cyou
-nitrogeneligible.com
-obvious-lesson.pro
-oixocshiakeqoq.com
-oqbplvbkhg.com
-patibe.com
-penheiressfundamental.com
-perishcraft.com
-polardemeanour.com
-porjjhu.cn
 pr.comet.yahoo.com
-qgxbluhsgad.com
-regardingpectoralcollapse.com
+rebunb.xyz
 rrf.fat1domain1
-rtbfit.com
-rulingcaviarreliance.com
-rvmessages.online
-rzlp.xyz
-sblongvu.com
 shackapple.com
-silebu.xyz
-sistercomb.com
-sixarwr.cn
-soulsoul.xyz
 stats.video.search.yahoo.com
 sub.powerapple.com
-terrainslive.com
 theapple.site
-thrillingblindly.com
-toncooperateapologise.com
-toolsthwartgrim.com
-tugarmyindistinct.com
-uniformutilitiesexpressing.com
-unpackgreaterbulk.com
-visibilitymondaydisappeared.com
-wherebyinstantly.com
-whychymithy.com
-wintjaywolf.org
 wondefulapplend.com
-worriesteapotairborne.com
 wzjs1.oss-accelerate.aliyuncs.com
-xuninrfwruoyqb.xyz
 youtube.local
-zealeddrizzly.com
-zosteraclumsy.website
-zscwdu.com
 ad.xy2013.cn
 ads.play.cbsi.video
 api.cupid.dns.iqiyi.com
@@ -504,6 +426,7 @@ wtrace.bj.chinamobile.com
 89tmolir.top
 8a1ccf65f2b1302.com
 8b0b17dc1f9f8010.com
+8baf7ae42000024.com
 8bef5bb6b351ca5e.com
 8c3k.cn
 8c9cc6d2b0e13.com
@@ -7595,6 +7518,7 @@ supersitetime.com
 superwebs.pro
 surquvsx.com
 surroundtm.com
+surveyend.com
 surveygizmo.com
 surveyvalue.mobi
 surveywriter.net
@@ -10028,6 +9952,7 @@ log.kuwo.cn
 mc.yandex.ru
 metrics.apple.com
 nol.yahoo.com
+optistats.ovh
 pv.sohu.com
 ras.yahoo.com
 rba-screen.healthsafe-id.com
@@ -10040,7 +9965,6 @@ ssp.rambler.ru
 stats.sandberg.world
 sugar.zhihu.com
 supportmetrics.apple.com
-tag.imagino.com
 test.vast
 tla.traderlink.com
 visit.webhosting.yahoo.com
@@ -11092,6 +11016,7 @@ visit.webhosting.yahoo.com
 .5b541f17b1.com
 .5b955d4c78.com
 .5c3a967126.com
+.5c4a902f7e.com
 .5c577fc74618431b.com
 .5c8877b0af.com
 .5c8ac0803b.com
@@ -11110,7 +11035,6 @@ visit.webhosting.yahoo.com
 .5f249e1d30.com
 .5f6dmzflgqso.com
 .5faad595f4.com
-.5fb1bc62d6.com
 .5fcc5e7d92.com
 .5glyqw.com
 .5gustis.xyz
@@ -11504,6 +11428,7 @@ visit.webhosting.yahoo.com
 .7xc4n.com
 .7zip.fr
 .80055404.vtt
+.800c7864eb.com
 .8020solutions.net
 .80538w2f.cn
 .806b781310.com
@@ -11570,6 +11495,7 @@ visit.webhosting.yahoo.com
 .885842.com
 .8858de83b4.com
 .8861203.com
+.8881img.com
 .8889888.vip
 .888casino.com
 .888media.net
@@ -11670,6 +11596,7 @@ visit.webhosting.yahoo.com
 .986808cb44.com
 .9869936.com
 .98a54df250.com
+.98dvu.fun
 .98tang.lol
 .991019.top
 .99520.xyz
@@ -13714,7 +13641,6 @@ visit.webhosting.yahoo.com
 .ads.carmudi.vn
 .ads.carocean.co.uk
 .ads.casinocity.com
-.ads.casumoaffiliates.com
 .ads.catholic.org
 .ads.cavello.com
 .ads.cbc.ca
@@ -15292,7 +15218,6 @@ visit.webhosting.yahoo.com
 .affpros.net
 .affrh2023.com
 .affsnetwork.com
-.affsuhgiyd.com
 .afftrack.com
 .afftrack.pro
 .afftrack001.com
@@ -15322,6 +15247,7 @@ visit.webhosting.yahoo.com
 .afl-static-cdn.newbiz-prod.stroeerws.de
 .afm01.com
 .afminer.com
+.aforepayoffstutter.com
 .afosseel.net
 .afp.ai
 .afp.qiyi.com
@@ -15922,6 +15848,7 @@ visit.webhosting.yahoo.com
 .almasatten.com
 .almightypush.com
 .almostspend.com
+.almsmanmalthe.com
 .alnuinkwintra.com
 .alocdn.com
 .aloftliquid.com
@@ -16002,8 +15929,8 @@ visit.webhosting.yahoo.com
 .amarceusan.com
 .amarfa.ir
 .amasssentimentaldamaging.com
+.amassshack.com
 .amateurcouplewebcam.com
-.amativeunnoble.com
 .amattepush.com
 .amaumomt.com
 .amavalet.com
@@ -16793,6 +16720,7 @@ visit.webhosting.yahoo.com
 .arrayshift.com
 .arrenothanca.xyz
 .arridedoregano.tech
+.arriedand.xyz
 .arrism.com
 .arrivalist.com
 .arrivalselfcontrolrealization.com
@@ -17297,6 +17225,7 @@ visit.webhosting.yahoo.com
 .auntieemployedbureau.com
 .auntieimpetus.com
 .auntietraumatizemobile.com
+.auojsgyulikspj.xyz
 .auphoalt.com
 .aupteeds.net
 .aupteens.com
@@ -17409,6 +17338,7 @@ visit.webhosting.yahoo.com
 .avilagtitkai.com
 .avilis.fr
 .aviole.com
+.avjnigvabhi.com
 .avkyu1tesnwy.com
 .avmws.com
 .avndrealouer.fr
@@ -17457,6 +17387,7 @@ visit.webhosting.yahoo.com
 .awdigit.info
 .awecr.com
 .awecre.com
+.awecrptjmp.com
 .aweixolqjhpmq.xyz
 .awelessawelessmilliondisorganized.com
 .awembd.com
@@ -18209,7 +18140,6 @@ visit.webhosting.yahoo.com
 .basnn14.com
 .basnn15.com
 .basnn16.com
-.basogachummy.com
 .basquedplotx.store
 .bassdyemanipulate.com
 .bassistscrap.com
@@ -19363,6 +19293,7 @@ visit.webhosting.yahoo.com
 .bnfoeabisp.com
 .bngdyn.com
 .bngiqegaedbrjb.xyz
+.bngmadjd.de
 .bngprl.com
 .bngpst.com
 .bngwlt.com
@@ -19953,7 +19884,6 @@ visit.webhosting.yahoo.com
 .bulletprofitads.com
 .bulletprofitpop.com
 .bulletproxy.ch
-.bulletsceca.com
 .bullgame.net
 .bullionyield.com
 .bullnunname.com
@@ -19992,7 +19922,6 @@ visit.webhosting.yahoo.com
 .buresova-obrazy.wz.cz
 .burgerjolly.com
 .burgomeg.com
-.burgulcanyons.com
 .burgvaguity.com
 .burialgerminatebizarre.com
 .burjam.com
@@ -20307,6 +20236,7 @@ visit.webhosting.yahoo.com
 .c60china.com
 .c63d72a4022.com
 .c6890.cn
+.c69d50bdaf.com
 .c71genemobile.com
 .c8.net.ua
 .c8141c728b.com
@@ -20400,7 +20330,6 @@ visit.webhosting.yahoo.com
 .call-ad-network-api.marchex.com
 .callalelel.info
 .callansrookish.life
-.callerdumka.com
 .callfor-articles.com
 .callfor-submissions.com
 .callingorator.com
@@ -20427,6 +20356,7 @@ visit.webhosting.yahoo.com
 .cameracaseira.com
 .cameraeushop.com
 .cameraunswing.com
+.camewiththe.com.ua
 .camewiththe.xyz
 .camgeil.com
 .camghosts.com
@@ -20989,7 +20919,6 @@ visit.webhosting.yahoo.com
 .centralized.zaloapp.com
 .centralnervous.net
 .centraltag.com
-.centrexmeteor.com
 .centwrite.com
 .ceoqq.xyz
 .ceorlsrajasic.com
@@ -21086,6 +21015,7 @@ visit.webhosting.yahoo.com
 .chajv.top
 .chali.info
 .chaliehebdo.fr
+.challasowns.com
 .challeges.fr
 .challengecircuit.com
 .challengehurts.com
@@ -21156,6 +21086,7 @@ visit.webhosting.yahoo.com
 .cheapxanax.hut1.ru
 .cheatingagricultural.com
 .cheatingbelievesseem.com
+.chebecsunsack.com
 .chechla.cnixon.com
 .check-now.online
 .check-out-this.site
@@ -21218,6 +21149,7 @@ visit.webhosting.yahoo.com
 .chersoat.com
 .chestfoollo.one
 .chestishugli.com
+.chestucoso.pro
 .chethgentman.live
 .cheumy.com
 .chevetoelike.com
@@ -21315,7 +21247,6 @@ visit.webhosting.yahoo.com
 .choujiang1.top
 .choupaig.xyz
 .choupsee.com
-.chousedextern.com
 .chpok.pw
 .chqspuonctkgz.com
 .chqsw.cn
@@ -21394,7 +21325,6 @@ visit.webhosting.yahoo.com
 .cileni.seznam.cz
 .cima-club.club
 .cimcpbxsntrvj.xyz
-.cimeliarfs.com
 .cimm.top
 .cimoghuk.net
 .cinarra.com
@@ -21416,6 +21346,7 @@ visit.webhosting.yahoo.com
 .circumscribevetofurther.com
 .circumstancesrectangle.com
 .cirsepuh.net
+.ciscoesfirring.guru
 .cisheeng.com
 .cision.com
 .cismovernm.com
@@ -22782,7 +22713,6 @@ visit.webhosting.yahoo.com
 .coupleairplane.com
 .couplergavot.casa
 .coupling-media.de
-.coupon2buy.com
 .couponcp-a.akamaihd.net
 .coupondio.fr
 .coupsonu.net
@@ -23251,6 +23181,7 @@ visit.webhosting.yahoo.com
 .cvcddno.cn
 .cvemhco.cn
 .cvkvtsjjrs.xyz
+.cvkypgtbxocwx.com
 .cvlfqxeujyg.com
 .cvnpojoptm.com
 .cvogttseoqnld.xyz
@@ -23276,7 +23207,6 @@ visit.webhosting.yahoo.com
 .cxbge.xyz
 .cxdcn9c.fjshxjs.cn
 .cxense.com
-.cxfteuryfjdg.com
 .cxgfq.pinlue.com
 .cxiwn.xyz
 .cxjrsb.com
@@ -23621,6 +23551,7 @@ visit.webhosting.yahoo.com
 .d23spca806c5fu.cloudfront.net
 .d23xhr62nxa8qo.cloudfront.net
 .d240937yockcdo.cloudfront.net
+.d24502rd02eo9t.cloudfront.net
 .d24ak3f2b.top
 .d24cze5sab2jwg.cloudfront.net
 .d24g87zbxr4yiz.cloudfront.net
@@ -24380,6 +24311,7 @@ visit.webhosting.yahoo.com
 .dcpxroykfpnnpm.xyz
 .dcs.maxthon.com
 .dct.mango-office.ru
+.dcvcptbqcg.com
 .dcwacl.com
 .dcwkgvoeufhnm.com
 .dcynwezfon.com
@@ -24615,7 +24547,6 @@ visit.webhosting.yahoo.com
 .demandbase.com
 .demandmedia.s3.amazonaws.com
 .demeepsi.xyz
-.demersejarmo.com
 .demersekeld.com
 .demetnagement.com
 .demkc32bq01ah.cloudfront.net
@@ -24798,6 +24729,7 @@ visit.webhosting.yahoo.com
 .dfnetwork.link
 .dfpdz.top
 .dfpstitialtag.com
+.dfrsbodywjntmy.com
 .dfseafood.com
 .dfsvhv88.com
 .dfwskw7.com
@@ -25022,11 +24954,9 @@ visit.webhosting.yahoo.com
 .directuklye.co
 .directuklyecon.pics
 .diresozines.com
-.dirgweduck.com
 .dirgywhacks.com
 .dirhin.com
 .dirkino-traff.ru
-.dirtilystringy.com
 .dirtmountainbike.fr
 .dirtyasmr.com
 .dirtyrhino.com
@@ -25081,7 +25011,6 @@ visit.webhosting.yahoo.com
 .dislikesparecandle.com
 .disloquerent.website
 .disloyalmeddling.com
-.dismankokoona.com
 .dismantlelabour.com
 .dismantlepenantiterrorist.com
 .dismissabuse.com
@@ -25162,6 +25091,7 @@ visit.webhosting.yahoo.com
 .dizzcloud.com
 .dizzy-illegal.pro
 .dizzyac.com
+.dizzyincome.pro
 .dizzyporno.com
 .dj-updates.com
 .dj0ts1x.cn
@@ -25353,7 +25283,6 @@ visit.webhosting.yahoo.com
 .dodolive.cn
 .dodouhoa.com
 .dodurantom.com
-.doeisjyhqtqsy.com
 .doerscharre.com
 .doesok.top
 .doffingiceboat.com
@@ -25771,6 +25700,7 @@ visit.webhosting.yahoo.com
 .dubvacasept.com
 .ducatglfez.com
 .duck.wings-dark.services
+.duckiecaesura.com
 .duckiessongle.com
 .duckswillsmoochyou.com
 .ducmiptu.net
@@ -26009,6 +25939,7 @@ visit.webhosting.yahoo.com
 .e5asyhilodice.com
 .e5bbd2cdb0.com
 .e5yx.com
+.e5z14.icu
 .e66gg.com
 .e67df3f29d.com
 .e67repidwnfu7gcha.com
@@ -26161,6 +26092,7 @@ visit.webhosting.yahoo.com
 .ec-optimizer.com
 .ec-track.com
 .ec2-44-233-143-239.us-west-2.compute.amazonaws.com
+.ec5e727d37.com
 .ec73ce0ab9.com
 .eca578b203.com
 .ecae03ea3d.com
@@ -26493,7 +26425,6 @@ visit.webhosting.yahoo.com
 .electosake.com
 .electricalbicyclelistnonfiction.com
 .electricitylaxative.com
-.elefantsearch.com
 .elegynybble.com
 .elementalantecedent.com
 .elementdeserts.com
@@ -26638,7 +26569,6 @@ visit.webhosting.yahoo.com
 .ena-native-ads4.com
 .enaceanspection.com
 .enactmedic.com
-.enactsbasiate.com
 .enacttournamentcute.com
 .enalytics.fr
 .enamberchivies.com
@@ -27361,8 +27291,8 @@ visit.webhosting.yahoo.com
 .exportspring.com
 .exposuremixed.com
 .express-submit.de
+.expressalike.com
 .expressvampire.com
-.expwyredocks.com
 .exrtbsrv.com
 .ext.bhol.co.il
 .ext.goguardian.com
@@ -27787,7 +27717,6 @@ visit.webhosting.yahoo.com
 .fdsousf.cn
 .fdsur.com
 .fdveqpc.cn
-.fdxnvfwfnc.com
 .fdxpfeb.cn
 .fdxstats.xyz
 .fdxydnu.cn
@@ -28102,6 +28031,7 @@ visit.webhosting.yahoo.com
 .firist.com
 .firm.bidtizadd.ru
 .firmenia.com
+.firmlychurchyard.com
 .firon.xyz
 .firrectly.top
 .firsstudtog.cam
@@ -28197,6 +28127,7 @@ visit.webhosting.yahoo.com
 .flatcapspriggy.cam
 .flatepicbats.com
 .flatlyforensics.com
+.flavoursomewherefertilised.com
 .flawexpectationsfurther.com
 .flaxenvapour.com
 .flaxierfilmset.com
@@ -28259,6 +28190,7 @@ visit.webhosting.yahoo.com
 .fluentmobile.com
 .fluffer.xyz
 .fluffycodepotc.com
+.fluffynickname.com
 .fluffynyasquirell.com
 .fluid-pie.pro
 .fluidsurveys.com
@@ -28892,7 +28824,6 @@ visit.webhosting.yahoo.com
 .fyqdzrydfww.com
 .fyreball.com
 .fytboti.ru
-.fyvgfharltlvv.com
 .fyvvm.com
 .fyyqq.top
 .fyzbvwb.cn
@@ -30316,6 +30247,7 @@ visit.webhosting.yahoo.com
 .grudgewallet.com
 .grudreeb.com
 .grumblecrytopless.com
+.grumpy-fear.pro
 .grumrt.com
 .grunoaph.net
 .grupoemidia.com.br
@@ -30567,7 +30499,6 @@ visit.webhosting.yahoo.com
 .h8vzwpv.com
 .h98s.com
 .haa66855mo.club
-.habaerashiksas.com
 .habboss.fr
 .habbubrauraci.live
 .habeglee.net
@@ -31672,6 +31603,7 @@ visit.webhosting.yahoo.com
 .hsnsdqd.cn
 .hsoub.com
 .hsrvv.com
+.hss2y.com
 .hssapp.shop
 .hssebb.xyz
 .hsslx.com
@@ -31868,6 +31800,7 @@ visit.webhosting.yahoo.com
 .hvooyieoei.com
 .hvvevjiuq.com
 .hwa.his.huawei.com
+.hwaawsh.com
 .hwanjia.com
 .hwchvgpc.xyz
 .hwmonitor-ru.ru
@@ -32344,6 +32277,7 @@ visit.webhosting.yahoo.com
 .ilovemakingpics.com
 .ilovemobi.com
 .iltelo.xyz
+.iludmt.com
 .ilusors.com
 .ilwqmelpdpq.xyz
 .ilxhsgd.com
@@ -32388,7 +32322,6 @@ visit.webhosting.yahoo.com
 .imassg.xyz
 .imatrk.net
 .imbalmenvy.website
-.imbalmscashews.com
 .imcht.net
 .imdvisual.ltd
 .imediaaudiences.com
@@ -32541,7 +32474,6 @@ visit.webhosting.yahoo.com
 .inanemuseum.com
 .inanepercyfinancially.com
 .inanitystorken.com
-.inarkizzy.com
 .inateck.fr
 .inattentivehandymanpresentiment.com
 .inaudium.com
@@ -32623,7 +32555,6 @@ visit.webhosting.yahoo.com
 .ineedhits.com
 .ineediscounts.com
 .inegolreklam.net
-.inerjpagfrk.com
 .inestimabletrifling.com
 .inethoster.org
 .inetinteractive.com
@@ -32968,7 +32899,6 @@ visit.webhosting.yahoo.com
 .intro4ads.com
 .introfykeeler.tech
 .intrudeaccess.com
-.intrudeindigo.com
 .intrudesome.com
 .inuapixndextq.xyz
 .inurneddoggish.com
@@ -33151,7 +33081,6 @@ visit.webhosting.yahoo.com
 .irregogham.com
 .irrelevantassassinclaim.com
 .irreparablewretchsurrogate.com
-.irrisoranemone.com
 .irritationburlydusk.com
 .irtya.com
 .irtyd.com
@@ -33288,6 +33217,7 @@ visit.webhosting.yahoo.com
 .ityou2tcdb.icu
 .itzekromom.com
 .iu9g.top
+.iucobwkeyai.com
 .iuerxw.xyz
 .iulftx.com
 .iuliglsh.space
@@ -33312,7 +33242,6 @@ visit.webhosting.yahoo.com
 .ivjkdyrjjgxhch.com
 .ivoirmixdj.fr
 .ivoriedkolis.digital
-.ivoryochroid.com
 .ivoxua.socratos.net
 .ivpraz.com
 .ivr.com.tr
@@ -33327,6 +33256,7 @@ visit.webhosting.yahoo.com
 .iwe.ktvgv.com
 .iwebtrack.com
 .iwfofotjwlcphm.xyz
+.iwjgwis.cn
 .iwqetbj.cn
 .iwqzrm.com
 .iwrzdwi.cn
@@ -33434,7 +33364,6 @@ visit.webhosting.yahoo.com
 .jaleepsorous.website
 .jalewaads.com
 .jaloppystudy.life
-.jalouseshawano.com
 .jambelegate.casa
 .jambocast.com
 .jambultoxamin.com
@@ -33508,6 +33437,7 @@ visit.webhosting.yahoo.com
 .jbplm.com
 .jbrlsr.com
 .jbugk.com
+.jbuzacg.cn
 .jc1.dayfund.com.cn
 .jcdbae.cn
 .jcdhgpqglpjwh.xyz
@@ -33583,7 +33513,6 @@ visit.webhosting.yahoo.com
 .jet.zbp.ru
 .jetem.fr
 .jetgatem.com
-.jetsomkhulda.com
 .jetsowilk.com
 .jettrujole.com
 .jetx.info
@@ -33834,7 +33763,6 @@ visit.webhosting.yahoo.com
 .join1.winhundred.com
 .joinads.me
 .joinbrand.club
-.joiningvaselet.com
 .joinpropeller.com
 .jojoad.com
 .jojog.com
@@ -33901,7 +33829,6 @@ visit.webhosting.yahoo.com
 .jqcgyjwidktu.xyz
 .jqdldk.cn
 .jqdnvg.com
-.jqeyvtgelo.com
 .jqk2me2mzf.ru
 .jqnggnsa.fun
 .jqtzw.xyz
@@ -34127,6 +34054,7 @@ visit.webhosting.yahoo.com
 .jux9ms4vc7.ru
 .juxuyun.com
 .juyqiolna.cyou
+.juzwrl.xyz
 .jvgjrb.com
 .jvljpv.com
 .jvpook.cn
@@ -34277,6 +34205,7 @@ visit.webhosting.yahoo.com
 .karinart.de
 .karonty.com
 .karsauwi.xyz
+.karshagirdled.com
 .kartables.fr
 .karvarcloit.com
 .kasdwergv.com
@@ -34353,6 +34282,7 @@ visit.webhosting.yahoo.com
 .keegesta.com
 .keegleedaphi.com
 .keekeeps.com
+.keen-slip.com
 .keentech.top
 .keepass.com
 .keepass.fr
@@ -34963,7 +34893,6 @@ visit.webhosting.yahoo.com
 .kvhttt.top
 .kvidcq.com
 .kvision.tv
-.kvjkkwyomjrx.com
 .kvkaa.com
 .kvkddd.top
 .kvkggg.top
@@ -35110,6 +35039,7 @@ visit.webhosting.yahoo.com
 .labourmuttering.com
 .labporno.com
 .labsappland.com
+.lacanggha.com
 .lacentrrale.fr
 .lacerate.club
 .lacetrale.fr
@@ -35539,7 +35469,6 @@ visit.webhosting.yahoo.com
 .leiwo.xyz
 .leixigroup.com
 .lejlb.com
-.lejlchnxlrsdfev.com
 .lejso.com
 .leket.fr
 .leklicht.net
@@ -35936,7 +35865,6 @@ visit.webhosting.yahoo.com
 .linnechaya.com
 .linodo.ru
 .linono.ru
-.linouscestos.com
 .linuxpark.adtech.fr
 .linuxpark.adtech.us
 .liod1ours.com
@@ -36440,6 +36368,7 @@ visit.webhosting.yahoo.com
 .longertail.pl
 .longestwaileddeadlock.com
 .longrich.fr
+.lonits.com
 .lonreddone.com
 .loodoost.net
 .loohiwez.net
@@ -36632,6 +36561,7 @@ visit.webhosting.yahoo.com
 .lttxwrvhyzb.com
 .lturerpartm.com
 .ltyabkihjsecl.xyz
+.ltyscmtia.xyz
 .luassane.cn
 .lubao-food.mobi
 .lubbreton.com
@@ -37520,7 +37450,6 @@ visit.webhosting.yahoo.com
 .media.888.com
 .media.adrime.com
 .media.bonnint.net
-.media.casumoaffiliates.com
 .media.charter.com
 .media.dabong247.com
 .media.easyads.bg
@@ -37811,6 +37740,7 @@ visit.webhosting.yahoo.com
 .meryjane.pro
 .merzostueru2hu8jr09.com
 .mes-bon-plans.fr
+.mesallyrewoke.com
 .mesalplayboy.com
 .meshagreeable.com
 .meshpetrols.com
@@ -37963,6 +37893,7 @@ visit.webhosting.yahoo.com
 .mffdn.xyz
 .mfjpwroy.com
 .mfk-cpm.com
+.mftfkpwsl.com
 .mfueffpe.com
 .mg2connext.com
 .mg4s1.com
@@ -38583,6 +38514,7 @@ visit.webhosting.yahoo.com
 .montkyodo.top
 .montlusa.top
 .montpdp.top
+.monts.cyou
 .montwam.top
 .monumentsmaterialeasel.com
 .monxserver.com
@@ -38646,7 +38578,6 @@ visit.webhosting.yahoo.com
 .morred.com
 .morrowfreezer.com
 .morsinsaner.uno
-.mortalskeer.com
 .mortgage-rates.now-cash.com
 .mortypush.com
 .mosaiq.io
@@ -39534,7 +39465,6 @@ visit.webhosting.yahoo.com
 .negyuk.com
 .nehagex.cn
 .nehersheteen.pro
-.nehjnhektmg.com
 .nehodyshy.pro
 .nehuha.ru
 .neighborlywatch.com
@@ -39954,6 +39884,7 @@ visit.webhosting.yahoo.com
 .nitroclicks.com
 .nitrogenblissful.com
 .nitrogendetestable.com
+.nitrogeneligible.com
 .nitropay.com
 .nitsano.ru
 .nitytolearnan.biz
@@ -40694,6 +40625,7 @@ visit.webhosting.yahoo.com
 .obtainlylibuk.club
 .obtaintrenchhooray.com
 .obvhiojpse.xyz
+.obvious-lesson.pro
 .oc2tdxocb3ae0r.com
 .oc734yaw3w.rest
 .ocated.com
@@ -40712,7 +40644,6 @@ visit.webhosting.yahoo.com
 .ocexikc.cn
 .ocgijsxnu.xyz
 .ochaugly.net
-.ochkyckmai.com
 .ochringtensor.com
 .ochze.com
 .ocive.xyz
@@ -40920,6 +40851,7 @@ visit.webhosting.yahoo.com
 .oivgqnt.cn
 .oix.com
 .oix.net
+.oixocshiakeqoq.com
 .oiya.ru
 .oiycak.com
 .oiyxoyrnsuhhm.xyz
@@ -40935,6 +40867,7 @@ visit.webhosting.yahoo.com
 .ojpem.com
 .ojqbnqdwycws.com
 .ojrq.net
+.ojvmaefbufvcs.com
 .ok-11-cai.cc
 .ok-ddjsyuming.com
 .ok-qqzzjsyuming.com
@@ -40968,7 +40901,6 @@ visit.webhosting.yahoo.com
 .oladyip.cn
 .olamicmails.com
 .olatumal.com
-.olaxwedeled.com
 .olayomad.com
 .olbein.com
 .old-glasses.net
@@ -41255,7 +41187,6 @@ visit.webhosting.yahoo.com
 .oostotsu.com
 .ootchaig.xyz
 .ootchoft.com
-.ootidgabari.com
 .ooutube.fr
 .oovilsol.com
 .oownik.com
@@ -41323,7 +41254,6 @@ visit.webhosting.yahoo.com
 .opertyvaluationiam.xyz
 .opgge.xyz
 .opgolan.com
-.ophkomuqhbgxga.com
 .ophoadee.xyz
 .ophwrh.cn
 .opienetwork.com
@@ -41397,6 +41327,7 @@ visit.webhosting.yahoo.com
 .opxapvdpqnbbhl.xyz
 .opxnwz.shop
 .opymgaj.cn
+.oqbplvbkhg.com
 .oqfdan.cn
 .oqnggnsk.fun
 .oqshoyd.cn
@@ -41731,7 +41662,6 @@ visit.webhosting.yahoo.com
 .owlunimmvn.com
 .own-eu-cloud.com
 .ownadne.ru
-.owncdrfpv.com
 .owncutone.com
 .owndata.network
 .ownerfacinglung.com
@@ -42037,6 +41967,7 @@ visit.webhosting.yahoo.com
 .paqpq.com
 .parabit.ru
 .parachuteeffectedotter.com
+.paradisemall.net
 .paradisetits.ru
 .paradocs.ru
 .parafiaukta.pl
@@ -42192,6 +42123,7 @@ visit.webhosting.yahoo.com
 .pathforpoints.com
 .pathloaded.com
 .pathosacetals.com
+.patibe.com
 .patinesgaulin.com
 .patio-furniture.dreamhoster.com
 .patiotheoretical.com
@@ -42333,7 +42265,6 @@ visit.webhosting.yahoo.com
 .peanutsurrogatesurrogate.com
 .pearanceofam.xyz
 .pearlfeet.fr
-.peartpaeon.com
 .peateryfewnes.com
 .pebblemedia.be
 .peciet.com
@@ -42385,6 +42316,7 @@ visit.webhosting.yahoo.com
 .pemainedperio.com
 .pendo.io
 .pendulumkeg.com
+.penheiressfundamental.com
 .penitentiaryoverdosetumble.com
 .penjazzvice.com
 .penkillingapathy.com
@@ -42457,6 +42389,7 @@ visit.webhosting.yahoo.com
 .perimeterx.net
 .perinstallcash.com
 .perion.com
+.perishcraft.com
 .perk0mean.com
 .perkcanada.com
 .perljs.com
@@ -43199,6 +43132,7 @@ visit.webhosting.yahoo.com
 .polarbyte.com
 .polarcdn-pentos.com
 .polarcdn-terrax.com
+.polardemeanour.com
 .polarmobile.com
 .pole.6rooms.com
 .polelemploi.fr
@@ -43356,6 +43290,7 @@ visit.webhosting.yahoo.com
 .porekosa.pics
 .porekosa.shop
 .porekosa.xyz
+.porjjhu.cn
 .porkinconceivable.com
 .porlsbll.cyou
 .pornaqua.com
@@ -44297,7 +44232,6 @@ visit.webhosting.yahoo.com
 .purplepatch.online
 .purryowl.com
 .pursedistraught.com
-.pursualstums.com
 .pursuingconjunction.com
 .pursuitnauseousinvalid.com
 .pusatiklan.com
@@ -44505,6 +44439,7 @@ visit.webhosting.yahoo.com
 .pyropenunmould.com
 .pyrroylceriums.com
 .pyrrtep.cn
+.pythat.com
 .pythoncareens.tech
 .pyvqoaoeeen.com
 .pyxidiaimmerit.com
@@ -44643,6 +44578,7 @@ visit.webhosting.yahoo.com
 .qgnlbjkxrzb.com
 .qgnqsebea.com
 .qguwoq.cn
+.qgxbluhsgad.com
 .qhdhtd.com
 .qhiqgrf.cn
 .qhlmb.com
@@ -44706,7 +44642,6 @@ visit.webhosting.yahoo.com
 .qiyijiazhuangshi.com
 .qiyu.shop
 .qizjkwx9klim.com
-.qj399htl.de
 .qj86.cn
 .qjfokdzhkyjf.com
 .qjing39.top
@@ -44749,6 +44684,7 @@ visit.webhosting.yahoo.com
 .qntgbjjxbomuybu.com
 .qntihf.com
 .qnudcjkud.xyz
+.qnytqafoxu.com
 .qo4nkz03dy.cn
 .qoaaa.com
 .qoepkc.top
@@ -44885,6 +44821,7 @@ visit.webhosting.yahoo.com
 .quber.ru
 .qubitproducts.com
 .qubo94.com
+.qucireideaux.com.ua
 .qucireideauxdw.xyz
 .qudaoweiwang.com
 .quebecanaemia.tech
@@ -45556,6 +45493,7 @@ visit.webhosting.yahoo.com
 .regadsworld.com
 .regardedsaid.com
 .regardianpleast.site
+.regardingpectoralcollapse.com
 .regclassboard.com
 .regflow.com
 .reggierander.com
@@ -45810,7 +45748,6 @@ visit.webhosting.yahoo.com
 .requestmetrics.com
 .requestvirginity.com
 .requiresfamoushometown.com
-.rerackbirma.com
 .rereddit.com
 .rereegny.net
 .reroplittrewheck.pro
@@ -46055,6 +45992,7 @@ visit.webhosting.yahoo.com
 .rgnlaigz.fun
 .rgp-ign.fr
 .rgqxbf.com
+.rgsnlgcsmk.com
 .rgttoipdr.com
 .rgverkqcpahaqcqtmpksxicmtno.com
 .rgy1wk.ru
@@ -46062,7 +46000,6 @@ visit.webhosting.yahoo.com
 .rhads.sv.publicus.com
 .rhcknl.xyz
 .rhendam.com
-.rhesusvitrite.com
 .rhhmaq.com
 .rhinoceroscoketooth.com
 .rhinoseo.com
@@ -46133,6 +46070,7 @@ visit.webhosting.yahoo.com
 .rights.wang
 .rightstats.com
 .rigidearnest.com
+.rigies.com
 .rihosaphe.com
 .rilelogicbuy.com
 .rilledlyres.com
@@ -46392,7 +46330,6 @@ visit.webhosting.yahoo.com
 .rootbuzz.com
 .ropeanres.com
 .ropemoon.com
-.roqmerdeuro.com
 .rorer.ru
 .rorgoops.com
 .rorlsblm.cyou
@@ -46501,7 +46438,6 @@ visit.webhosting.yahoo.com
 .rrf.fat1domain1
 .rriedstronugos.xyz
 .rrimpl.com
-.rrkgjtdn.com
 .rrkky.top
 .rrll.love
 .rrolawcats2bsl4b.in.net
@@ -46557,6 +46493,7 @@ visit.webhosting.yahoo.com
 .rtbbnrdip.com
 .rtbclick.net
 .rtbdnav.com
+.rtbfit.com
 .rtbflairads.com
 .rtbidder.net
 .rtbidhost.com
@@ -46647,6 +46584,7 @@ visit.webhosting.yahoo.com
 .rulerabbit.com
 .ruliam.com
 .ruliglso.space
+.rulingcaviarreliance.com
 .rulmnehkhf.xyz
 .rulovar.com
 .rumandwaterv.info
@@ -46736,6 +46674,7 @@ visit.webhosting.yahoo.com
 .rvmessage.online
 .rvmessage.site
 .rvmessage.top
+.rvmessages.online
 .rvmessages.site
 .rvpinform.com
 .rvpsrv.com
@@ -46785,6 +46724,7 @@ visit.webhosting.yahoo.com
 .rzijjeb.cn
 .rzjirk.com
 .rzlib.net
+.rzlp.xyz
 .rzneekilff.com
 .rzngisyz.xyz
 .rzqdqw.com
@@ -46990,7 +46930,6 @@ visit.webhosting.yahoo.com
 .sam.msn.com
 .sam.setimedia.com
 .samage-bility.icu
-.samaniclucked.com
 .samantharegina.com
 .samanthyean.com
 .samazd.com
@@ -47062,7 +47001,6 @@ visit.webhosting.yahoo.com
 .satisfactionpredictmusic.com
 .satisfactorilybewitchgreatness.com
 .satisfactorydipforeman.com
-.satraefreath.com
 .saturdayaremoaning.com
 .saturdayloathe.com
 .saturdaymarryspill.com
@@ -47127,6 +47065,7 @@ visit.webhosting.yahoo.com
 .sbfsdvc.com
 .sbird.xyz
 .sblftg.com
+.sblongvu.com
 .sbroiughttohi.xyz
 .sbscribeme.com
 .sbscrma.com
@@ -47155,7 +47094,6 @@ visit.webhosting.yahoo.com
 .scambiositi.com
 .scamblefeedman.com
 .scammereating.com
-.scanmedios.com
 .scanscout.com
 .scanverify.com
 .scapid.com
@@ -47211,7 +47149,6 @@ visit.webhosting.yahoo.com
 .scintillatingspace.com
 .scissorstenantplot.com
 .scktmdv.cn
-.scliffbagroom.com
 .sclk.org
 .scmqhshjvgcw.xyz
 .scnd-tr.com
@@ -48117,7 +48054,6 @@ visit.webhosting.yahoo.com
 .shusacem.net
 .shuswapwitness.store
 .shuveenvcfzk.com
-.shuvramutules.com
 .shuying.run
 .shvhse.com
 .shweflix.com
@@ -48182,6 +48118,7 @@ visit.webhosting.yahoo.com
 .sikr.chimeratool.com
 .silasagreement.com
 .silcom.com
+.silebu.xyz
 .silenitmanby.info
 .silent-tackle.com
 .siliconf.fr
@@ -48268,6 +48205,7 @@ visit.webhosting.yahoo.com
 .sisafnib.space
 .sisgirlav.info
 .sistemishop.it
+.sistercomb.com
 .siswensaidoh.xyz
 .sitdoobly.com
 .site-kaiseki-tool.com
@@ -48319,6 +48257,7 @@ visit.webhosting.yahoo.com
 .situatebullied.com
 .situsiklanbaris.com
 .siuscs.xyz
+.sixarwr.cn
 .sixft-apart.com
 .sixminutes.biz
 .sixtybirthsuperstition.com
@@ -48949,6 +48888,7 @@ visit.webhosting.yahoo.com
 .soujoobafoo.com
 .soulfulinevitable.pro
 .soulplp.com
+.soulsoul.xyz
 .soundcloud-pax.pandora.com
 .soundelktemper.com
 .soundofhope.org
@@ -49784,7 +49724,6 @@ visit.webhosting.yahoo.com
 .stemgthrop.one
 .stempelcosier.com
 .stenadewy.pro
-.stenchcurtail.com
 .stenchdaltonrunaway.com
 .step-step-go.com
 .stepkeydo.com
@@ -49797,7 +49736,6 @@ visit.webhosting.yahoo.com
 .sternlythese.com
 .stethydelicat.com
 .stetic.com
-.stetssublet.com
 .steveberry.fr
 .stevoglutu.com
 .stewlinedull.com
@@ -49984,7 +49922,6 @@ visit.webhosting.yahoo.com
 .stunningruin.com
 .stunsbarbola.website
 .stunthedge.com
-.stuppsmit.com
 .sturea.com
 .stuted.com
 .stvkr.com
@@ -50002,7 +49939,6 @@ visit.webhosting.yahoo.com
 .subcreation.fr
 .subdo.torrentrapid.com
 .subeditatresic.com
-.subemania.com
 .subendorse.com
 .subgitrelais.com
 .subiz-cdn.com
@@ -50439,7 +50375,6 @@ visit.webhosting.yahoo.com
 .systil.com
 .systweak.com
 .sytxao.com
-.sywqmnpkqlks.com
 .syxcwxur.com
 .syybmy.cn
 .syyycc.com
@@ -50589,6 +50524,7 @@ visit.webhosting.yahoo.com
 .tag.contactatonce.co.uk
 .tag.datariver.ru
 .tag.dec-connect.decsuite.com
+.tag.imagino.com
 .tag.karte.io
 .tag.nifty.com
 .tag.pprl.io
@@ -50680,8 +50616,6 @@ visit.webhosting.yahoo.com
 .talamk3.beauty
 .talaropa.com
 .talazywho.pro
-.talckdorlach.com
-.talipeshorst.com
 .talkmego.com
 .talliedhorrors.digital
 .tallyhoquires.com
@@ -50709,14 +50643,12 @@ visit.webhosting.yahoo.com
 .tanieaukcje.com
 .taniezakupy.pl
 .tanio-najtaniej.com
-.tankasphose.com
 .tankastapia.com
 .tankeuro.com
 .tanshan.site
 .tantheretrec.ru
 .tantialcottish.xyz
 .tantiterhalac.xyz
-.tantohoggism.com
 .tantractium.com
 .tanyp.xyz
 .taobc.com
@@ -51079,6 +51011,7 @@ visit.webhosting.yahoo.com
 .terperbelomo.com
 .terra8nb.com
 .terraclicks.com
+.terrainslive.com
 .terralink.xyz
 .terrapsps.com
 .terrapush.com
@@ -51423,6 +51356,7 @@ visit.webhosting.yahoo.com
 .thricemodestsuffix.com
 .thrilledaliasoil.com
 .thrilling.ru
+.thrillingblindly.com
 .thriveradioactivecheers.com
 .throngsarseno.com
 .throtle.io
@@ -51770,6 +51704,7 @@ visit.webhosting.yahoo.com
 .tomponcainite.com
 .tomsonguitars.co.uk
 .tomuwlf.cn
+.toncooperateapologise.com
 .tonefuse.com
 .tonemedia.com
 .tonesprotectioncard.com
@@ -51799,6 +51734,7 @@ visit.webhosting.yahoo.com
 .tools.3g.qq.com
 .tools.ascontentcloud.com
 .tools.islive.nl
+.toolsthwartgrim.com
 .toonikab.com
 .toonoost.net
 .toorebutheh.xyz
@@ -52845,6 +52781,7 @@ visit.webhosting.yahoo.com
 .tuench.com
 .tuesdayfetidlit.com
 .tufsjnk.cn
+.tugarmyindistinct.com
 .tugflmw.cn
 .tuifish.com
 .tuinfra.com
@@ -53311,7 +53248,6 @@ visit.webhosting.yahoo.com
 .ulourgaz.net
 .ulqihfr.cn
 .ulried.com
-.ulrzovfukgkljw.com
 .ulsynmlt.fun
 .ultanceev.com
 .ultimateclixx.com
@@ -53448,6 +53384,7 @@ visit.webhosting.yahoo.com
 .unicume.com
 .unid.go.com
 .unifini.de
+.uniformutilitiesexpressing.com
 .uniguide.fr
 .unilife.top
 .unimportant-vehicle.pro
@@ -53497,6 +53434,7 @@ visit.webhosting.yahoo.com
 .unodieuxconnard.fr
 .unolis.ru
 .unonoticias.net
+.unpackgreaterbulk.com
 .unpacktexture.com
 .unpanchamon.com
 .unpfqc9.com
@@ -53572,7 +53510,6 @@ visit.webhosting.yahoo.com
 .uofmnbkm.com
 .uogrvci.cn
 .uole.ad.uol.com.br
-.uomsogicgi.com
 .uongsona.uno
 .uongsono.uno
 .uorlsblg.cyou
@@ -54102,7 +54039,6 @@ visit.webhosting.yahoo.com
 .vaugroar.com
 .vault-encryption.com
 .vaultwrite.com
-.vawnpqcjfig.com
 .vawsmoocah.com
 .vawulu.xyz
 .vax-boost.com
@@ -54283,7 +54219,6 @@ visit.webhosting.yahoo.com
 .vg4u8rvq65t6.com
 .vggzftw.cn
 .vgimer.cn
-.vgjjkbgicukcgt.com
 .vgntevtkbntb.com
 .vgrovkb.cn
 .vgs-collect-keeper.apps.verygood.systems
@@ -54429,7 +54364,6 @@ visit.webhosting.yahoo.com
 .vidible.tv
 .vidigital.ru
 .vidnline.com
-.vidoplay.com
 .vidora.com
 .vidout.net
 .vidplah.com
@@ -54508,6 +54442,7 @@ visit.webhosting.yahoo.com
 .viokan.xvhod.ru
 .violates.wang
 .violentanimal.pro
+.violetlovelines.com
 .violondeaf.guru
 .vionertelssat.pro
 .vionito.com
@@ -54573,6 +54508,7 @@ visit.webhosting.yahoo.com
 .visariomedia.com
 .visiads.com
 .visibility-stats.com
+.visibilitymondaydisappeared.com
 .visiblegains.com
 .visiblejoseph.com
 .visiblemeasures.com
@@ -55148,12 +55084,12 @@ visit.webhosting.yahoo.com
 .waudit.cz
 .waufooke.com
 .waugique.net
+.waushaup.com
 .waust.at
 .wauthaik.net
 .wauthaum.com
 .waveclks.com
 .wavermigraineuncle.com
-.wawlingbedown.com
 .wawlingcuba.com
 .waxaimg.info
 .waxingequant.space
@@ -55614,10 +55550,12 @@ visit.webhosting.yahoo.com
 .whegrads.com
 .whehilru.com
 .whelia.com
+.whenmyfe.xyz
 .whentheyopened.com
 .wheral.com
 .where.com
 .whereaboutsconclusive.com
+.wherebyinstantly.com
 .wheredoyoucomefrom.ovh
 .whereismybonus.com
 .whereres.com
@@ -55708,6 +55646,7 @@ visit.webhosting.yahoo.com
 .whulterprotein.com
 .whuptaiz.net
 .whxva.com
+.whychymithy.com
 .whycywhivu.pro
 .whysoserius.club
 .whzz.shop
@@ -55715,7 +55654,6 @@ visit.webhosting.yahoo.com
 .wibtntmvox.com
 .wickedlongingbelfry.com
 .wickedreports.com
-.wickiupcopalms.com
 .widaimty.com
 .wideangle.co
 .widebanner.com
@@ -55833,6 +55771,7 @@ visit.webhosting.yahoo.com
 .winter-balance.com
 .winternewsnow.name
 .winterolivia.com
+.wintjaywolf.org
 .wintoyouprizes.info
 .wintricksbanner.googlepages.com
 .winvideo.org
@@ -56082,6 +56021,7 @@ visit.webhosting.yahoo.com
 .worn-brown.pro
 .wornie.com
 .worred.com
+.worriesteapotairborne.com
 .worry-free-savings.com
 .worrycrevicewholly.com
 .worsterring.com
@@ -56151,7 +56091,6 @@ visit.webhosting.yahoo.com
 .wrapper.lemde.fr
 .wrathfultower.pro
 .wreathabble.com
-.wreckergaboon.com
 .wreckgroupads.com
 .wrenchsound.store
 .wretchauraflirt.com
@@ -56979,7 +56918,6 @@ visit.webhosting.yahoo.com
 .xd4a.top
 .xdaigua.cn
 .xddfsp.com
-.xddsuxmfvi.com
 .xdeqhxqu.com
 .xdgeph.ru
 .xdh0808.com
@@ -57277,7 +57215,6 @@ visit.webhosting.yahoo.com
 .xqmyebdrunebsh.xyz
 .xqoekp.cn
 .xqrprttdvmynv.com
-.xqrykosuvwibnw.com
 .xqzlgbbe.com
 .xqzzl1l.cn
 .xr-tds.com
@@ -57352,6 +57289,7 @@ visit.webhosting.yahoo.com
 .xulilin.ltd
 .xumnxwvw.ink
 .xuningk.xyz
+.xuninrfwruoyqb.xyz
 .xunjiu.online
 .xunsilu.com
 .xuossk3tu6hb.com
@@ -57630,7 +57568,6 @@ visit.webhosting.yahoo.com
 .yeswegays.com
 .yettyz.com
 .yev.moviesdirectpro.com
-.yevcjqgi.com
 .yext-pixel.com
 .yeyuly.love
 .yfddaetiu.xyz
@@ -57787,7 +57724,6 @@ visit.webhosting.yahoo.com
 .ym-a.cc
 .ym8p.net
 .ymail-activate1.bugs3.com
-.ymaptwurhj.com
 .ymdxl.com
 .ymetrica.com
 .ymetrica1.com
@@ -57962,7 +57898,6 @@ visit.webhosting.yahoo.com
 .yowbbxi.cyou
 .yowledwarm.website
 .yoyadsdom.com
-.ypcbxpsypoea.com
 .ypiads.com
 .yping.online
 .ypjmvdfxqw.com
@@ -57980,6 +57915,7 @@ visit.webhosting.yahoo.com
 .yqeuu.com
 .yqg0rv8p35.ru
 .yqgjq.com
+.yqgpic.xyz
 .yqmxfz.com
 .yqqlupkasbhmdj.xyz
 .yqrta.xyz
@@ -58308,6 +58244,7 @@ visit.webhosting.yahoo.com
 .zdy1.xyz
 .zdzy.shop
 .zeads.com
+.zealeddrizzly.com
 .zealotsick.com
 .zebestof.com
 .zebraicrudista.com
@@ -58389,6 +58326,7 @@ visit.webhosting.yahoo.com
 .zfopakkt.com
 .zfsfkp.com
 .zfvklk.ru
+.zfykvns.cn
 .zgbtw.mobi
 .zgchaye123.com
 .zgcqxjzny.cn
@@ -58458,7 +58396,6 @@ visit.webhosting.yahoo.com
 .zhizones.com
 .zhjzjnb.xyz
 .zhkzt.com
-.zhmpqpqna.com
 .zhmyq.cn
 .zhmzsjvkii.com
 .zhokar.com
@@ -58622,6 +58559,7 @@ visit.webhosting.yahoo.com
 .zorkabiz.ru
 .zorlsbln.cyou
 .zortaudi.xyz
+.zosteraclumsy.website
 .zoteromedia.com
 .zothucypti.pro
 .zoujitea.hk
@@ -58675,6 +58613,7 @@ visit.webhosting.yahoo.com
 .zrys.xyz
 .zrysogsiq.uno
 .zsbwoqpcxj.com
+.zscwdu.com
 .zsgwed.cn
 .zsinek.com
 .zsjxwj.com
@@ -58817,7 +58756,6 @@ visit.webhosting.yahoo.com
 .zzhengre.com
 .zzkj.biz
 .zzngisyq.xyz
-.zzoluickymwz.com
 .zzpwwbf.cn
 .zzpzero.com
 .zzwzsic.cn
@@ -71512,6 +71450,7 @@ visit.webhosting.yahoo.com
 .18rm.com
 .19869.com
 .198game.com
+.19turanosephantasia.com
 .1baq2nvd6n7.www.keevowallet.com
 .1beb2a44.space
 .1ce86868bf.com
@@ -71914,7 +71853,6 @@ visit.webhosting.yahoo.com
 .8a78031439.com
 .8afb7f9e2c1a7a9e.vtube.to
 .8b4b041006.com
-.8baf7ae42000024.com
 .8bq898.73miqb.cn
 .8cnd.com
 .8eca555d94.com
@@ -71986,6 +71924,7 @@ visit.webhosting.yahoo.com
 .99smsf.com
 .99zuowen.com
 .9ca6865332.com
+.9cbj41a5.de
 .9cow.cn
 .9cp.cn
 .9cp1.com
@@ -72695,7 +72634,6 @@ visit.webhosting.yahoo.com
 .adblockerapp.net
 .adblockersentinel.com
 .adblockstream.com
-.adblockstreaming.com
 .adblockstrtape.link
 .adblockstrtech.link
 .adblockultra.com
@@ -73328,6 +73266,7 @@ visit.webhosting.yahoo.com
 .affilpartner.descanti.com
 .afflat3e1.com
 .affluencepaymentlandscape.com
+.affsuhgiyd.com
 .afftrack.healthprimeplus.net
 .afgfjdivrf.com
 .afgjbleiuoqt.com
@@ -75328,6 +75267,7 @@ visit.webhosting.yahoo.com
 .bmpx.pw
 .bmqudlicuub.com
 .bms.zeptolab.com
+.bmtmicro.com
 .bmuwlfrno.com
 .bmw100.cn
 .bmymygjbbgc.com
@@ -75886,6 +75826,7 @@ visit.webhosting.yahoo.com
 .cassettepreceding.com
 .cast9half.com
 .casulatoyon.com
+.casumoaffiliates.com
 .cat.acesandaros.org
 .cat.beunitedinchrist.com
 .cat.doebankdesigns.com
@@ -76251,6 +76192,7 @@ visit.webhosting.yahoo.com
 .cheetah.songrender.com
 .cheetah.zeh.co.il
 .cheezwhiz.z9.web.core.windows.net
+.chefishoani.com
 .chegostyzi.com
 .chegrupsishu.com
 .chen.pepelela.mom
@@ -77160,6 +77102,7 @@ visit.webhosting.yahoo.com
 .countess.twitch.tv
 .countpage.sznews.com
 .coup7cold.com
+.coupon2buy.com
 .couriersticky.com
 .courtlyuns.com
 .coverweb.org
@@ -77208,9 +77151,6 @@ visit.webhosting.yahoo.com
 .cpmaffiliation.com
 .cpms.now.com
 .cpng.be
-.cpng.ch
-.cpng.click
-.cpng.club
 .cpopino.monster
 .cppoc.com
 .cps.yaoqing.com
@@ -77511,6 +77451,7 @@ visit.webhosting.yahoo.com
 .d3anogn3pbtk4v.cloudfront.net
 .d3ddidv77grh0f.cloudfront.net
 .d3em0905j9y6sm.cloudfront.net
+.d3i28n8laz9lyd.cloudfront.net
 .d3jgr4uve1d188.cloudfront.net
 .d3oltyb66oj2v8.cloudfront.net
 .d3pkae9owd2lcf.cloudfront.net
@@ -79256,6 +79197,7 @@ visit.webhosting.yahoo.com
 .datefunclub.com
 .datetraders.com
 .datexchanges.net
+.datherap.xyz
 .datingadnetwork.com
 .datingamateurs.com
 .datingcensored.com
@@ -79318,6 +79260,7 @@ visit.webhosting.yahoo.com
 .dcclaa.freundin.de
 .dcf.espn.com
 .dcfdata.espn.com
+.dchoseitfromt.com.ua
 .dckiwt.eataly.com
 .dcmgptcbcrogl.com
 .dcmosques.com
@@ -79387,6 +79330,7 @@ visit.webhosting.yahoo.com
 .defeak.com
 .defempgkgmvccj.com
 .defiantinfluencedtrustworthy.com
+.defre.net
 .defundium.com
 .deinfkvtgkna.com
 .dekoder.ws
@@ -79794,10 +79738,8 @@ visit.webhosting.yahoo.com
 .down-paradise.com
 .downeconomywp.advancedtech.com
 .download-file.org
-.download-final-step.com
 .download-performance.com
 .download-portal.net
-.download-step1.com
 .download.56.com
 .download.howtosellahouse.info
 .downloadfiletorrent.ru
@@ -79946,6 +79888,7 @@ visit.webhosting.yahoo.com
 .duritt.com
 .durjdnjrbmiwytj.com
 .dustilygambeer.com
+.dusyguri.com
 .dutirtougaon.com
 .dutwcotjgyxssc.xyz
 .dutyoffendsmear.com
@@ -80402,6 +80345,7 @@ visit.webhosting.yahoo.com
 .egfjpgijuhr.com
 .eggnogsicerya.com
 .egjyqfidcsfw.com
+.egmyz.com
 .egoi.page
 .egoisc.com
 .egooad.com
@@ -80451,6 +80395,7 @@ visit.webhosting.yahoo.com
 .eldxbvskndmxnr.com
 .electronics-imaging.dupont.com
 .electronics.edm.globalsources.com
+.elefantsearch.com
 .elephant-ads.com
 .elephant.clerk.ai
 .elephant.stempelwiese.de
@@ -81418,8 +81363,8 @@ visit.webhosting.yahoo.com
 .fna.fnainsurance.com
 .fncash.com
 .fncnet1.com
-.fndallgifts.click
 .fnpmwkcsjfb.xyz
+.fo.irrisoranemone.com
 .foapoopt.com
 .focume.com
 .focused.wang
@@ -81575,6 +81520,7 @@ visit.webhosting.yahoo.com
 .freshrefresher.com
 .frestacero.com
 .frestime.com
+.frestlinker.com
 .frevi.net
 .friends2follow.com
 .frientialfinge.xyz
@@ -82800,7 +82746,6 @@ visit.webhosting.yahoo.com
 .hongze.info
 .hoodline.com
 .hook.integromat.com
-.hookhub.webcam
 .hookupbucks.com
 .hooligapps.com
 .hopefullyadults.com
@@ -82851,6 +82796,7 @@ visit.webhosting.yahoo.com
 .hotplay-games.life
 .hotplays-cams.life
 .hotsocials.com
+.hottesvideosapps.com
 .hotupgrade.hpplay.cn
 .hotvhlqrb.com
 .houndfleetmule.com
@@ -82864,6 +82810,7 @@ visit.webhosting.yahoo.com
 .hovxns.dehen1920.com
 .howdoesin.net
 .howeve.com
+.howsliferightnow.com
 .howsmyssl.com
 .howtolosebellyfat.shop
 .hoyxmg.deporvillage.com
@@ -83029,6 +82976,7 @@ visit.webhosting.yahoo.com
 .hyena.baseline.is
 .hyena.kitafund.com
 .hyena.wearegray.co
+.hyenadata.com
 .hygqtz.cn
 .hygrephexy.com
 .hyisrifu.com
@@ -83443,6 +83391,7 @@ visit.webhosting.yahoo.com
 .imall.cctv.com
 .imall.cntv.cn
 .imap.carte-gr.total.fr
+.imbalmscashews.com
 .imbdemfjjduu.cdnvideo3.com
 .imcpqxmtlapagng.com
 .imdns.hpplay.cn
@@ -83973,6 +83922,7 @@ visit.webhosting.yahoo.com
 .ivaplugger.com
 .ivbxao.roastmarket.de
 .ivmvil.facile.it
+.ivoryochroid.com
 .ivqfxl.brogle.de
 .ivtcdnhshx.com
 .ivuovhsn.ru
@@ -84275,6 +84225,7 @@ visit.webhosting.yahoo.com
 .jqcdn01.herokuapp.com
 .jqcdn03.herokuapp.com
 .jqcdn2.herokuapp.com
+.jqeyvtgelo.com
 .jqki.cn
 .jqr-cdn.download
 .jquery-uim.download
@@ -84530,7 +84481,6 @@ visit.webhosting.yahoo.com
 .kewholypti.com
 .keyade.uniqlo.com
 .keybut.com
-.keygwenquetecentbef.tk
 .keyne-in.com.cn
 .keyserver.ijinshan.com
 .keytui.com
@@ -84762,6 +84712,7 @@ visit.webhosting.yahoo.com
 .kveaa.com
 .kvhrrr.top
 .kvilhypwtelaos.xyz
+.kvjkkwyomjrx.com
 .kvlzsbxn.com
 .kwbtootugsx.com
 .kwerxnefv.com
@@ -85719,7 +85670,6 @@ visit.webhosting.yahoo.com
 .m.hpcat.cn
 .m.hrjjs.cn
 .m.hsrve.com
-.m.hss2y.com
 .m.hua6.cn
 .m.hun3f.cn
 .m.hvjxf.cn
@@ -86002,6 +85952,7 @@ visit.webhosting.yahoo.com
 .mallcom.com
 .mallcss.com
 .malm1coax.com
+.malthashematid.com
 .maltunfaithfulpredominant.com
 .mam.netease.com
 .mam6.netease.com
@@ -87850,6 +87801,7 @@ visit.webhosting.yahoo.com
 .naivetebibbed.com
 .naiviteusuress.com
 .najsdnkdqpsd.com
+.naleapprength.xyz
 .nameluxuries.com
 .namrinfo.motorolasolutions.com
 .nankuan.xin
@@ -88435,7 +88387,6 @@ visit.webhosting.yahoo.com
 .oibljobzmmv.com
 .oicchina.com
 .oicvgqrahaaejnx.xyz
-.oidoummoocejc.xyz
 .oil.axelspringer.com
 .oimg.mob.cnbc.com
 .oimg.universalorlando.com
@@ -88471,6 +88422,7 @@ visit.webhosting.yahoo.com
 .olibenelading.xyz
 .olil.peopleselect.cn
 .ollops.com
+.ologeysurincon.com
 .olpfeere.com
 .olpmni.acer.com
 .olroyk.ardene.com
@@ -88701,7 +88653,6 @@ visit.webhosting.yahoo.com
 .ouslayer.co
 .out.usbla.net
 .outallin.mom
-.outbalancecementnegotiation.com
 .outbrain.com.edgekey.net
 .outbrainimg.com.edgekey.net
 .outedaurigal.com
@@ -88879,7 +88830,6 @@ visit.webhosting.yahoo.com
 .papayamobile.com
 .paperezi.mom
 .paqqlk.motatos.de
-.paradisemall.net
 .parakeet.quotetweet.com
 .param.lionmobi.com
 .parameter.lionmobi.com
@@ -89627,6 +89577,7 @@ visit.webhosting.yahoo.com
 .posehind.com
 .poseratlas.com
 .posgrado.javeriana.edu.co
+.poslationcloppy.com
 .posple.com
 .posqvyovldwawp.com
 .possesseddimplebandy.com
@@ -89637,7 +89588,6 @@ visit.webhosting.yahoo.com
 .postmaster.carte-gr.total.fr
 .postquare.com
 .potatointakeafraid.com
-.potedly.co
 .potlikivmpaugt.com
 .potpourrichordataoscilloscope.com
 .potteryhuman.com
@@ -89960,6 +89910,7 @@ visit.webhosting.yahoo.com
 .pureadexchange.com
 .purechat.com
 .purgma.com
+.purplewinds.xyz
 .purpose.fressnapf.at
 .purpose.fressnapf.de
 .purpose.maxizoo.be
@@ -90548,6 +90499,7 @@ visit.webhosting.yahoo.com
 .registration.tiltingpoint.io
 .registroconsensi.it
 .regmdr.pref.ims.dialog-direct.com
+.regume.com
 .rejowhegru.com
 .rejqxhivuslw.com
 .rek.rybizak.cz
@@ -90605,6 +90557,7 @@ visit.webhosting.yahoo.com
 .req12pkgb.com
 .requial.com
 .requotehocker.com
+.rerackbirma.com
 .res-x.com
 .res.ymxiaopin.com
 .resavethyme.com
@@ -90653,6 +90606,7 @@ visit.webhosting.yahoo.com
 .results.checkshield.net
 .results.clickverifier.online
 .resurrect.club
+.reswimmouldy.uno
 .retailgobioid.com
 .retainstorkloin.com
 .retcyy.com
@@ -90689,6 +90643,7 @@ visit.webhosting.yahoo.com
 .rhearthinkchlo.xyz
 .rheebocchilean.com
 .rhelog.com
+.rhesusvitrite.com
 .rhfgjld.com
 .rhiedy.com
 .rhinoceros.workforcreators.com
@@ -91287,6 +91242,7 @@ visit.webhosting.yahoo.com
 .scallop.productionrails.com
 .scallop.vav.link
 .scan6show.com
+.scanmedios.com
 .scaupyfeuwmaxxt.com
 .scc.ssacdn.com
 .scdcd333.cn
@@ -91837,6 +91793,7 @@ visit.webhosting.yahoo.com
 .simengadx.com
 .simg.bwin.it
 .simg.interhome-retailer.com
+.similarwebline.com
 .similedy.xyz
 .similt.com
 .simpleco.in
@@ -91934,6 +91891,7 @@ visit.webhosting.yahoo.com
 .slinse.com
 .slipclearing.com
 .slippersferry.com
+.slipperydeliverance.com
 .sljkj.com
 .sloth.vguerrerobosch.com
 .slothnge.com
@@ -92793,6 +92751,7 @@ visit.webhosting.yahoo.com
 .smi2.ru
 .smiling.video
 .smised.com
+.smisit.com
 .smmx3.cn
 .smn.dankore.jp
 .smnnij.gate-to-the-games.de
@@ -93961,6 +93920,7 @@ visit.webhosting.yahoo.com
 .sub.info.mouser.com
 .sub.viafoura.co
 .sub.ykimg.com
+.subemania.com
 .subloader.cf
 .submit.vaisala.com
 .subqueriessalutationcurtain.com
@@ -94053,7 +94013,6 @@ visit.webhosting.yahoo.com
 .survey.constantcontact.com
 .survey.io
 .survey.qualfon.com
-.surveyend.com
 .surveyspaid.com
 .survivepronate.com
 .susetl.com
@@ -94766,6 +94725,7 @@ visit.webhosting.yahoo.com
 .tfdftbasnm.com
 .tfdnncmhx.com
 .tfeluikknbiq.com
+.tfgjsfrrpsreppt.com
 .tfqhmnexjjni.com
 .tfsihjmtrjnopxu.com
 .tfw73.online
@@ -94790,6 +94750,7 @@ visit.webhosting.yahoo.com
 .tgwopez.cn
 .tgwusl.cruisesonly.com
 .tgxcmcoikpgek.com
+.tgymexba.com
 .th-go.experian.com
 .th.micheryfrugal.com
 .thackgooder.com
@@ -94844,6 +94805,7 @@ visit.webhosting.yahoo.com
 .tholected.com
 .thongedoptions.com
 .thor.carte-gr.total.fr
+.thosemethod.pro
 .thourt.com
 .threatenlaid.com
 .thrillingholesantarctic.com
@@ -94888,6 +94850,7 @@ visit.webhosting.yahoo.com
 .tienu.tech
 .tiercelkeyseat.com
 .tiexing.com
+.tiffingsubband.com
 .tiger.aofinance.com.au
 .tigerhub.net
 .tigershark.moonpot.com
@@ -95041,7 +95004,6 @@ visit.webhosting.yahoo.com
 .tokyodrift.ga
 .tollfreeforwarding.com
 .tom.beclin.xyz
-.tomcleaneraddon.com
 .tomentaabac.com
 .tomnoupyellowy.com
 .tomqcaljnjvge.com
@@ -96236,6 +96198,7 @@ visit.webhosting.yahoo.com
 .uio.boencj.com
 .uiqjcpt.cn
 .uitopadxdy.com
+.uiwijwgbgemr.com
 .uixml.bidcampaign.com
 .uixyfe.bravenewlook.com
 .ujccccb.com
@@ -96339,6 +96302,7 @@ visit.webhosting.yahoo.com
 .unlrhnnan.com
 .unmord.com
 .unnist.com
+.unpleasantlaugh.pro
 .unpredictablewatchpenalty.com
 .unpsyg.47club.jp
 .unqhuyfkhbj.com
@@ -96361,6 +96325,7 @@ visit.webhosting.yahoo.com
 .uohtnfdrnhqyc.com
 .uojjpevjusfoidc.com
 .uolwbz.heine.de
+.uomsogicgi.com
 .uopmcdnpad.com
 .uoxhxwrttmmq.com
 .uozrikpw.com
@@ -96671,6 +96636,7 @@ visit.webhosting.yahoo.com
 .videozhishi.com
 .vidfile.net
 .vidkidsgedrite.com
+.vidoplay.com
 .vidpay.com
 .vidsrev.com
 .vidtech.cbsinteractive.com
@@ -96917,6 +96883,7 @@ visit.webhosting.yahoo.com
 .vuvlog.lol
 .vuwmxjusucnh.com
 .vuypew.ikks.com
+.vv.habaerashiksas.com
 .vvaaol.enuygun.com
 .vvcufx.colombo.com.br
 .vvlian.com
@@ -98362,6 +98329,7 @@ visit.webhosting.yahoo.com
 .ybswii.swarovski.com
 .ybzcmz.momoshop.com.tw
 .ycbetnqpnjwptu.com
+.ycdlqmlrf.xyz
 .ycembr.net-a-porter.com
 .ych168.cn
 .ycjhuh.stripe-club.com

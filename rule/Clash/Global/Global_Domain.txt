@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-20 02:10:27
+# UPDATED: 2023-01-22 15:46:02
 # DOMAIN: 177
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37840
+# DOMAIN-SUFFIX: 37677
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 38167
+# TOTAL: 38004
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -497,7 +497,6 @@ assets-priconne-redive-us.akamaized.net
 .acebooik.com
 .acer-group.com
 .acer.com
-.acer.com.cn
 .acgcf.com
 .acgdg.com
 .acgdv.com
@@ -538,7 +537,6 @@ assets-priconne-redive-us.akamaized.net
 .adhelpnews.com
 .adidas.be
 .adidas.ch
-.adidas.com.cn
 .adidas.it
 .admeld.com
 .admob-cn.com
@@ -641,7 +639,6 @@ assets-priconne-redive-us.akamaized.net
 .adx.promo
 .aeasyshop.com
 .aebn.com
-.aerogard.com.cn
 .aerogardcn.com
 .aesworkshops.com
 .afappyending.com
@@ -698,7 +695,6 @@ assets-priconne-redive-us.akamaized.net
 .airwick.be
 .airwick.ch
 .airwick.com
-.airwick.com.cn
 .airwick.hr
 .airwick.it
 .airwick.net
@@ -774,7 +770,6 @@ assets-priconne-redive-us.akamaized.net
 .alchemysynth.com
 .alexa.com
 .alexafund.cn
-.alexafund.com.cn
 .alexanderstreet.com
 .alhs.link
 .alhs.xyz
@@ -807,7 +802,6 @@ assets-priconne-redive-us.akamaized.net
 .alphabet.biz
 .alphabet.ch
 .alphabet.com
-.alphabet.com.cn
 .alphabet.com.lv
 .alphabet.com.pt
 .alphabet.info
@@ -893,33 +887,24 @@ assets-priconne-redive-us.akamaized.net
 .amazonauthorinsights.com
 .amazonaws-china.com
 .amazonaws.cn
-.amazonaws.com.cn
 .amazonaws.tv
 .amazonbusiness.cn
-.amazonbusiness.com.cn
 .amazonbusiness.org
 .amazonbusinessblog.com
 .amazonchoice.cn
-.amazonchoice.com.cn
 .amazonchoices.cn
-.amazonchoices.com.cn
 .amazondevicesupport.com
 .amazonfctours.com
 .amazonianblog.com
 .amazonimages.com
 .amazoninspire.cn
-.amazoninspire.com.cn
 .amazonlaunchpad.cn
 .amazonlaunchpad.com
-.amazonlaunchpad.com.cn
-.amazonlending.com.cn
 .amazonliterarypartnership.com
 .amazonlumberyard.wang
 .amazonnow.cn
-.amazonnow.com.cn
 .amazonpay.com
 .amazonprimevideo.cn
-.amazonprimevideo.com.cn
 .amazonprimevideos.com
 .amazonsdi.com
 .amazonses.com
@@ -928,10 +913,8 @@ assets-priconne-redive-us.akamaized.net
 .amazonvideo.cc
 .amazonvideo.com
 .amazonvideodirect.com
-.amazonwebservices.com.cn
 .amazonworkdocs.cn
 .amazonworkdocs.com
-.amazonworkdocs.com.cn
 .amdfanstore.com
 .ameba.jp
 .amebame.com
@@ -984,7 +967,6 @@ assets-priconne-redive-us.akamaized.net
 .andysparis.com
 .anfutong.cn
 .anfutong.com
-.anfutong.com.cn
 .angulardart.org
 .anibooru.com
 .anidom.com
@@ -1085,7 +1067,6 @@ assets-priconne-redive-us.akamaized.net
 .apple-darwin.org
 .apple-dns.cn
 .apple-dns.com
-.apple-dns.com.cn
 .apple-enews.com
 .apple-expo.com
 .apple-hk.com
@@ -1109,7 +1090,6 @@ assets-priconne-redive-us.akamaized.net
 .apple.ch
 .apple.cn
 .apple.com
-.apple.com.cn
 .apple.com.co
 .apple.com.do
 .apple.com.pr
@@ -1146,14 +1126,12 @@ assets-priconne-redive-us.akamaized.net
 .applecentar.co.rs
 .applecentar.rs
 .applecenter.cn
-.applecenter.com.cn
 .applecentre.info
 .appleclassicipod.com
 .applecom.com
 .applecomputer-imac.com
 .applecomputer.cn
 .applecomputer.com
-.applecomputer.com.cn
 .applecomputerimac.com
 .applecomputerinc.info
 .applecoronavirus.com
@@ -1161,7 +1139,6 @@ assets-priconne-redive-us.akamaized.net
 .appledarwin.com
 .appledarwin.net
 .appledns.cn
-.appledns.com.cn
 .appleenews.com
 .appleexpo.info
 .applefilmaker.com
@@ -1213,13 +1190,11 @@ assets-priconne-redive-us.akamaized.net
 .applepay.rs
 .applepay.tv
 .applepaycash.cn
-.applepaycash.com.cn
 .applepaycash.net
 .applepaycash.tv
 .applepaymerchantsupplies.info
 .applepaysupplies.cn
 .applepaysupplies.com
-.applepaysupplies.com.cn
 .applepaysupplies.info
 .applepaysupplies.net
 .applepaysupplies.tv
@@ -1236,7 +1211,6 @@ assets-priconne-redive-us.akamaized.net
 .applestore.ch
 .applestore.cn
 .applestore.com
-.applestore.com.cn
 .applestore.com.ee
 .applestore.com.hr
 .applestore.com.pt
@@ -1252,7 +1226,6 @@ assets-priconne-redive-us.akamaized.net
 .appletv.com
 .appletv.wang
 .appletv4.cn
-.appletv4.com.cn
 .applewallet.com
 .applewallet.tv
 .applewatch.tv
@@ -1301,7 +1274,6 @@ assets-priconne-redive-us.akamaized.net
 .arirangmeari.com
 .armovs.com
 .arphic.com
-.arphic.com.cn
 .art1lib.com
 .artnudegalleries.com
 .artoferotica.info
@@ -1313,7 +1285,6 @@ assets-priconne-redive-us.akamaized.net
 .asahi.com
 .asebay.com
 .asexdoll.com
-.asfiovnxocqpcry.com.cn
 .asha.org
 .ashemaletv.com
 .ashleysageellison.com
@@ -1355,7 +1326,6 @@ assets-priconne-redive-us.akamaized.net
 .associates-amazon.com
 .assylum.com
 .asus.com
-.asus.com.cn
 .atandt.com
 .atdmt2.com
 .ateam-oracle.com
@@ -1491,7 +1461,6 @@ assets-priconne-redive-us.akamaized.net
 .aws-icp-domain-manager.cn
 .aws-iot-hackathon.com
 .awsapps.cn
-.awsapps.com.cn
 .awsautopilot.com
 .awsautoscaling.com
 .awsbraket.com
@@ -1656,7 +1625,6 @@ assets-priconne-redive-us.akamaized.net
 .battlefront2.com
 .battlefrontii.com
 .battlelog.com
-.battlenet.com.cn
 .baxsound.com
 .bayareabmw.com
 .bazel.build
@@ -1728,10 +1696,8 @@ assets-priconne-redive-us.akamaized.net
 .beats-soaho.com
 .beats1.cc
 .beats1.cn
-.beats1.com.cn
 .beats1.tv
 .beats123.com
-.beats2.com.cn
 .beats4.cn
 .beats4.net
 .beats4outlets.com
@@ -1974,7 +1940,6 @@ assets-priconne-redive-us.akamaized.net
 .begin-trade.com
 .beibao.cn
 .beibao.com
-.beibao.com.cn
 .beijingnike.com
 .bejav.net
 .bejeweledstars.com
@@ -2000,7 +1965,6 @@ assets-priconne-redive-us.akamaized.net
 .bestbuy-int.com
 .bestbuy-jobs.com
 .bestbuy.cn
-.bestbuy.com.cn
 .bestbuy.info
 .bestbuy24x7solutions.com
 .bestbuybusiness.com
@@ -2140,7 +2104,6 @@ assets-priconne-redive-us.akamaized.net
 .binancezh.pro
 .binancezh.sh
 .binancezh.top
-.bing.com.cn
 .bingads.com
 .bingagencyawards.com
 .bingapistatistics.com
@@ -2376,7 +2339,6 @@ assets-priconne-redive-us.akamaized.net
 .bmw.co.id
 .bmw.com
 .bmw.com.bd
-.bmw.com.cn
 .bmw.com.co
 .bmw.com.do
 .bmw.com.py
@@ -2580,7 +2542,6 @@ assets-priconne-redive-us.akamaized.net
 .bridgestone.cn
 .bridgestone.co.id
 .bridgestone.com
-.bridgestone.com.cn
 .bridgestone.com.co
 .bridgestoneamericas.com
 .bridgestonearena.com
@@ -2769,7 +2730,6 @@ assets-priconne-redive-us.akamaized.net
 .canon.ch
 .canon.cn
 .canon.com
-.canon.com.cn
 .canon.ee
 .canon.hr
 .canon.it
@@ -3033,7 +2993,6 @@ assets-priconne-redive-us.akamaized.net
 .cisco-warrantyfinder.com
 .cisco.cn
 .cisco.com
-.cisco.com.cn
 .cisco.mobi
 .ciscoccservice.com
 .ciscoconnectcloud.com
@@ -3084,7 +3043,6 @@ assets-priconne-redive-us.akamaized.net
 .classymomsex.com
 .clco.cc
 .clearasil.cn
-.clearasil.com.cn
 .clearlinux.org
 .click-url.com
 .clickserve.cc-dt.com
@@ -3237,7 +3195,6 @@ assets-priconne-redive-us.akamaized.net
 .configuration.apple.com.akadns.net
 .connect-in-canada.com
 .connectcommerce.cn
-.connectcommerce.com.cn
 .connectcommerce.info
 .connectcommerce.tv
 .connected-drive.com
@@ -3397,7 +3354,6 @@ assets-priconne-redive-us.akamaized.net
 .customnikeshoes.com
 .cy22.tv
 .cyber-bay.cn
-.cyber-bay.com.cn
 .cyber-bay.info
 .cyber-bay.org
 .cybermondaybeats4sale.com
@@ -3547,7 +3503,6 @@ assets-priconne-redive-us.akamaized.net
 .dettol.co.id
 .dettol.com
 .dettol.com.bd
-.dettol.com.cn
 .dettol.net
 .dettol.pk
 .dettol.pt
@@ -3692,7 +3647,6 @@ assets-priconne-redive-us.akamaized.net
 .discountporn.club
 .discoveryplus.com
 .discussionsapple.com
-.dishwashingexpert.com.cn
 .dishworld.com
 .disney-asia.com
 .disney-discount.com
@@ -3950,7 +3904,6 @@ assets-priconne-redive-us.akamaized.net
 .dumpxxx.net
 .dungeonkeeper.cn
 .dungeonkeeper.com
-.dungeonkeeper.com.cn
 .duoweiweek.com
 .durex-shop.ch
 .durex-shopline.com
@@ -3958,7 +3911,6 @@ assets-priconne-redive-us.akamaized.net
 .durex.co.id
 .durex.com
 .durex.com.bd
-.durex.com.cn
 .durex.com.co
 .durex.com.hr
 .durex.com.pk
@@ -3969,7 +3921,6 @@ assets-priconne-redive-us.akamaized.net
 .durexcam.com
 .durexcanada.com
 .durexchina.com
-.durexchina.com.cn
 .durexindia.com
 .durexloveclub.com
 .durexukraine.com
@@ -3985,7 +3936,6 @@ assets-priconne-redive-us.akamaized.net
 .dx9527.cc
 .dykycl.com
 .dynacw.com
-.dynacw.com.cn
 .dynafleetonline.com
 .dynamic-dns.net
 .dynamics.cn
@@ -4056,7 +4006,6 @@ assets-priconne-redive-us.akamaized.net
 .ebay.ch
 .ebay.cn
 .ebay.com
-.ebay.com.cn
 .ebay.it
 .ebay.net.cn
 .ebay.org
@@ -4074,7 +4023,6 @@ assets-priconne-redive-us.akamaized.net
 .ebayanunsios.net
 .ebayauction.com
 .ebayaustralia.com
-.ebayauthenticate.com.cn
 .ebaybags.com
 .ebaybank.com
 .ebaybenefits.com
@@ -4088,7 +4036,6 @@ assets-priconne-redive-us.akamaized.net
 .ebaychina.net
 .ebayclassifieds.cn
 .ebayclassifieds.com
-.ebayclassifieds.com.cn
 .ebayclassifieds.info
 .ebayclassifieds.org
 .ebayclassifieds.tv
@@ -4104,7 +4051,6 @@ assets-priconne-redive-us.akamaized.net
 .ebayd.com
 .ebayde.com
 .ebaydesc.cn
-.ebaydesc.com.cn
 .ebaydlassifieds.com
 .ebaydns.cn
 .ebaydts.com
@@ -4112,7 +4058,6 @@ assets-priconne-redive-us.akamaized.net
 .ebayeletro.com
 .ebayenterprise.cn
 .ebayenterprise.com
-.ebayenterprise.com.cn
 .ebayenterprise.info
 .ebayenterprise.net
 .ebayenterprise.tv
@@ -4147,7 +4092,6 @@ assets-priconne-redive-us.akamaized.net
 .ebaymarketplace.net
 .ebaymotors.cn
 .ebaymotors.com
-.ebaymotors.com.cn
 .ebaymotors.org
 .ebaymotorsblog.com
 .ebaynow.com
@@ -4162,7 +4106,6 @@ assets-priconne-redive-us.akamaized.net
 .ebaypark.com
 .ebayparts.com
 .ebaypedia.cn
-.ebaypedia.com.cn
 .ebayprivacycenter.com
 .ebayqq.com
 .ebayradio.com
@@ -4172,7 +4115,6 @@ assets-priconne-redive-us.akamaized.net
 .ebayshop.com
 .ebayshop111.com
 .ebayshopping.cn
-.ebayshopping.com.cn
 .ebayshopping.org
 .ebaysocial.com
 .ebaysoho.com
@@ -4204,7 +4146,6 @@ assets-priconne-redive-us.akamaized.net
 .ebookservice.tw
 .ebsco.com
 .ebuyheadphones.com
-.ecgapp.com.cn
 .ecgapp.net
 .echichimato.com
 .echocdn.com
@@ -4305,7 +4246,6 @@ assets-priconne-redive-us.akamaized.net
 .enfamil.com
 .enfamil.pt
 .enfasmart.com
-.enfinitas.com.cn
 .enjoyasianporn.com
 .enjoyfuck.com
 .enlnks.com
@@ -4418,8 +4358,6 @@ assets-priconne-redive-us.akamaized.net
 .etheadphones.com
 .ethereum.foundation
 .ethereum.org
-.etnet.com.cn
-.etnetchina.com.cn
 .etviet.com
 .etwealth.com
 .eu-consumer-empowerment.com
@@ -4738,7 +4676,6 @@ assets-priconne-redive-us.akamaized.net
 .fameregistry.com
 .family-sex.me
 .family-simulator.io
-.familymart.com.cn
 .familypies.net
 .familyporn.tv
 .familypornhd.com
@@ -4795,7 +4732,6 @@ assets-priconne-redive-us.akamaized.net
 .farfetch-contents.com
 .farfetch.cn
 .farfetch.com
-.farfetch.com.cn
 .farfetch.net
 .farfetch.net.cn
 .faronics.com
@@ -4926,7 +4862,6 @@ assets-priconne-redive-us.akamaized.net
 .financeleadsonline.com
 .financetwitter.com
 .financialadvisoriq.com
-.financialsoccer.com.cn
 .find-apple.com
 .findacard.com
 .findbare.com
@@ -4941,7 +4876,6 @@ assets-priconne-redive-us.akamaized.net
 .fine-art-nude.org
 .finehub.com
 .finenike.com
-.finish.com.cn
 .finish.com.hr
 .finish.lv
 .finish.pt
@@ -5614,7 +5548,6 @@ assets-priconne-redive-us.akamaized.net
 .gmail.roche.com
 .gmnetworks.net
 .gmoney.org
-.gneec.com.cn
 .gnom-cham.com
 .gnu.org
 .go-disneyworldgo.com
@@ -5884,7 +5817,6 @@ assets-priconne-redive-us.akamaized.net
 .haisetu.net
 .haitenjp.com
 .half.com
-.half.com.cn
 .half.tv
 .halfcanada.com
 .halfjapan.com
@@ -6139,7 +6071,6 @@ assets-priconne-redive-us.akamaized.net
 .hightopnikes.com
 .highwirepress.com
 .hikunpeng.cn
-.hikunpeng.com.cn
 .hilostripper.com
 .himalaya.exchange
 .hindawi.com
@@ -6147,7 +6078,6 @@ assets-priconne-redive-us.akamaized.net
 .hipaa6020.com
 .hippyhillscomix.com
 .hipzoom.net
-.hisilicon.com.cn
 .historyofdota.com
 .historyofdota.net
 .historyofdota.org
@@ -6172,7 +6102,6 @@ assets-priconne-redive-us.akamaized.net
 .hktshop.com
 .hlbelygl.com
 .hm.com
-.hm.com.cn
 .hmd.site
 .hnalady.com
 .hobonichielog.com
@@ -6837,7 +6766,6 @@ assets-priconne-redive-us.akamaized.net
 .intel.cn
 .intel.co.id
 .intel.com
-.intel.com.cn
 .intel.com.co
 .intel.com.pr
 .intel.com.py
@@ -6925,7 +6853,6 @@ assets-priconne-redive-us.akamaized.net
 .ipfs.lain.la
 .ipfs.runfission.com
 .iphine.com
-.iphone-8.com.cn
 .iphone-cd.com
 .iphone-cn.com
 .iphone-sh.com
@@ -6968,7 +6895,6 @@ assets-priconne-redive-us.akamaized.net
 .ipod.ch
 .ipod.co
 .ipod.com
-.ipod.com.cn
 .ipod.is
 .ipod.net
 .ipod.pk
@@ -7037,7 +6963,6 @@ assets-priconne-redive-us.akamaized.net
 .itunesparty.com
 .itunesradio.cn
 .itunesradio.com
-.itunesradio.com.cn
 .itunesradio.tv
 .itunesstore.co
 .itunesu.com
@@ -7321,7 +7246,6 @@ assets-priconne-redive-us.akamaized.net
 .kidgrid.tv
 .kidsnikeshoes.com
 .kijijidns.cn
-.kijijidns.com.cn
 .kikdirty.com
 .kilmeadeandfriends.com
 .kimchi.tv
@@ -7334,7 +7258,6 @@ assets-priconne-redive-us.akamaized.net
 .kindle4rss.com
 .kindleoasis.cn
 .kindleoasis.com
-.kindleoasis.com.cn
 .kindleoasis.info
 .kindleoasis.org
 .kindleoasisnews.com
@@ -7465,7 +7388,6 @@ assets-priconne-redive-us.akamaized.net
 .legalporno.com
 .legaltracker.com
 .legendofzelda.cn
-.legendofzelda.com.cn
 .legra.ph
 .legsex.com
 .lelavement.com
@@ -7577,7 +7499,6 @@ assets-priconne-redive-us.akamaized.net
 .livejasminbabes.net
 .livemodels.co
 .livephotos.cn
-.livephotos.com.cn
 .livephotos.tv
 .liveporngirls.com
 .liveprivates.com
@@ -7654,7 +7575,6 @@ assets-priconne-redive-us.akamaized.net
 .lovethiscity.com
 .lowergiseries.com
 .lp99.pw
-.lpl.com.cn
 .lqh0bon3.xyz
 .lsawards.com
 .lsj2.shop
@@ -7681,7 +7601,6 @@ assets-priconne-redive-us.akamaized.net
 .lync.cn
 .lysol.cn
 .lysol.com
-.lysol.com.cn
 .lysol.net
 .lyzsxx.com
 .m-power.com
@@ -7696,7 +7615,6 @@ assets-priconne-redive-us.akamaized.net
 .macbook.wang
 .macbookair.cn
 .macbookair.com
-.macbookair.com.cn
 .macbookair.net
 .macbookpro.co
 .macbookpro.com
@@ -7741,7 +7659,6 @@ assets-priconne-redive-us.akamaized.net
 .magentoliveconference.com
 .magentomobile.com
 .magicmovies.com
-.magnoliaav.com.cn
 .mahajantech.com
 .mahjongcup.cn
 .maileoch.com
@@ -7801,7 +7718,6 @@ assets-priconne-redive-us.akamaized.net
 .marioandluigidreamteam.com
 .mariobroswii.com
 .mariokart.cn
-.mariokart.com.cn
 .mariokart7.com
 .mariokart8.com
 .mariosupersluggers.com
@@ -7840,7 +7756,6 @@ assets-priconne-redive-us.akamaized.net
 .mastercard.cn
 .mastercard.co.id
 .mastercard.com
-.mastercard.com.cn
 .mastercard.com.co
 .mastercard.hr
 .mastercard.inc
@@ -7902,7 +7817,6 @@ assets-priconne-redive-us.akamaized.net
 .mdlf.xyz
 .mdpi.com
 .meadjohnson.com
-.meadjohnson.com.cn
 .meadjohnson.net
 .mearki.com
 .media-amazon.com
@@ -8035,7 +7949,6 @@ assets-priconne-redive-us.akamaized.net
 .microsoftpartnercommunity.com
 .microsoftpartnersolutions.com
 .microsoftreactor.cn
-.microsoftreactor.com.cn
 .microsoftreactor.info
 .microsoftreactor.net
 .microsoftreactor.org
@@ -8055,7 +7968,6 @@ assets-priconne-redive-us.akamaized.net
 .midatlanticbmwmotorcycles.com
 .midentsolutions.com
 .miitomo.com
-.miitomo.com.cn
 .miiverse.com
 .miktex.org
 .milehighmedia.com
@@ -8233,7 +8145,6 @@ assets-priconne-redive-us.akamaized.net
 .moapi1.online
 .mobilefacebook.com
 .mobileinternational.com
-.mobileinternational.com.cn
 .mobilemarketo.com
 .mobileporngames.com
 .mobilepornmovies.com
@@ -8446,13 +8357,11 @@ assets-priconne-redive-us.akamaized.net
 .mu6bce1c.xyz
 .mucinex.cn
 .mucinex.com
-.mucinex.com.cn
 .mucinex.net
 .mucinex.tv
 .mucinexprofessional.com
 .mudvod.tv
 .muji.com
-.muji.com.cn
 .muji.net
 .mujikorea.net
 .mulheresafoder.com
@@ -8836,7 +8745,6 @@ assets-priconne-redive-us.akamaized.net
 .nikebetrue.com
 .nikebetterworld.cn
 .nikebetterworld.com
-.nikebetterworld.com.cn
 .nikebetterworld.info
 .nikebetterworld.net
 .nikebetterworld.org
@@ -8877,10 +8785,8 @@ assets-priconne-redive-us.akamaized.net
 .nikehightops.com
 .nikehyperdunk.com
 .nikeid.cn
-.nikeid.com.cn
 .nikeidshoes.com
 .nikeinc.com
-.nikeinc.com.cn
 .nikeincchemistry.com
 .nikeinstock.com
 .nikeit.com
@@ -8889,15 +8795,12 @@ assets-priconne-redive-us.akamaized.net
 .nikekd.com
 .nikekid.com
 .nikelab.cn
-.nikelab.com.cn
 .nikelink.com
 .nikeliuxiang.cn
 .nikeliuxiang.com
-.nikeliuxiang.com.cn
 .nikelives.com
 .nikelunarglide.com
 .nikemall.cn
-.nikemall.com.cn
 .nikemarketing.com
 .niken7.com
 .nikenews.com
@@ -8914,9 +8817,7 @@ assets-priconne-redive-us.akamaized.net
 .nikeresponsibility.com
 .nikereuseashoe.com
 .nikerunclub.cn
-.nikerunclub.com.cn
 .nikerunner.com
-.nikerunning.com.cn
 .nikerunningshoes.com
 .nikesb.com
 .nikesbdunks.net
@@ -8975,7 +8876,6 @@ assets-priconne-redive-us.akamaized.net
 .nintendostore.com
 .nintendoswitch.cn
 .nintendoswitch.com
-.nintendoswitch.com.cn
 .nintendoswitch.net
 .nintendoswitchtogether.com
 .nintendowii.com
@@ -9078,7 +8978,6 @@ assets-priconne-redive-us.akamaized.net
 .nunuyy.cc
 .nurofen.cn
 .nurofen.com
-.nurofen.com.cn
 .nurofen.hr
 .nurofen.it
 .nurofen.net
@@ -9097,7 +8996,6 @@ assets-priconne-redive-us.akamaized.net
 .nvidia.it
 .nvidiaforhp.com
 .nwcdcloud.cn
-.nwcdcloud.com.cn
 .nwcddns.cn
 .nwcdinfosec.cn
 .nxta.org
@@ -9273,7 +9171,6 @@ assets-priconne-redive-us.akamaized.net
 .oranum.com
 .orbitera.com
 .oreilly.com
-.oreilly.com.cn
 .oreilly.review
 .oreillystatic.com
 .oreno3d.com
@@ -9502,7 +9399,6 @@ assets-priconne-redive-us.akamaized.net
 .paypal-survey.org
 .paypal-team.com
 .paypal-viewpoints.net
-.paypal.com.cn
 .paypal.info
 .paypal.net.cn
 .paypal.org.cn
@@ -9520,7 +9416,6 @@ assets-priconne-redive-us.akamaized.net
 .paypalgivingfund.org
 .paypalhere.cn
 .paypalhere.com
-.paypalhere.com.cn
 .paypalhere.info
 .paypalhere.net
 .paypalhere.org
@@ -9571,7 +9466,6 @@ assets-priconne-redive-us.akamaized.net
 .pearson-studium.ch
 .pearson.ch
 .pearson.com
-.pearson.com.cn
 .pearsonactivelearn.com
 .pearsonassessment.be
 .pearsonassessments.com
@@ -10112,7 +10006,6 @@ assets-priconne-redive-us.akamaized.net
 .pppds.com
 .practicalbusinessskills.com
 .practicalmoneyskills.cn
-.practicalmoneyskills.com.cn
 .pre-bmwgroup.jobs
 .predictivetechnologies.com
 .premiumbooty.com
@@ -10126,14 +10019,12 @@ assets-priconne-redive-us.akamaized.net
 .prettynubiles.com
 .prfct.co
 .priceless.com
-.priceless.com.cn
 .priceless.org
 .pricelessafrica.com
 .pricelessarabia.com
 .pricelessaruba.com
 .pricelessbeijing.cn
 .pricelessbeijing.com
-.pricelessbeijing.com.cn
 .pricelesshongkong.com
 .pricelesshonolulu.com
 .pricelessmarketingengine.com
@@ -10146,7 +10037,6 @@ assets-priconne-redive-us.akamaized.net
 .prime-video.com
 .primecurves.com
 .primeday.cn
-.primeday.com.cn
 .primeday.info
 .primeindianporn.com
 .primematures.com
@@ -10189,7 +10079,6 @@ assets-priconne-redive-us.akamaized.net
 .prostoporno.net
 .prostores.cn
 .prostores.com
-.prostores.com.cn
 .prostudiobeatscybersale.com
 .prothots.com
 .protondb.com
@@ -10268,7 +10157,6 @@ assets-priconne-redive-us.akamaized.net
 .qagpublic.qcpp1.net
 .qagpublic.qpdp1.net
 .qatarescortsvip.com
-.qceventscenter.com.cn
 .qckprn.com
 .qctconnect.com
 .qdiehzz7.me
@@ -10408,7 +10296,6 @@ assets-priconne-redive-us.akamaized.net
 .react.com
 .reactjs.com
 .reactjs.org
-.reactorms.com.cn
 .readerswivesonline.com
 .readthedocs-hosted.com
 .readthedocs.com
@@ -10460,7 +10347,6 @@ assets-priconne-redive-us.akamaized.net
 .reckitt.net
 .reckittbenckiser.cn
 .reckittbenckiser.com
-.reckittbenckiser.com.cn
 .reckittbenckiser.net
 .reckittbenckiser.tv
 .reckittprofessional.com
@@ -10512,7 +10398,6 @@ assets-priconne-redive-us.akamaized.net
 .researchgate.net
 .researchintel.com
 .researchkit.cn
-.researchkit.com.cn
 .researchkit.net
 .researchkit.org
 .researchkit.tv
@@ -10622,7 +10507,6 @@ assets-priconne-redive-us.akamaized.net
 .sae.org
 .safebooru.org
 .saffrontech.com
-.sagemaker.com.cn
 .sagernet.org
 .sahabatsetiasmartone.com
 .sale-nikeshoes.com
@@ -10640,7 +10524,6 @@ assets-priconne-redive-us.akamaized.net
 .samsungapps.com
 .samsungcloud.com
 .samsungdm.com
-.samsungeshop.com.cn
 .samsunggalaxyfriends.com
 .samsungknox.com
 .samsungqbe.com
@@ -11190,7 +11073,6 @@ assets-priconne-redive-us.akamaized.net
 .sorcerersarena.com
 .soso7778.com
 .soundofhope.org
-.sourcingforebay.com.cn
 .sourcingforebay.net
 .sourcingforebay.tv
 .southfloridamini.com
@@ -11295,7 +11177,6 @@ assets-priconne-redive-us.akamaized.net
 .starbucks.ch
 .starbucks.co.id
 .starbucks.com
-.starbucks.com.cn
 .starbucks.com.co
 .starbucks.it
 .starbucks.pt
@@ -11376,7 +11257,6 @@ assets-priconne-redive-us.akamaized.net
 .streetmeatasia.com
 .strepsils.ch
 .strepsils.cn
-.strepsils.com.cn
 .strepsils.com.co
 .strepsils.hr
 .strepsils.net
@@ -11426,12 +11306,10 @@ assets-priconne-redive-us.akamaized.net
 .superjapanesesex.com
 .supermario.com
 .supermario3dworld.com
-.supermariobros.com.cn
 .supermariogalaxy.com
 .superpapermario.com
 .supersexeamateur.com
 .supersmashbros.cn
-.supersmashbros.com.cn
 .supertop.co
 .superuser.com
 .supjav.com
@@ -11476,7 +11354,6 @@ assets-priconne-redive-us.akamaized.net
 .swiftfinancial.info
 .swiftfinancial.net
 .swiftui.cn
-.swiftui.com.cn
 .swingercuckoldporn.com
 .swingerpornfun.com
 .swingerporntube.com
@@ -11617,12 +11494,10 @@ assets-priconne-redive-us.akamaized.net
 .terrlficdates.com
 .tesla.cn
 .tesla.com
-.tesla.com.cn
 .tesla.services
 .teslaenergy.services
 .teslamotors.cn
 .teslamotors.com
-.teslamotors.com.cn
 .teslazta.net
 .testonfox.com
 .tettediferro.it
@@ -11886,7 +11761,6 @@ assets-priconne-redive-us.akamaized.net
 .travelcontroller.com
 .travelex.be
 .travelex.com
-.travelex.com.cn
 .travelex.it
 .travelex.qa
 .travelexae.com
@@ -11992,7 +11866,6 @@ assets-priconne-redive-us.akamaized.net
 .tuta.io
 .tvappstore.net
 .tvbanywhere.com
-.tvbc.com.cn
 .tvbusa.com
 .tvbweekly.com
 .tvpromise.com
@@ -12199,7 +12072,6 @@ assets-priconne-redive-us.akamaized.net
 .veet.co.id
 .veet.com
 .veet.com.bd
-.veet.com.cn
 .veet.com.co
 .veet.com.pk
 .veet.pt
@@ -12237,7 +12109,6 @@ assets-priconne-redive-us.akamaized.net
 .verisign.biz
 .verisign.ch
 .verisign.com
-.verisign.com.cn
 .verisign.info
 .verisign.jobs
 .verisign.mobi
@@ -12263,7 +12134,6 @@ assets-priconne-redive-us.akamaized.net
 .vfsco.be
 .vfsco.ch
 .vfsco.com
-.vfsco.com.cn
 .vfsco.ee
 .vfsco.it
 .vfsco.lv
@@ -12356,7 +12226,6 @@ assets-priconne-redive-us.akamaized.net
 .visa.co.id
 .visa.com
 .visa.com.ai
-.visa.com.cn
 .visa.com.co
 .visa.com.dm
 .visa.com.do
@@ -12396,7 +12265,6 @@ assets-priconne-redive-us.akamaized.net
 .visapay.cn
 .visapcsdirect.com
 .visaplatinum.cn
-.visaplatinum.com.cn
 .visaplus.com
 .visasignaturehotels.com
 .visasoutheasteurope.com
@@ -12489,7 +12357,6 @@ assets-priconne-redive-us.akamaized.net
 .vokevr.com
 .volvo.cn
 .volvo.com
-.volvo.com.cn
 .volvobrandshop.com
 .volvobuses.be
 .volvobuses.ch
@@ -12503,7 +12370,6 @@ assets-priconne-redive-us.akamaized.net
 .volvogroup.be
 .volvogroup.cn
 .volvogroup.com
-.volvogroup.com.cn
 .volvomerchandise.com
 .volvopenta.com
 .volvopenta.it
@@ -12514,7 +12380,6 @@ assets-priconne-redive-us.akamaized.net
 .volvotrucks.be
 .volvotrucks.ch
 .volvotrucks.com
-.volvotrucks.com.cn
 .volvotrucks.com.co
 .volvotrucks.com.pt
 .volvotrucks.ee
@@ -12637,7 +12502,6 @@ assets-priconne-redive-us.akamaized.net
 .webcamtubexxx.com
 .webex.co.it
 .webex.com
-.webex.com.cn
 .webflow.com
 .webgata.net
 .webgirlsonline.net
@@ -12650,14 +12514,12 @@ assets-priconne-redive-us.akamaized.net
 .webofscience.com
 .webtoons.com
 .weekly-economist.com
-.wegame.com.cn
 .weinvoiceit.com
 .weiyuksj.com
 .weknowporn.com
 .welcomix.com
 .wellfuckedwife.com
 .wellmaturetube.com
-.werepository.com.cn
 .westerndigital.com
 .wet-ass-pussy.com
 .wetandpuffy.com
@@ -12796,7 +12658,6 @@ assets-priconne-redive-us.akamaized.net
 .woodmancastingx.com
 .woolite.cn
 .woolite.com
-.woolite.com.cn
 .woolitecarpet.com
 .wordpress.org
 .wordpress.tv
@@ -13132,7 +12993,6 @@ assets-priconne-redive-us.akamaized.net
 .xvxx.stream
 .xvxxtube.com
 .xwebporn.com
-.xx159.com.cn
 .xx9.app
 .xxbay.com
 .xxbb9.com
@@ -13245,7 +13105,6 @@ assets-priconne-redive-us.akamaized.net
 .yahoo.co.id
 .yahoo.com.ai
 .yahoo.com.bd
-.yahoo.com.cn
 .yahoo.com.co
 .yahoo.com.do
 .yahoo.com.pk
@@ -13508,7 +13367,6 @@ assets-priconne-redive-us.akamaized.net
 .zoofilianet.com
 .zoohun.com
 .zoom.com
-.zoom.com.cn
 .zoom.us
 .zoomingin.tv
 .zoomobileporn.com
@@ -17320,7 +17178,6 @@ assets-priconne-redive-us.akamaized.net
 .bbs.imoutolove.me
 .bbs.jygnet.org
 .bbs.lxty8.com
-.bbs.mf8.com.cn
 .bbs.sex169.xyz
 .bbs.sina.com
 .bbs.sopboy.com
@@ -20730,7 +20587,6 @@ assets-priconne-redive-us.akamaized.net
 .ethsat.com
 .etizer.org
 .etokki.com
-.etoro.com.cn
 .etowns.net
 .etowns.org
 .ets.cc
@@ -21263,7 +21119,6 @@ assets-priconne-redive-us.akamaized.net
 .fogcity.com
 .followcn.com
 .fonts.proxy.ustclug.org
-.foodking.com.cn
 .foodking.com.tw
 .fookpan.com
 .foolsmountain.com
@@ -21632,7 +21487,6 @@ assets-priconne-redive-us.akamaized.net
 .fun7803.com
 .fun8011.com
 .fun88.com
-.fun88.com.cn
 .fun8802.com
 .fun8809.com
 .fun881211.com
@@ -21741,7 +21595,6 @@ assets-priconne-redive-us.akamaized.net
 .galstars.net
 .gambe.jp
 .game-899.net
-.game.com.cn
 .game.fafafa3388.com
 .game.fun88721.com
 .game.kwm.com
@@ -22705,7 +22558,6 @@ assets-priconne-redive-us.akamaized.net
 .hg1259.com
 .hg141.com
 .hg1661.com
-.hg188.com.cn
 .hg9300b.com
 .hg9566.com
 .hga017.com
@@ -24476,7 +24328,6 @@ assets-priconne-redive-us.akamaized.net
 .kiwi.kz
 .kj.1680210.com
 .kk-whys.co.jp
-.kk168.com.cn
 .kk2582.com
 .kk426.com
 .kk63.net
@@ -24813,7 +24664,6 @@ assets-priconne-redive-us.akamaized.net
 .ledongzhibo9999.com
 .leduo.one
 .lee.easymall.com.tw
-.leeao.com.cn
 .leechenyang.com
 .leecheukyan.org
 .leeshailemish.com
@@ -25569,7 +25419,6 @@ assets-priconne-redive-us.akamaized.net
 .mariodesigns.uk
 .mariusl.com
 .mark.tw
-.markets.com.cn
 .marketwatch.com
 .markhourihan.com
 .markquart.com
@@ -28205,9 +28054,7 @@ assets-priconne-redive-us.akamaized.net
 .qiye163mx01.mxmail.netease.com
 .qiyejizhang.com
 .qizhenyu.com
-.qjvpn.com.cn
 .qjxu.r5.cr.rs
-.qjz.com.cn
 .qk3p.com
 .qkav9.cf
 .qknisog514.ryq85m.com
@@ -28546,7 +28393,6 @@ assets-priconne-redive-us.akamaized.net
 .reuters.co.jp
 .reuters.co.uk
 .reuters.com
-.reuters.com.cn
 .reuters.de
 .reuters.fr
 .reuters.it
@@ -28748,7 +28594,6 @@ assets-priconne-redive-us.akamaized.net
 .rv55.com
 .rwaitkus.com
 .rwdxtv.com
-.rwsentosa.com.cn
 .rx40.com
 .rx8800.com
 .rxcp1010.com
@@ -29250,7 +29095,6 @@ assets-priconne-redive-us.akamaized.net
 .shiksha.com
 .shile.xyz
 .shiming.t28.net
-.shinjiru.com.cn
 .shinning-way.weebly.com
 .shinnoca.byethost7.com
 .shinobi.jp
@@ -29636,7 +29480,6 @@ assets-priconne-redive-us.akamaized.net
 .speed.wyqn.net
 .speedify.com
 .speedmm.com
-.speedqueen.com.cn
 .speedsmart.net
 .speedtest.hkg02.softlayer.com
 .spem.at
@@ -32822,7 +32665,6 @@ assets-priconne-redive-us.akamaized.net
 .wsdc9988.com
 .wsdc999.com
 .wsj.com
-.wsj.com.cn
 .wsj.net
 .wsjhk.com
 .wsjradio.com
@@ -33881,10 +33723,8 @@ assets-priconne-redive-us.akamaized.net
 .www.cat.com
 .www.cathayglory.com
 .www.cathayglory.org
-.www.cathaypacific.com.cn
 .www.cathaypacificcargo.com
 .www.cathaysite.com
-.www.cathaysite.com.cn
 .www.cavip111.com
 .www.cazila.com
 .www.cba.ca
@@ -34623,7 +34463,6 @@ assets-priconne-redive-us.akamaized.net
 .www.girlscanner.com
 .www.gjsq.biz
 .www.gkfx.com
-.www.gkfxprime.com.cn
 .www.glideapps.com
 .www.globalgreens.org
 .www.globalinksabroad.org
@@ -35063,7 +34902,6 @@ assets-priconne-redive-us.akamaized.net
 .www.jdlingyu.moe
 .www.jdpavds.com
 .www.jdw6.com
-.www.jdyvpn.com.cn
 .www.jeannedelalune.co.uk
 .www.jejer.net
 .www.jemmagura.com
@@ -35405,7 +35243,6 @@ assets-priconne-redive-us.akamaized.net
 .www.metcn.com
 .www.meteo.fr
 .www.metropolismag.com
-.www.mf8.com.cn
 .www.mgm8091.com
 .www.mgscl123.com
 .www.mhakel.com
