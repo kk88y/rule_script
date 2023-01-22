@@ -1,13 +1,13 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-22 15:46:44
+# UPDATED: 2023-01-23 02:09:57
 # DOMAIN: 18
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 3530
+# DOMAIN-SUFFIX: 3531
 # IP-CIDR: 14
 # USER-AGENT: 31
-# TOTAL: 3602
+# TOTAL: 3603
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdn.angruo.com
@@ -1724,6 +1724,7 @@ www.libvideo.com
 .infinitynewtab.com
 .infoq.com
 .infoqstatic.com
+.inftab.com
 .intltencentcos.com
 .iop.org
 .ip-cdn.com

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-22 15:46:02
+# UPDATED: 2023-01-23 02:09:19
 # DOMAIN: 177
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37677
+# DOMAIN-SUFFIX: 37679
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 38004
+# TOTAL: 38006
 payload:
   - DOMAIN,abematv.akamaized.net
   - DOMAIN,amp.akamaized.net
@@ -2869,6 +2869,8 @@ payload:
   - DOMAIN-SUFFIX,cfake.com
   - DOMAIN-SUFFIX,cfblob.com
   - DOMAIN-SUFFIX,cfna.com
+  - DOMAIN-SUFFIX,cftest5.cn
+  - DOMAIN-SUFFIX,cftest6.cn
   - DOMAIN-SUFFIX,cfwives.com
   - DOMAIN-SUFFIX,cgkate.jinvod.com
   - DOMAIN-SUFFIX,ch9.ms

@@ -1,7 +1,7 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-22 15:46:51
+# UPDATED: 2023-01-23 02:10:03
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 9
 # DOMAIN-SUFFIX: 66009
@@ -1857,6 +1857,7 @@ xn--flw351e.com
 .infinitynewtab.com
 .infoq.com
 .infoqstatic.com
+.inftab.com
 .intltencentcos.com
 .iop.org
 .ip-cdn.com
@@ -32276,7 +32277,6 @@ xn--flw351e.com
 .infoxgame.com
 .infoxmation.com
 .inframe.mobi
-.inftab.com
 .infzm.com
 .ing10bbs.com
 .ingageapp.com

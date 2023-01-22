@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-22 15:46:28
+# UPDATED: 2023-01-23 02:09:43
 # HOST: 391
 # HOST-KEYWORD: 39
-# HOST-SUFFIX: 38000
+# HOST-SUFFIX: 38002
 # IP-CIDR: 106
 # IP6-CIDR: 4
 # USER-AGENT: 45
-# TOTAL: 38585
+# TOTAL: 38587
 HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Global
 HOST,a248.e.akamai.net,Global
 HOST,a771.dscq.akamai.net,Global
@@ -3037,6 +3037,8 @@ HOST-SUFFIX,cf-ipfs.com,Global
 HOST-SUFFIX,cfake.com,Global
 HOST-SUFFIX,cfblob.com,Global
 HOST-SUFFIX,cfna.com,Global
+HOST-SUFFIX,cftest5.cn,Global
+HOST-SUFFIX,cftest6.cn,Global
 HOST-SUFFIX,cfwives.com,Global
 HOST-SUFFIX,cgkate.jinvod.com,Global
 HOST-SUFFIX,ch9.ms,Global
