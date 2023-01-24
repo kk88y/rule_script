@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-23 02:09:19
+# UPDATED: 2023-01-25 02:10:03
 # DOMAIN: 177
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37679
+# DOMAIN-SUFFIX: 37696
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 38006
+# TOTAL: 38023
 payload:
   - 'abematv.akamaized.net'
   - 'amp.akamaized.net'
@@ -1286,6 +1286,7 @@ payload:
   - '+.asahi.com'
   - '+.asebay.com'
   - '+.asexdoll.com'
+  - '+.asextube.net'
   - '+.asha.org'
   - '+.ashemaletv.com'
   - '+.ashleysageellison.com'
@@ -2233,6 +2234,7 @@ payload:
   - '+.bluekai.com'
   - '+.bluemix.com'
   - '+.bluemix.net'
+  - '+.bluffyporn.com'
   - '+.blz-contentstack.com'
   - '+.blzstatic.cn'
   - '+.bmia.org'
@@ -4314,6 +4316,7 @@ payload:
   - '+.eromanga-cafe.com'
   - '+.eromanga-hentai.com'
   - '+.eromanga-mainichi.com'
+  - '+.eromanga-school.com'
   - '+.eromangajukujo.com'
   - '+.eromazofu.com'
   - '+.erome.com'
@@ -5920,10 +5923,14 @@ payload:
   - '+.hellokittybeats.com'
   - '+.hellosmartbook.com'
   - '+.hellven.net'
+  - '+.hentai-ani.me'
   - '+.hentai-archive.com'
+  - '+.hentai-books.com'
+  - '+.hentai-cosplays.com'
   - '+.hentai-for.net'
   - '+.hentai-fun.com'
   - '+.hentai-gamer.com'
+  - '+.hentai-gif-anime.com'
   - '+.hentai-img.com'
   - '+.hentai-moon.com'
   - '+.hentai-space.supertop-100.com'
@@ -5954,6 +5961,7 @@ payload:
   - '+.hentai69.online'
   - '+.hentaia.net'
   - '+.hentaiaction.net'
+  - '+.hentaiasmr.moe'
   - '+.hentaiathome.net'
   - '+.hentaibar.com'
   - '+.hentaiblue.com'
@@ -6015,6 +6023,7 @@ payload:
   - '+.hentaitube.online'
   - '+.hentaivideos.net'
   - '+.hentaivn.la'
+  - '+.hentaivn.net'
   - '+.hentaivvz.com'
   - '+.hentaiworld.tv'
   - '+.hentaiworldporn.com'
@@ -6354,6 +6363,7 @@ payload:
   - '+.httpfacebook.com'
   - '+.httpsfacebook.com'
   - '+.httpwwwfacebook.com'
+  - '+.htvncdn.net'
   - '+.htyj-bj.com'
   - '+.hu1u.com'
   - '+.huangse.love'
@@ -9802,6 +9812,7 @@ payload:
   - '+.pornhubselect.com'
   - '+.pornhuub.xyz'
   - '+.pornicom.com'
+  - '+.pornimg.xyz'
   - '+.pornjam.com'
   - '+.pornjav.org'
   - '+.pornjizz.co'
@@ -9852,6 +9863,7 @@ payload:
   - '+.pornocarioca.com'
   - '+.pornocaserotube.com'
   - '+.pornocomic.net'
+  - '+.pornodanke.com'
   - '+.pornodebolivia.net'
   - '+.pornodoido.com'
   - '+.pornodrome.tv'
@@ -9862,6 +9874,7 @@ payload:
   - '+.pornogayphy.com'
   - '+.pornogids.net'
   - '+.pornogramxxx.com'
+  - '+.pornogrund.com'
   - '+.pornoh.info'
   - '+.pornohd.plus'
   - '+.pornohut.info'
@@ -9872,10 +9885,12 @@ payload:
   - '+.pornoisy.com'
   - '+.pornoitaliano.com'
   - '+.pornojefe.com'
+  - '+.pornojux.com'
   - '+.pornoko.net'
   - '+.pornokrol.com'
   - '+.pornolab.net'
   - '+.pornolaba.mobi'
+  - '+.pornomasse.com'
   - '+.pornomineiro.com'
   - '+.pornone.com'
   - '+.pornoorzel.com'
@@ -9964,6 +9979,7 @@ payload:
   - '+.pornwhite.com'
   - '+.pornwhitelist.com'
   - '+.pornworms.com'
+  - '+.pornxp.com'
   - '+.pornxs.com'
   - '+.pornxvideos.tv'
   - '+.pornxvideos.win'
@@ -13015,6 +13031,7 @@ payload:
   - '+.xxx-fap.com'
   - '+.xxx-files.org'
   - '+.xxx-porn-fuck.com'
+  - '+.xxx-porn-tube.com'
   - '+.xxx-porn.info'
   - '+.xxx-video.cfd'
   - '+.xxx-videos.tv'

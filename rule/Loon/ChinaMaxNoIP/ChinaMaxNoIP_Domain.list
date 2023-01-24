@@ -1,12 +1,12 @@
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-24 02:11:44
+# UPDATED: 2023-01-25 02:12:17
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 67090
+# DOMAIN-SUFFIX: 67089
 # USER-AGENT: 65
-# TOTAL: 67342
+# TOTAL: 67341
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -41242,7 +41242,6 @@ xn--flw351e.com
 .nase.tech
 .nasgetinfo.com
 .nashwork.com
-.nasimobi.com
 .nasinet.com
 .nasiosoft.com
 .nasyun.com
