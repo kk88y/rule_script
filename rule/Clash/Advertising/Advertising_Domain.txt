@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-26 02:07:03
-# DOMAIN: 14660
+# UPDATED: 2023-01-26 15:12:52
+# DOMAIN: 14661
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 78004
+# DOMAIN-SUFFIX: 78030
 # IP-CIDR: 238
-# TOTAL: 92978
+# TOTAL: 93005
 ad.xy2013.cn
 ads.play.cbsi.video
 ads.reembed.com
@@ -6444,6 +6444,7 @@ kakayy.com
 kaktokualscgea.com
 kakyomloctqiu.com
 kalantzis.net
+kampyle.com
 kang08.com
 kanglingjiu.com
 kapcotool.com
@@ -19937,6 +19938,7 @@ opencloud.wostore.cn
 .affiliates.systems
 .affiliates.thinkhost.net
 .affiliates.ultrahosting.com
+.affiliates.videoslots.com
 .affiliatesensor.com
 .affiliateserver.hangikredi.com
 .affiliatetracking.com
@@ -20365,6 +20367,7 @@ opencloud.wostore.cn
 .ajorinryeso.com
 .ajouny.com
 .ajpxs.xyz
+.ajsyxphfpr.com
 .ajur.info
 .ajuyacxneja.xyz
 .ajwbkgejrxxrr.xyz
@@ -20420,6 +20423,7 @@ opencloud.wostore.cn
 .al.5.p2l.info
 .ala.durasite.net
 .alaldidw.top
+.alanibelen.com
 .alanticgecking.uno
 .alas4kanmfa6a4mubte.com
 .alaskan4kleeskai.com
@@ -22293,6 +22297,7 @@ opencloud.wostore.cn
 .aureate.com
 .auredzeon.com
 .aureigabelle.com
+.aureliancathy.com
 .aureneceriman.com
 .aurjueeh.com
 .aurora-d3.herokuapp.com
@@ -23277,6 +23282,7 @@ opencloud.wostore.cn
 .bbaannrr03.com
 .bbaannrr05.com
 .bbads.vip
+.bbangads.b-cdn.net
 .bbazhaheiv.top
 .bbcode.fr
 .bbcrgate.com
@@ -26107,6 +26113,7 @@ opencloud.wostore.cn
 .cexucetum.com
 .cf-ads.pinger.com
 .cf-native.karte.io
+.cf.kampyle.com
 .cf2020176f.com
 .cfasync.ga
 .cfasync.ml
@@ -31203,6 +31210,7 @@ opencloud.wostore.cn
 .eagerlyshuggy.com
 .eagernessstrongergreet.com
 .eagleapi.io
+.eagletskoku.com
 .ealeo.com
 .eanalyzer.de
 .eanddrsgankru.com.ua
@@ -34107,6 +34115,7 @@ opencloud.wostore.cn
 .fzckwij.cn
 .fzhxi.com
 .fznpq.com
+.fzommizpo.com
 .fztimyc.cn
 .fztmn.top
 .fzwoa.com
@@ -34172,6 +34181,7 @@ opencloud.wostore.cn
 .gaimoupy.net
 .gainmoneyfast.com
 .gainregister.com
+.gaiphaud.xyz
 .gaiqgs.xyz
 .gaisteem.net
 .gaiteshu.net
@@ -37119,6 +37129,7 @@ opencloud.wostore.cn
 .hvcbkr.com
 .hvd1t.com
 .hvddf44.top
+.hvhudp.xyz
 .hvooyieoei.com
 .hvvevjiuq.com
 .hwa.his.huawei.com
@@ -38059,6 +38070,7 @@ opencloud.wostore.cn
 .inrotomr.com
 .insamemograbi.space
 .insankafa.cc
+.inscan.cn
 .inscriptionafford.com
 .insectdatabasesignificantly.com
 .inseee.fr
@@ -38628,6 +38640,7 @@ opencloud.wostore.cn
 .ixcbqp.com
 .ixcgvh.cn
 .ixcris.com
+.ixelcpo.cn
 .ixiaa.com
 .ixihet.cn
 .ixjrwczv.com
@@ -39548,7 +39561,6 @@ opencloud.wostore.cn
 .kameleoon.eu
 .kaminari.club
 .kamnebo.info
-.kampyle.com
 .kamwrqpgagoc.xyz
 .kangaroocame.com
 .kangaroohiccups.com
@@ -39556,6 +39568,7 @@ opencloud.wostore.cn
 .kankingwith.com
 .kanojo.fr
 .kanoodle.com
+.kansanscichar.com
 .kanshu.buzz
 .kantarmedia.com
 .kantartns.lt
@@ -46302,6 +46315,7 @@ opencloud.wostore.cn
 .ohkdsplu.com
 .ohldsplu.com
 .ohmcasting.com
+.ohmpyq.xyz
 .ohmwrite.com
 .ohmydating.com
 .ohmygosh.info
@@ -48025,6 +48039,7 @@ opencloud.wostore.cn
 .phaikroo.net
 .phaiksul.net
 .phaisoaz.com
+.phaithoo.xyz
 .phalingy.net
 .phanquang.vn
 .phantomtheft.com
@@ -48152,6 +48167,7 @@ opencloud.wostore.cn
 .photos7.pop6.com
 .photos8.pop6.com
 .phouvemp.net
+.phouwims.net
 .phox2ey.bid
 .phpads.astalavista.us
 .phpads.flipcorp.com
@@ -50503,6 +50519,7 @@ opencloud.wostore.cn
 .r.topdent.ru
 .r.toplaygame.ru
 .r.turn.com.akadns.net
+.r.yabancidizi.in
 .r.z2.fm
 .r023m83skv5v.com
 .r0wa9z6t8t.ru
@@ -52477,6 +52494,7 @@ opencloud.wostore.cn
 .saimone.com
 .saininglcm.live
 .saipel.com
+.sairy.cyou
 .saishait.net
 .saiwhute.com
 .sajour.fr
@@ -52518,6 +52536,7 @@ opencloud.wostore.cn
 .sam.msn.com
 .sam.setimedia.com
 .samage-bility.icu
+.samaniclucked.com
 .samantharegina.com
 .samanthyean.com
 .samazd.com
@@ -53479,6 +53498,7 @@ opencloud.wostore.cn
 .shhaiya.com
 .shhcc.top
 .shichihukuudon.com
+.shidaiheima.ltd
 .shidn.com
 .shield.sitelock.com
 .shieldof5adam.com
@@ -54099,6 +54119,7 @@ opencloud.wostore.cn
 .smart-dmp.com
 .smart-ip.net
 .smart-name.pro
+.smart-placements-sdk.ex.co
 .smart-redirecting.com
 .smart-scripts.com
 .smart-traffik.com
@@ -55370,6 +55391,7 @@ opencloud.wostore.cn
 .stempelcosier.com
 .stenadewy.pro
 .stenchdaltonrunaway.com
+.stengskelped.com
 .step-step-go.com
 .stepkeydo.com
 .stepmotherincomingpluck.com
@@ -57364,6 +57386,7 @@ opencloud.wostore.cn
 .tokenads.com
 .tokendomain.xyz
 .toknowall.com
+.tokofyttes.com
 .tokyoredcirce.com
 .tolerableinflectionkazan.com
 .tolerated.wang
@@ -62218,6 +62241,7 @@ opencloud.wostore.cn
 .wwija.com
 .wwm24.de
 .wwnc.xyz
+.wwnyubs.cn
 .wwoglde.top
 .wwow.xyz
 .wwoww.xyz
@@ -62782,6 +62806,7 @@ opencloud.wostore.cn
 .wynather.com
 .wynvalur.com
 .wyoutube.fr
+.wyoxmklaa.xyz
 .wyphawhity.com
 .wyplmjufd.live
 .wypovuwu.pro
@@ -63747,6 +63772,7 @@ opencloud.wostore.cn
 .ymetrica.com
 .ymetrica1.com
 .ymjfhg.com
+.ymkomlhgzbpitp.com
 .ymonetize.com
 .ymqhiigpnt.com
 .ymtrack6.co
@@ -63957,6 +63983,7 @@ opencloud.wostore.cn
 .yrqwnc.cn
 .yrrcc.top
 .yrsfs.com
+.yrstwbyl.xyz
 .yrvzqabfxe.com
 .yrwap.cn
 .ys2000.cdn.bcebos.com

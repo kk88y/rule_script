@@ -1,8 +1,8 @@
 ! Title: AdvertisingTest
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2023-01-26 02:07:49
-! Total: 111690
+! Updated: 2023-01-26 15:13:39
+! Total: 111705
 
 
 ||3p-geo.yahoo.com^
@@ -16,7 +16,6 @@
 ||ads.yahoo.com^
 ||ads.youtube.com^
 ||adsdk.yandex.ru^
-||affiliates.videoslots.com^
 ||an.yandex.ru^
 ||anxiousapples.com^
 ||api.sec.miui.com^
@@ -28,7 +27,6 @@
 ||awaps.yandex.ru^
 ||awsync.yandex.ru^
 ||bats.video.yahoo.com^
-||bbangads.b-cdn.net^
 ||beacon.search.yahoo.com^
 ||beap-bc.yahoo.com^
 ||blueduckredapple.com^
@@ -40,15 +38,12 @@
 ||dmg-dd.oss-accelerate.aliyuncs.com^
 ||februaryreductionapplet.com^
 ||fpb1.apple886.com^
-||gaiphaud.xyz^
 ||ganon.yahoo.com^
 ||geo.yahoo.com^
-||hvhudp.xyz^
+||hfjsbf.xyz^
 ||iadsdk.apple.com^
 ||ib.snssdk.com^
 ||informer.yandex.ru^
-||inscan.cn^
-||ixelcpo.cn^
 ||jill.fc.yahoo.com^
 ||jpaasne.e.shifen.com^
 ||log.strm.yandex.ru^
@@ -59,14 +54,11 @@
 ||mm.n3w1d0ma1n^
 ||mo.vlpyj.xy^
 ||nol.yahoo.com^
-||ohmpyq.xyz^
-||phaithoo.xyz^
+||oronwg.xyz^
 ||pr.comet.yahoo.com^
 ||pv.sohu.com^
-||r.yabancidizi.in^
 ||rrf.fat1domain1^
 ||shackapple.com^
-||shidaiheima.ltd^
 ||stats.video.search.yahoo.com^
 ||sub.powerapple.com^
 ||sugar.zhihu.com^
@@ -75,11 +67,10 @@
 ||theapple.site^
 ||visit.webhosting.yahoo.com^
 ||wondefulapplend.com^
-||wwnyubs.cn^
-||wyoxmklaa.xyz^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||youtube.local^
-||yrstwbyl.xyz^
+||yruvnmn.cn^
+||yupphsl.cn^
 ||0-000.store^
 ||0.code.cotsta.ru^
 ||0001.best^
@@ -5300,6 +5291,7 @@
 ||affiliates.systems^
 ||affiliates.thinkhost.net^
 ||affiliates.ultrahosting.com^
+||affiliates.videoslots.com^
 ||affiliatesensor.com^
 ||affiliateserver.hangikredi.com^
 ||affiliatewindow.com^
@@ -5721,6 +5713,7 @@
 ||ajorinryeso.com^
 ||ajouny.com^
 ||ajpxs.xyz^
+||ajsyxphfpr.com^
 ||ajur.info^
 ||ajuyacxneja.xyz^
 ||ajwbkgejrxxrr.xyz^
@@ -5775,6 +5768,7 @@
 ||al.5.p2l.info^
 ||ala.durasite.net^
 ||alaldidw.top^
+||alanibelen.com^
 ||alanticgecking.uno^
 ||alas4kanmfa6a4mubte.com^
 ||alaskan4kleeskai.com^
@@ -7379,6 +7373,7 @@
 ||aureate.com^
 ||auredzeon.com^
 ||aureigabelle.com^
+||aureliancathy.com^
 ||aureneceriman.com^
 ||aurjueeh.com^
 ||aurora-d3.herokuapp.com^
@@ -8349,6 +8344,7 @@
 ||bbaannrr03.com^
 ||bbaannrr05.com^
 ||bbads.vip^
+||bbangads.b-cdn.net^
 ||bbazhaheiv.top^
 ||bbcode.fr^
 ||bbcrgate.com^
@@ -16158,6 +16154,7 @@
 ||eagerlyshuggy.com^
 ||eagernessstrongergreet.com^
 ||eagleapi.io^
+||eagletskoku.com^
 ||ealeo.com^
 ||eanalyzer.de^
 ||eanddrsgankru.com.ua^
@@ -19025,6 +19022,7 @@
 ||fzckwij.cn^
 ||fzhxi.com^
 ||fznpq.com^
+||fzommizpo.com^
 ||fztimyc.cn^
 ||fztmn.top^
 ||fzwoa.com^
@@ -19087,6 +19085,7 @@
 ||gaimoupy.net^
 ||gainmoneyfast.com^
 ||gainregister.com^
+||gaiphaud.xyz^
 ||gaiqgs.xyz^
 ||gaisteem.net^
 ||gaiteshu.net^
@@ -22003,6 +22002,7 @@
 ||hvcbkr.com^
 ||hvd1t.com^
 ||hvddf44.top^
+||hvhudp.xyz^
 ||hvooyieoei.com^
 ||hvvevjiuq.com^
 ||hwa.his.huawei.com^
@@ -22929,6 +22929,7 @@
 ||inrotomr.com^
 ||insamemograbi.space^
 ||insankafa.cc^
+||inscan.cn^
 ||inscriptionafford.com^
 ||insectdatabasesignificantly.com^
 ||inseee.fr^
@@ -23488,6 +23489,7 @@
 ||ixcbqp.com^
 ||ixcgvh.cn^
 ||ixcris.com^
+||ixelcpo.cn^
 ||ixiaa.com^
 ||ixihet.cn^
 ||ixjrwczv.com^
@@ -24404,7 +24406,6 @@
 ||kameleoon.eu^
 ||kaminari.club^
 ||kamnebo.info^
-||kampyle.com^
 ||kamwrqpgagoc.xyz^
 ||kangaroocame.com^
 ||kangaroohiccups.com^
@@ -24412,6 +24413,7 @@
 ||kankingwith.com^
 ||kanojo.fr^
 ||kanoodle.com^
+||kansanscichar.com^
 ||kanshu.buzz^
 ||kantarmedia.com^
 ||kantartns.lt^
@@ -31086,6 +31088,7 @@
 ||ohkdsplu.com^
 ||ohldsplu.com^
 ||ohmcasting.com^
+||ohmpyq.xyz^
 ||ohmwrite.com^
 ||ohmydating.com^
 ||ohmygosh.info^
@@ -32791,6 +32794,7 @@
 ||phaikroo.net^
 ||phaiksul.net^
 ||phaisoaz.com^
+||phaithoo.xyz^
 ||phalingy.net^
 ||phanquang.vn^
 ||phantomtheft.com^
@@ -32917,6 +32921,7 @@
 ||photos7.pop6.com^
 ||photos8.pop6.com^
 ||phouvemp.net^
+||phouwims.net^
 ||phox2ey.bid^
 ||phpads.astalavista.us^
 ||phpads.flipcorp.com^
@@ -35242,6 +35247,7 @@
 ||r.tinmoi24.vn^
 ||r.topdent.ru^
 ||r.toplaygame.ru^
+||r.yabancidizi.in^
 ||r.z2.fm^
 ||r023m83skv5v.com^
 ||r0wa9z6t8t.ru^
@@ -37194,6 +37200,7 @@
 ||saimone.com^
 ||saininglcm.live^
 ||saipel.com^
+||sairy.cyou^
 ||saishait.net^
 ||saiwhute.com^
 ||sajour.fr^
@@ -37233,6 +37240,7 @@
 ||sam.msn.com^
 ||sam.setimedia.com^
 ||samage-bility.icu^
+||samaniclucked.com^
 ||samantharegina.com^
 ||samanthyean.com^
 ||samazd.com^
@@ -38183,6 +38191,7 @@
 ||shhaiya.com^
 ||shhcc.top^
 ||shichihukuudon.com^
+||shidaiheima.ltd^
 ||shidn.com^
 ||shield.sitelock.com^
 ||shieldof5adam.com^
@@ -38794,6 +38803,7 @@
 ||smart-dmp.com^
 ||smart-ip.net^
 ||smart-name.pro^
+||smart-placements-sdk.ex.co^
 ||smart-redirecting.com^
 ||smart-scripts.com^
 ||smart-traffik.com^
@@ -40047,6 +40057,7 @@
 ||stempelcosier.com^
 ||stenadewy.pro^
 ||stenchdaltonrunaway.com^
+||stengskelped.com^
 ||step-step-go.com^
 ||stepkeydo.com^
 ||stepmotherincomingpluck.com^
@@ -42016,6 +42027,7 @@
 ||tokenads.com^
 ||tokendomain.xyz^
 ||toknowall.com^
+||tokofyttes.com^
 ||tokyoredcirce.com^
 ||tolerableinflectionkazan.com^
 ||tolerated.wang^
@@ -46590,6 +46602,7 @@
 ||wwija.com^
 ||wwm24.de^
 ||wwnc.xyz^
+||wwnyubs.cn^
 ||wwoglde.top^
 ||wwow.xyz^
 ||wwoww.xyz^
@@ -47136,6 +47149,7 @@
 ||wynather.com^
 ||wynvalur.com^
 ||wyoutube.fr^
+||wyoxmklaa.xyz^
 ||wyphawhity.com^
 ||wyplmjufd.live^
 ||wypovuwu.pro^
@@ -48091,6 +48105,7 @@
 ||ymetrica.com^
 ||ymetrica1.com^
 ||ymjfhg.com^
+||ymkomlhgzbpitp.com^
 ||ymonetize.com^
 ||ymqhiigpnt.com^
 ||ymtrack6.co^
@@ -48299,6 +48314,7 @@
 ||yrqwnc.cn^
 ||yrrcc.top^
 ||yrsfs.com^
+||yrstwbyl.xyz^
 ||yrvzqabfxe.com^
 ||yrwap.cn^
 ||ys2000.cdn.bcebos.com^
@@ -67053,7 +67069,6 @@
 ||tarteaucitron.ml^
 ||tartoals.net^
 ||taryarguestio.info^
-||tat.pandora.xiaomi.com^
 ||tataget.ru^
 ||tatagou.com.cn^
 ||tatahn.com^
@@ -71501,6 +71516,7 @@
 ||zzzzz4.52896368.com^
 ||519332da.rtc.youme.im^
 ||gvod.aiseejapp.atianqi.com^
+||tat.pandora.xiaomi.com^
 ||0013.cc^
 ||0024aadd.com^
 ||0082tv.net^
@@ -72552,7 +72568,6 @@
 ||aa.cnet.com^
 ||aa.irvinecompanyapartments.com^
 ||aa.neom.com^
-||aa.samaniclucked.com^
 ||aa.sdo.com^
 ||aa1.ifeng.com^
 ||aa808.com^
@@ -84721,6 +84736,7 @@
 ||kaltura.com.edgekey.net^
 ||kaltura.perf.akadns.net^
 ||kampanja.bhtelecom.ba^
+||kampyle.com^
 ||kanasmeedful.com^
 ||kanclick.com^
 ||kang08.com^
@@ -85154,7 +85170,6 @@
 ||lcvtgvcod.com^
 ||lcyt.info^
 ||lczk.cn^
-||ld.stengskelped.com^
 ||ld.za9mnx.com^
 ||ldfr-cloud.net^
 ||ldiscdnkbg.com^

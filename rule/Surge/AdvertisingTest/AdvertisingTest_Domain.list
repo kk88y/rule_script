@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-26 02:07:47
+# UPDATED: 2023-01-26 15:13:37
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
-# DOMAIN: 9969
+# DOMAIN: 9960
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 101731
+# DOMAIN-SUFFIX: 101755
 # IP-CIDR: 239
 # URL-REGEX: 285
-# TOTAL: 112489
+# TOTAL: 112504
 00-gov.cn
 0026645142c89aeb1.com
 006a039c957c142bb.com
@@ -698,7 +698,6 @@ affiliates.galapartners.co.uk
 affiliates.homestead.com
 affiliates.lynda.com
 affiliates.purevpn.com
-affiliates.videoslots.com
 affiliation-int.com
 affiliproducts.com
 affportal-lb.bevomedia.com
@@ -1137,7 +1136,6 @@ bavftcgoapga.com
 bb475d71fa0b1b2.com
 bb47d806f644cb2.com
 bbackcssmwam.com
-bbangads.b-cdn.net
 bbbp1.com
 bbckaxifryxcno.com
 bbfasycx.com
@@ -3097,7 +3095,6 @@ g6ni40i7.com
 g726n8cy.com
 gadgetresearch.net
 gaftaums.com
-gaiphaud.xyz
 gaipipty.com
 gakseeft.com
 galaxyleaders.com
@@ -3506,6 +3503,7 @@ hexadl.line55.net
 hf18yg8q.com
 hferzkyqt.com
 hffgptqfpewjz.com
+hfjsbf.xyz
 hfnxxzotprja.com
 hfqxjx.cn
 hfxofvdykkmq.com
@@ -3690,7 +3688,6 @@ hurchaseeffectionpe.info
 huyqmtpqhemcv.com
 hvduwoozla.com
 hvdyyojh.com
-hvhudp.xyz
 hvitcycze.com
 hvqqergvbpvetq.com
 hvtlipnbfwu.com
@@ -3914,7 +3911,6 @@ inlinea.co.uk
 inlrdxbuco.com
 inmoment.com
 innatek.com
-inscan.cn
 insights.blogfoster.com
 installcdnfile.com
 instancetour.info
@@ -4059,7 +4055,6 @@ iwqownwjbk.com
 iwqsvntvdry.com
 iwztirze.com
 ixdqmmovnvbkl.com
-ixelcpo.cn
 ixhcokzelvvxs.com
 ixkbavqbpsm.com
 ixkkhacwdxpgpt.com
@@ -5837,7 +5832,6 @@ ogwykjkqbhf.com
 ogyhsyuhczvjg.com
 ohdoxowrbkyd.com
 ohleiludieje.info
-ohmpyq.xyz
 ohrkrzvndwitaa.com
 ohs1upuwi8b.info
 ohscoczrnhzd.com
@@ -5979,6 +5973,7 @@ organicfruitapps.com
 orgttpvpglshap.com
 orkut.krovatka.su
 ornament-i.com
+oronwg.xyz
 orszajhynaqr.com
 ortonch.com
 orvzvaqig.com
@@ -6183,7 +6178,6 @@ pgpfdravejq.com
 pgpszwldfpc.com
 pgqpibyycasfvl.com
 pguf.top
-phaithoo.xyz
 phantom.nudgespot.com
 pharmadeal.gr
 phdtryxlepjayf.com
@@ -6828,7 +6822,6 @@ qzsccm.com
 qzvgrwayranpn.com
 qzxtbsnaebfw.com
 qzzepglnyaufi.com
-r.yabancidizi.in
 r5g.cc
 r7e0zhv8.com
 rabjkklvegagrn.com
@@ -7342,7 +7335,6 @@ shemirta.info
 shftscdisov.com
 shgnts.net
 shicao.icantv.cn
-shidaiheima.ltd
 shidvvvhi.com
 shjmjmds.com
 shldethxhl.com
@@ -8937,7 +8929,6 @@ wwbzfppvhiebl.com
 wwmcuhvqaf.com
 wwmhlrpris.com
 wwnuowyww.com
-wwnyubs.cn
 wwohikwhl.com
 wwqnwask.com
 wwtxqylusxtd.com
@@ -9111,7 +9102,6 @@ wyhcocqu.com
 wyjtscdjfcmsy.com
 wylblxhn.com
 wymoviciyvj.com
-wyoxmklaa.xyz
 wyuakcwxmiunqj.com
 wyvyikcnalvil.com
 wywyuserservice.com
@@ -9591,7 +9581,7 @@ yrpjklwly.com
 yrqsi.site
 yrrvmnimwztv.com
 yrsjqzfku.com
-yrstwbyl.xyz
+yruvnmn.cn
 yruwnpnam.com
 ysaloykchjyxg.com
 ysgeuarbxfttib.com
@@ -9620,6 +9610,7 @@ yumekin.com
 yumzgezhl.com
 yupcqrxdg.com
 yupfiles.club
+yupphsl.cn
 yuqi7.top
 yurttitxfyfh.com
 yurvyhtp.com
@@ -14594,7 +14585,6 @@ zzxosget.com
 .aa.postbank.de
 .aa.reebok.com
 .aa.reebok.nl
-.aa.samaniclucked.com
 .aa.sdo.com
 .aa.sparebank1.no
 .aa.tallink.com
@@ -20305,6 +20295,7 @@ zzxosget.com
 .affiliates.thrixxx.com
 .affiliates.treasureisland.com
 .affiliates.ultrahosting.com
+.affiliates.videoslots.com
 .affiliates.vpn.ht
 .affiliatesensor.com
 .affiliateserver.hangikredi.com
@@ -21035,6 +21026,7 @@ zzxosget.com
 .ajphtdwyijskg.com
 .ajplugins.com
 .ajpxs.xyz
+.ajsyxphfpr.com
 .ajtctiiiaz.com
 .ajucku.sekaibunka.com
 .ajuhd.com
@@ -21153,6 +21145,7 @@ zzxosget.com
 .aladdinupdate.blackrock.com
 .alahhwvrgq.com
 .alaldidw.top
+.alanibelen.com
 .alanticgecking.uno
 .alappropolylibe.site
 .alas4kanmfa6a4mubte.com
@@ -24402,6 +24395,7 @@ zzxosget.com
 .aureate.com
 .auredzeon.com
 .aureigabelle.com
+.aureliancathy.com
 .aureneceriman.com
 .auriro.net
 .aurjueeh.com
@@ -25997,6 +25991,7 @@ zzxosget.com
 .bbaannrr11.com
 .bbads.vip
 .bbagnw.sedaily.com
+.bbangads.b-cdn.net
 .bbazhaheiv.top
 .bbba8.com
 .bbbb.blackboard.com
@@ -42803,6 +42798,7 @@ zzxosget.com
 .eagle.joulescope.com
 .eagle.kudzu.com
 .eagleapi.io
+.eagletskoku.com
 .eaintrolled.info
 .ealeo.com
 .eamob.com
@@ -48430,6 +48426,7 @@ zzxosget.com
 .fznpq.com
 .fznshe.sarahpacini.com
 .fzojq.info
+.fzommizpo.com
 .fzqfoil.cn
 .fztimyc.cn
 .fztmn.top
@@ -48631,6 +48628,7 @@ zzxosget.com
 .gaimoupy.net
 .gainmoneyfast.com
 .gainregister.com
+.gaiphaud.xyz
 .gaiqgs.xyz
 .gaisteem.net
 .gaiteshu.net
@@ -53999,6 +53997,7 @@ zzxosget.com
 .hvdvuyakjt.com
 .hvgcfx1.com
 .hvgxqaiphkorh.xyz
+.hvhudp.xyz
 .hvmtpxijchli.com
 .hvooyieoei.com
 .hvrhgt.the-sun.com
@@ -56328,6 +56327,7 @@ zzxosget.com
 .ins.leavitt.com
 .insamemograbi.space
 .insankafa.cc
+.inscan.cn
 .inscriptionafford.com
 .insectdatabasesignificantly.com
 .inseee.fr
@@ -57299,6 +57299,7 @@ zzxosget.com
 .ixcbqp.com
 .ixcgvh.cn
 .ixcris.com
+.ixelcpo.cn
 .ixia-elq.keysight.com
 .ixiaa.com
 .ixihet.cn
@@ -59231,6 +59232,7 @@ zzxosget.com
 .kanojo.fr
 .kanoodle.com
 .kanoonhymens.com
+.kansanscichar.com
 .kanseen.com
 .kanshu.buzz
 .kantarmedia.com
@@ -61154,7 +61156,6 @@ zzxosget.com
 .ld.kuaigames.com
 .ld.mediaget.com
 .ld.myrciawaapa.com
-.ld.stengskelped.com
 .ld.za9mnx.com
 .ld82ydd.com
 .ldckmk.divarese.com.tr
@@ -72859,6 +72860,7 @@ zzxosget.com
 .ohm-dot-hackster-io.appspot.com
 .ohmcasting.com
 .ohmchoicechi.online
+.ohmpyq.xyz
 .ohmwrite.com
 .ohmydating.com
 .ohmygosh.info
@@ -76049,6 +76051,7 @@ zzxosget.com
 .phaikroo.net
 .phaiksul.net
 .phaisoaz.com
+.phaithoo.xyz
 .phalingy.net
 .phanquang.vn
 .phantomtheft.com
@@ -76227,6 +76230,7 @@ zzxosget.com
 .phoudson.com
 .phouvemp.net
 .phouwhou.com
+.phouwims.net
 .phox2ey.bid
 .phpad.cqnews.net
 .phpads.astalavista.us
@@ -80515,6 +80519,7 @@ zzxosget.com
 .r.tinmoi24.vn
 .r.topdent.ru
 .r.toplaygame.ru
+.r.yabancidizi.in
 .r.z2.fm
 .r0.mradx.net
 .r023m83skv5v.com
@@ -84095,6 +84100,7 @@ zzxosget.com
 .saimone.com
 .saininglcm.live
 .saipel.com
+.sairy.cyou
 .saishait.net
 .saitef.cn
 .saituo.mom
@@ -84166,6 +84172,7 @@ zzxosget.com
 .sam.setimedia.com
 .sam4m.com
 .samage-bility.icu
+.samaniclucked.com
 .samantharegina.com
 .samanthyean.com
 .samazd.com
@@ -86194,6 +86201,7 @@ zzxosget.com
 .shibeiou.com
 .shichihukuudon.com
 .shicywheze.com
+.shidaiheima.ltd
 .shidailw.com
 .shidn.com
 .shield.sitelock.com
@@ -87244,6 +87252,7 @@ zzxosget.com
 .smart-dmp.com
 .smart-ip.net
 .smart-name.pro
+.smart-placements-sdk.ex.co
 .smart-push.best
 .smart-redirecting.com
 .smart-scripts.com
@@ -92740,6 +92749,7 @@ zzxosget.com
 .stenadewy.pro
 .stenchdaltonrunaway.com
 .stengeholt.com
+.stengskelped.com
 .step-service.crossinstall.io
 .step-step-go.com
 .stepkeydo.com
@@ -97026,6 +97036,7 @@ zzxosget.com
 .tokenads.com
 .tokendomain.xyz
 .toknowall.com
+.tokofyttes.com
 .tokyodrift.ga
 .tokyoredcirce.com
 .tolerableinflectionkazan.com
@@ -106591,6 +106602,7 @@ zzxosget.com
 .wwm24.de
 .wwnc.xyz
 .wwnrdqxo.com
+.wwnyubs.cn
 .wwoglde.top
 .wwopenclick.space
 .wwopenclick.vip
@@ -107446,6 +107458,7 @@ zzxosget.com
 .wyorrmuftjp.com
 .wyoutube.fr
 .wyovhzs.cn
+.wyoxmklaa.xyz
 .wypetoggles.com
 .wyphawhity.com
 .wyplmjufd.live
@@ -109669,6 +109682,7 @@ zzxosget.com
 .ymggnrsnrlf.com
 .ymima360.com
 .ymjfhg.com
+.ymkomlhgzbpitp.com
 .ymliveqi.com
 .ymmdpk.cn
 .ymonetize.com
@@ -110032,6 +110046,7 @@ zzxosget.com
 .yrrsckr.cn
 .yrrudp.inven.co.kr
 .yrsfs.com
+.yrstwbyl.xyz
 .yrt7dgkf.exashare.com
 .yrvynn.onurmarket.com
 .yrvzqabfxe.com

@@ -1,16 +1,16 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-26 02:11:49
+# UPDATED: 2023-01-26 15:17:41
 # DOMAIN: 173
 # DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 67029
+# DOMAIN-SUFFIX: 67021
 # IP-ASN: 932
 # IP-CIDR: 5231
-# IP-CIDR6: 5129
+# IP-CIDR6: 5132
 # PROCESS-NAME: 11
 # USER-AGENT: 65
-# TOTAL: 78581
+# TOTAL: 78576
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -5668,7 +5668,6 @@ xn--flw351e.com
 .6say.com
 .6sfg.com
 .6sq.net
-.6stmmo.com
 .6t12.com
 .6tennis.com
 .6thhosp.com
@@ -13753,7 +13752,6 @@ xn--flw351e.com
 .changpingquzhongxiyijieheyiyuan.com
 .changpu3d.com
 .changqingshu.net
-.changrongwang.com
 .changsha-show.com
 .changshabdc.com
 .changshang.com
@@ -13761,6 +13759,7 @@ xn--flw351e.com
 .changtong2800.com
 .changtounet.com
 .changtu.com
+.changwankeji.com
 .changxie.com
 .changxingyun.com
 .changyan.com
@@ -18987,7 +18986,6 @@ xn--flw351e.com
 .dingteam.com
 .dingwei.link
 .dingxiang-inc.com
-.dingxin66.com
 .dingxinhui.com
 .dingxinwen.com
 .dingxuewen.com
@@ -19337,7 +19335,6 @@ xn--flw351e.com
 .dnspood.net
 .dnsppdd.com
 .dnsrw.com
-.dnss.me
 .dnss.vip
 .dnssina.com
 .dnsurl.net
@@ -23266,7 +23263,6 @@ xn--flw351e.com
 .funwear.com
 .funxun.com
 .funyqq.com
-.fuqian.la
 .fuqiangw.com
 .furenkeji.com
 .furongedu.com
@@ -23406,6 +23402,7 @@ xn--flw351e.com
 .fygame.com
 .fygdrs.com
 .fygsoft.com
+.fyhapp66.com
 .fyigou.com
 .fyjsz.net
 .fymall0.com
@@ -23435,6 +23432,7 @@ xn--flw351e.com
 .fyvart.com
 .fywx.cc
 .fyxfcw.com
+.fyxxwb.com
 .fyyljkgl.com
 .fyyy.com
 .fyzku.com
@@ -23930,7 +23928,6 @@ xn--flw351e.com
 .gds-services.com
 .gdsa.com
 .gdscse.net
-.gdscw.com
 .gdsdwan.com
 .gdsincom.com
 .gdslwl.com
@@ -25009,6 +25006,7 @@ xn--flw351e.com
 .gtjaqh.com
 .gtjazg.com
 .gtk2.com
+.gtlpaj.com
 .gtlrxt.com
 .gtm-a1b2.com
 .gtm-a1b3.com
@@ -30535,6 +30533,7 @@ xn--flw351e.com
 .imgkr.com
 .imglefeng.com
 .imglink.win
+.imgloc.com
 .imgo.tv
 .imgscdn.com
 .imgse.com
@@ -31284,7 +31283,6 @@ xn--flw351e.com
 .itetc.org
 .itexamprep.com
 .iteye.com
-.itfanr.cc
 .itfans.net
 .itfeed.com
 .itfenghui.com
@@ -31375,7 +31373,6 @@ xn--flw351e.com
 .itpwd.com
 .itrace.cc
 .itran.cc
-.itren.org
 .itrid.com
 .itrip.com
 .itruelife.com
@@ -32908,7 +32905,6 @@ xn--flw351e.com
 .jiujiups.com
 .jiujiuwan.com
 .jiujiuwj.com
-.jiujiuyingshi.com
 .jiujiuyunhui.com
 .jiujiuzu.com
 .jiuku.com
@@ -33258,7 +33254,6 @@ xn--flw351e.com
 .job9151.com
 .job98.com
 .job9981.com
-.jobbole.com
 .jobcdp.com
 .jobcn.com
 .jobdeer.com
@@ -54518,7 +54513,6 @@ xn--flw351e.com
 .u51.com
 .u520.net
 .u58.com
-.u5h5.com
 .u5wan.com
 .u69cn.com
 .u6u.com
@@ -57815,6 +57809,7 @@ xn--flw351e.com
 .wlstock.com
 .wlsvt.com
 .wltieyaoban.com
+.wluotx.com
 .wlwujie.com
 .wlxit.com
 .wlxmall.com
@@ -60489,7 +60484,6 @@ xn--flw351e.com
 .xkhouse.com
 .xkoeccrq.com
 .xkpx.com
-.xkqyfw.com
 .xksafe.com
 .xktoupiao.com
 .xkw.com
@@ -62036,7 +62030,6 @@ xn--flw351e.com
 .ygo.wiki
 .ygread.com
 .ygsdmedia.com
-.ygshangjie.com
 .ygshu.com
 .ygsoft.com
 .ygtcpa.com
@@ -62751,7 +62744,6 @@ xn--flw351e.com
 .ylhsrsrc.com
 .ylife9.com
 .ylike.net
-.ylimg.com
 .yliyun.com
 .ylizu.com
 .yljc888.com
@@ -63491,7 +63483,6 @@ xn--flw351e.com
 .ystinbox.com
 .ysug.com
 .ysw365.com
-.ysw366.com
 .ysw68.com
 .yswebportal.cc
 .yswh.com
@@ -67089,6 +67080,7 @@ xn--flw351e.com
 .zytxgame.com
 .zyucan.com
 .zyue.com
+.zyun.vip
 .zywjjdw.com
 .zywjw.com
 .zywxpress.com

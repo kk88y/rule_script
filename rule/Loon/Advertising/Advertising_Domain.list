@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-26 02:07:01
+# UPDATED: 2023-01-26 15:12:51
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 14660
+# DOMAIN: 14661
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 78004
+# DOMAIN-SUFFIX: 78030
 # IP-CIDR: 238
 # URL-REGEX: 285
-# TOTAL: 93263
+# TOTAL: 93290
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -6443,6 +6443,7 @@ kakayy.com
 kaktokualscgea.com
 kakyomloctqiu.com
 kalantzis.net
+kampyle.com
 kang08.com
 kanglingjiu.com
 kapcotool.com
@@ -23744,6 +23745,7 @@ zzxosget.com
 .affiliates.thrixxx.com
 .affiliates.treasureisland.com
 .affiliates.ultrahosting.com
+.affiliates.videoslots.com
 .affiliates.vpn.ht
 .affiliatesensor.com
 .affiliateserver.hangikredi.com
@@ -24305,6 +24307,7 @@ zzxosget.com
 .ajorinryeso.com
 .ajouny.com
 .ajpxs.xyz
+.ajsyxphfpr.com
 .ajtctiiiaz.com
 .ajuhd.com
 .ajur.info
@@ -24377,6 +24380,7 @@ zzxosget.com
 .alabardak.com
 .aladdinupdate.blackrock.com
 .alaldidw.top
+.alanibelen.com
 .alanticgecking.uno
 .alappropolylibe.site
 .alas4kanmfa6a4mubte.com
@@ -27322,6 +27326,7 @@ zzxosget.com
 .aureate.com
 .auredzeon.com
 .aureigabelle.com
+.aureliancathy.com
 .aureneceriman.com
 .auriro.net
 .aurjueeh.com
@@ -28596,6 +28601,7 @@ zzxosget.com
 .bbaannrr05.com
 .bbads.vip
 .bbagnw.sedaily.com
+.bbangads.b-cdn.net
 .bbazhaheiv.top
 .bbba8.com
 .bbbb.goace.jp
@@ -32516,6 +32522,7 @@ zzxosget.com
 .cezezo.top
 .cf-ads.pinger.com
 .cf-native.karte.io
+.cf.kampyle.com
 .cf.overblog.com
 .cf2020176f.com
 .cfa.fidelity.com
@@ -40316,6 +40323,7 @@ zzxosget.com
 .eagernessstrongergreet.com
 .eagle.kudzu.com
 .eagleapi.io
+.eagletskoku.com
 .eaintrolled.info
 .ealeo.com
 .eanalyzer.de
@@ -44569,6 +44577,7 @@ zzxosget.com
 .fzlnk.com
 .fznkjk.bonprix.sk
 .fznpq.com
+.fzommizpo.com
 .fztimyc.cn
 .fztmn.top
 .fzu4.bysidecar.com
@@ -44746,6 +44755,7 @@ zzxosget.com
 .gaimoupy.net
 .gainmoneyfast.com
 .gainregister.com
+.gaiphaud.xyz
 .gaiqgs.xyz
 .gaisteem.net
 .gaiteshu.net
@@ -48897,6 +48907,7 @@ zzxosget.com
 .hvcbkr.com
 .hvd1t.com
 .hvddf44.top
+.hvhudp.xyz
 .hvooyieoei.com
 .hvrhgt.the-sun.com
 .hvrhgt.thesun.co.uk
@@ -50462,6 +50473,7 @@ zzxosget.com
 .inrotomr.com
 .insamemograbi.space
 .insankafa.cc
+.inscan.cn
 .inscriptionafford.com
 .insectdatabasesignificantly.com
 .inseee.fr
@@ -51217,6 +51229,7 @@ zzxosget.com
 .ixcbqp.com
 .ixcgvh.cn
 .ixcris.com
+.ixelcpo.cn
 .ixiaa.com
 .ixihet.cn
 .ixjrwczv.com
@@ -52683,7 +52696,6 @@ zzxosget.com
 .kameleoon.eu
 .kaminari.club
 .kamnebo.info
-.kampyle.com
 .kamwrqpgagoc.xyz
 .kan8.xyz
 .kanfaxing.com
@@ -52695,6 +52707,7 @@ zzxosget.com
 .kankingwith.com
 .kanojo.fr
 .kanoodle.com
+.kansanscichar.com
 .kanshu.buzz
 .kantarmedia.com
 .kantartns.lt
@@ -62803,6 +62816,7 @@ zzxosget.com
 .ohldsplu.com
 .ohmcasting.com
 .ohmchoicechi.online
+.ohmpyq.xyz
 .ohmwrite.com
 .ohmydating.com
 .ohmygosh.info
@@ -65163,6 +65177,7 @@ zzxosget.com
 .phaikroo.net
 .phaiksul.net
 .phaisoaz.com
+.phaithoo.xyz
 .phalingy.net
 .phanquang.vn
 .phantomtheft.com
@@ -65303,6 +65318,7 @@ zzxosget.com
 .photos8.pop6.com
 .photozoomchina.com
 .phouvemp.net
+.phouwims.net
 .phox2ey.bid
 .phpad.cqnews.net
 .phpads.astalavista.us
@@ -68651,6 +68667,7 @@ zzxosget.com
 .r.toplaygame.ru
 .r.turn.com.akadns.net
 .r.xcycm.com
+.r.yabancidizi.in
 .r.z2.fm
 .r023m83skv5v.com
 .r0wa9z6t8t.ru
@@ -71452,6 +71469,7 @@ zzxosget.com
 .saimone.com
 .saininglcm.live
 .saipel.com
+.sairy.cyou
 .saishait.net
 .saitef.cn
 .saiwhute.com
@@ -71502,6 +71520,7 @@ zzxosget.com
 .sam.msn.com
 .sam.setimedia.com
 .samage-bility.icu
+.samaniclucked.com
 .samantharegina.com
 .samanthyean.com
 .samazd.com
@@ -73306,6 +73325,7 @@ zzxosget.com
 .shibagongfang.com
 .shibeiou.com
 .shichihukuudon.com
+.shidaiheima.ltd
 .shidailw.com
 .shidn.com
 .shield.sitelock.com
@@ -74155,6 +74175,7 @@ zzxosget.com
 .smart-dmp.com
 .smart-ip.net
 .smart-name.pro
+.smart-placements-sdk.ex.co
 .smart-redirecting.com
 .smart-scripts.com
 .smart-traffik.com
@@ -77796,6 +77817,7 @@ zzxosget.com
 .stempelcosier.com
 .stenadewy.pro
 .stenchdaltonrunaway.com
+.stengskelped.com
 .step-step-go.com
 .stepkeydo.com
 .stepmotherincomingpluck.com
@@ -80978,6 +81000,7 @@ zzxosget.com
 .tokenads.com
 .tokendomain.xyz
 .toknowall.com
+.tokofyttes.com
 .tokyoredcirce.com
 .tolerableinflectionkazan.com
 .tolerated.wang
@@ -88542,6 +88565,7 @@ zzxosget.com
 .wwlolbs.com
 .wwm24.de
 .wwnc.xyz
+.wwnyubs.cn
 .wwoglde.top
 .wwopenclick.space
 .wwow.xyz
@@ -89555,6 +89579,7 @@ zzxosget.com
 .wynather.com
 .wynvalur.com
 .wyoutube.fr
+.wyoxmklaa.xyz
 .wyphawhity.com
 .wyplmjufd.live
 .wypovuwu.pro
@@ -91065,6 +91090,7 @@ zzxosget.com
 .ymetrica1.com
 .ymima360.com
 .ymjfhg.com
+.ymkomlhgzbpitp.com
 .ymmdpk.cn
 .ymonetize.com
 .ymprove.gmx.net
@@ -91359,6 +91385,7 @@ zzxosget.com
 .yrrcc.top
 .yrrsckr.cn
 .yrsfs.com
+.yrstwbyl.xyz
 .yrt7dgkf.exashare.com
 .yrvzqabfxe.com
 .yrwap.cn
