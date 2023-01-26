@@ -1,7 +1,7 @@
 ! Title: Advertising
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2023-01-26 15:12:53
+! Updated: 2023-01-27 02:07:00
 ! Total: 92691
 
 

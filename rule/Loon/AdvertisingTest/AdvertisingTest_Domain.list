@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-26 15:13:37
+# UPDATED: 2023-01-27 02:07:44
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 9960
+# DOMAIN: 9974
 # DOMAIN-KEYWORD: 264
 # DOMAIN-SUFFIX: 101755
 # IP-CIDR: 239
 # URL-REGEX: 285
-# TOTAL: 112503
+# TOTAL: 112517
 00-gov.cn
 0026645142c89aeb1.com
 006a039c957c142bb.com
@@ -1192,6 +1192,7 @@ beggarthodcomp.info
 beholder.xyz
 behybmunweid.com
 beineiros.xyz
+beinri.com
 bejotlmrijxvor.com
 beldiplomcom.75.com1.ru
 belmonhezamil.pro
@@ -3497,6 +3498,7 @@ herordearhem.info
 herowebads.com
 herreperolsof.pro
 hertforthatharrigh.pro
+hertzbeat.cn
 hetu.in
 hexadl.line55.net
 hf18yg8q.com
@@ -4425,6 +4427,7 @@ kbtoiwayyezse.com
 kbx1sth37s.com
 kbyelxqr.com
 kbymnqiomnegs.com
+kcddjusnew.com
 kcetcukaolxc.com
 kcnbyecw.com
 kcnjwtaj.com
@@ -4533,6 +4536,7 @@ knnvmkbemftwgj.com
 knowlead.io
 knpbefvk.com
 knvhqxpt.com
+koabouch.net
 koamxmikmuhahc.com
 koapsooh.click
 koclkigkz.com
@@ -5095,6 +5099,7 @@ mcrzrxwrtpr.com
 mcskucrxgwx.com
 mcuqjebym.com
 mczemvlzkndplq.com
+mda.zadn.vn
 mdcszycw.com
 mddwabpvzcr.com
 mdgpupricqpmy.com
@@ -5232,6 +5237,7 @@ mlyqbqha.com
 mm.awrsx.cn
 mm.n3w1d0ma1n
 mmbfmlrd.com
+mme.zedcdn.me
 mmfvtvdqlwxyj.com
 mmi-agency.com
 mmile.com
@@ -6475,6 +6481,7 @@ push-me-up.com
 push2.eastmoney.com
 pushengage.im
 pushservice.one
+pusishegre.com
 pussl10.com
 pussl31.com
 pussl33.com
@@ -7150,6 +7157,7 @@ rzizcnhoobxw.com
 rzjhxwfbxp.com
 rzrkrotgh.com
 s.cq20.cn
+s.zzcdn.me
 s1.stat
 s1.wp.com
 s11clickmoviedownloadercom.maynemyltf.netdna-cdn.com
@@ -7674,6 +7682,7 @@ tamhdxkh.com
 tamilcm.com
 tanchuang002.info
 tannelssepara.info
+tao.barstoolsports.com
 taojingu.cn
 taotu001.com
 taowjygwtm.com
@@ -7827,6 +7836,7 @@ tjdasfdssd.com
 tjdvqkis.com
 tjhjyiylc.com
 tjhkdxzzxyb.com
+tjme.io
 tjmqetufuzn.com
 tjsioyarnnxmj.com
 tjtukeaszrqco.com
@@ -7909,6 +7919,7 @@ tqddgnqsrya.com
 tqguvxunwvk.com
 tqtqneoybxzpoh.com
 traceybell.co.uk
+track.my1elitclub.com
 track.mypcbackup.com
 trackaffpix.com
 trackbar.info
@@ -8721,6 +8732,7 @@ weepjoejkqadi.com
 weesh.co.uk
 weesschoollecthurri.info
 weimineiyixiu.cn
+weiqu.cyou
 wemgcdygokm.com
 wenpsnpqher.com
 weoukcpr.com
@@ -9406,6 +9418,7 @@ xxxbyhxp.com
 xxxlnk.com
 xxxmov.site
 xxxnavy.com
+xyblm.xyz
 xylnwusfiyq.com
 xymtglljft.com
 xywwomayptsd.com
@@ -9703,6 +9716,7 @@ zappy.co.za
 zasccycohek.com
 zatrlsov.com
 zavlamhx.com
+zawqwpajq.club
 zaxdnhfdchet.com
 zayhipbcxig.com
 zbbqhdnef.com

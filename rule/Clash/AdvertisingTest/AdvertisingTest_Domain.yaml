@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-26 15:13:39
-# DOMAIN: 9960
+# UPDATED: 2023-01-27 02:07:45
+# DOMAIN: 9974
 # DOMAIN-KEYWORD: 264
 # DOMAIN-SUFFIX: 101755
 # IP-CIDR: 239
-# TOTAL: 112218
+# TOTAL: 112232
 payload:
   - '3p-geo.yahoo.com'
   - '3p-udc.yahoo.com'
@@ -32,6 +32,7 @@ payload:
   - 'bats.video.yahoo.com'
   - 'beacon.search.yahoo.com'
   - 'beap-bc.yahoo.com'
+  - 'beinri.com'
   - 'blueduckredapple.com'
   - 'bs.yandex.ru'
   - 'collector2c.zhihuishu.com'
@@ -43,24 +44,31 @@ payload:
   - 'fpb1.apple886.com'
   - 'ganon.yahoo.com'
   - 'geo.yahoo.com'
+  - 'hertzbeat.cn'
   - 'hfjsbf.xyz'
   - 'iadsdk.apple.com'
   - 'ib.snssdk.com'
   - 'informer.yandex.ru'
   - 'jill.fc.yahoo.com'
   - 'jpaasne.e.shifen.com'
+  - 'kcddjusnew.com'
+  - 'koabouch.net'
   - 'log.strm.yandex.ru'
   - 'marketingsolutions.yahoo.com'
   - 'mc.yandex.ru'
+  - 'mda.zadn.vn'
   - 'mediaappletree.com'
   - 'meitaolianmeng.ltd'
   - 'mm.n3w1d0ma1n'
+  - 'mme.zedcdn.me'
   - 'mo.vlpyj.xy'
   - 'nol.yahoo.com'
   - 'oronwg.xyz'
   - 'pr.comet.yahoo.com'
+  - 'pusishegre.com'
   - 'pv.sohu.com'
   - 'rrf.fat1domain1'
+  - 's.zzcdn.me'
   - 'shackapple.com'
   - 'stats.video.search.yahoo.com'
   - 'sub.powerapple.com'
@@ -68,12 +76,17 @@ payload:
   - 'supportmetrics.apple.com'
   - 'test.vast'
   - 'theapple.site'
+  - 'tjme.io'
+  - 'track.my1elitclub.com'
   - 'visit.webhosting.yahoo.com'
+  - 'weiqu.cyou'
   - 'wondefulapplend.com'
   - 'wzjs1.oss-accelerate.aliyuncs.com'
+  - 'xyblm.xyz'
   - 'youtube.local'
   - 'yruvnmn.cn'
   - 'yupphsl.cn'
+  - 'zawqwpajq.club'
   - 'ad.xy2013.cn'
   - 'ads.play.cbsi.video'
   - 'api.cupid.dns.iqiyi.com'
@@ -7629,6 +7642,7 @@ payload:
   - 'tapffdskgjr.com'
   - 'targetctracker.com'
   - 'tarteaucitron.ml'
+  - 'tat.pandora.xiaomi.com'
   - 'tataget.ru'
   - 'tatami-solutions.com'
   - 'tauwhout.net'
@@ -9896,7 +9910,6 @@ payload:
   - 'zzxosget.com'
   - '519332da.rtc.youme.im'
   - 'gvod.aiseejapp.atianqi.com'
-  - 'tat.pandora.xiaomi.com'
   - '39d83s.com'
   - 'aboard.apilocate.amap.com'
   - 'access.open.uc.cn'
@@ -9967,6 +9980,7 @@ payload:
   - 'securemvt.apple.com.cn'
   - 'ssp.rambler.ru'
   - 'stats.sandberg.world'
+  - 'tao.barstoolsports.com'
   - 'tla.traderlink.com'
   - '+.0-000.store'
   - '+.0.code.cotsta.ru'

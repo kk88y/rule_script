@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-26 15:13:38
-# DOMAIN: 9960
+# UPDATED: 2023-01-27 02:07:45
+# DOMAIN: 9974
 # DOMAIN-KEYWORD: 264
 # DOMAIN-SUFFIX: 101755
 # IP-CIDR: 239
-# TOTAL: 112218
+# TOTAL: 112232
 payload:
   - DOMAIN,3p-geo.yahoo.com
   - DOMAIN,3p-udc.yahoo.com
@@ -32,6 +32,7 @@ payload:
   - DOMAIN,bats.video.yahoo.com
   - DOMAIN,beacon.search.yahoo.com
   - DOMAIN,beap-bc.yahoo.com
+  - DOMAIN,beinri.com
   - DOMAIN,blueduckredapple.com
   - DOMAIN,bs.yandex.ru
   - DOMAIN,collector2c.zhihuishu.com
@@ -43,24 +44,31 @@ payload:
   - DOMAIN,fpb1.apple886.com
   - DOMAIN,ganon.yahoo.com
   - DOMAIN,geo.yahoo.com
+  - DOMAIN,hertzbeat.cn
   - DOMAIN,hfjsbf.xyz
   - DOMAIN,iadsdk.apple.com
   - DOMAIN,ib.snssdk.com
   - DOMAIN,informer.yandex.ru
   - DOMAIN,jill.fc.yahoo.com
   - DOMAIN,jpaasne.e.shifen.com
+  - DOMAIN,kcddjusnew.com
+  - DOMAIN,koabouch.net
   - DOMAIN,log.strm.yandex.ru
   - DOMAIN,marketingsolutions.yahoo.com
   - DOMAIN,mc.yandex.ru
+  - DOMAIN,mda.zadn.vn
   - DOMAIN,mediaappletree.com
   - DOMAIN,meitaolianmeng.ltd
   - DOMAIN,mm.n3w1d0ma1n
+  - DOMAIN,mme.zedcdn.me
   - DOMAIN,mo.vlpyj.xy
   - DOMAIN,nol.yahoo.com
   - DOMAIN,oronwg.xyz
   - DOMAIN,pr.comet.yahoo.com
+  - DOMAIN,pusishegre.com
   - DOMAIN,pv.sohu.com
   - DOMAIN,rrf.fat1domain1
+  - DOMAIN,s.zzcdn.me
   - DOMAIN,shackapple.com
   - DOMAIN,stats.video.search.yahoo.com
   - DOMAIN,sub.powerapple.com
@@ -68,12 +76,17 @@ payload:
   - DOMAIN,supportmetrics.apple.com
   - DOMAIN,test.vast
   - DOMAIN,theapple.site
+  - DOMAIN,tjme.io
+  - DOMAIN,track.my1elitclub.com
   - DOMAIN,visit.webhosting.yahoo.com
+  - DOMAIN,weiqu.cyou
   - DOMAIN,wondefulapplend.com
   - DOMAIN,wzjs1.oss-accelerate.aliyuncs.com
+  - DOMAIN,xyblm.xyz
   - DOMAIN,youtube.local
   - DOMAIN,yruvnmn.cn
   - DOMAIN,yupphsl.cn
+  - DOMAIN,zawqwpajq.club
   - DOMAIN,ad.xy2013.cn
   - DOMAIN,ads.play.cbsi.video
   - DOMAIN,api.cupid.dns.iqiyi.com
@@ -7629,6 +7642,7 @@ payload:
   - DOMAIN,tapffdskgjr.com
   - DOMAIN,targetctracker.com
   - DOMAIN,tarteaucitron.ml
+  - DOMAIN,tat.pandora.xiaomi.com
   - DOMAIN,tataget.ru
   - DOMAIN,tatami-solutions.com
   - DOMAIN,tauwhout.net
@@ -9896,7 +9910,6 @@ payload:
   - DOMAIN,zzxosget.com
   - DOMAIN,519332da.rtc.youme.im
   - DOMAIN,gvod.aiseejapp.atianqi.com
-  - DOMAIN,tat.pandora.xiaomi.com
   - DOMAIN,39d83s.com
   - DOMAIN,aboard.apilocate.amap.com
   - DOMAIN,access.open.uc.cn
@@ -9967,6 +9980,7 @@ payload:
   - DOMAIN,securemvt.apple.com.cn
   - DOMAIN,ssp.rambler.ru
   - DOMAIN,stats.sandberg.world
+  - DOMAIN,tao.barstoolsports.com
   - DOMAIN,tla.traderlink.com
   - DOMAIN-SUFFIX,0-000.store
   - DOMAIN-SUFFIX,0.code.cotsta.ru
