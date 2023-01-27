@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-27 02:07:45
-# DOMAIN: 9974
+# UPDATED: 2023-01-28 02:08:33
+# DOMAIN: 9970
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 101755
+# DOMAIN-SUFFIX: 101783
 # IP-CIDR: 239
-# TOTAL: 112232
+# TOTAL: 112256
 3p-geo.yahoo.com
 3p-udc.yahoo.com
 46186911.vtt
@@ -31,43 +31,44 @@ awsync.yandex.ru
 bats.video.yahoo.com
 beacon.search.yahoo.com
 beap-bc.yahoo.com
-beinri.com
 blueduckredapple.com
+brkxgfs.cn
 bs.yandex.ru
+collector.api.video
 collector2c.zhihuishu.com
 cookiex.ngd.yahoo.com
 crypta.js
 d1stxfv94hrhia.cloudfront
+d25m254rjp3rii.cloudfront.net
+dfdaaa12.com
 dmg-dd.oss-accelerate.aliyuncs.com
 februaryreductionapplet.com
 fpb1.apple886.com
 ganon.yahoo.com
 geo.yahoo.com
-hertzbeat.cn
-hfjsbf.xyz
+happi.cyou
+hnrjign.cn
 iadsdk.apple.com
 ib.snssdk.com
 informer.yandex.ru
 jill.fc.yahoo.com
 jpaasne.e.shifen.com
-kcddjusnew.com
-koabouch.net
+juntaijiancai.com
 log.strm.yandex.ru
+log.xoso.com.vn
 marketingsolutions.yahoo.com
 mc.yandex.ru
-mda.zadn.vn
 mediaappletree.com
 meitaolianmeng.ltd
 mm.n3w1d0ma1n
-mme.zedcdn.me
 mo.vlpyj.xy
 nol.yahoo.com
-oronwg.xyz
+paulty.com
+plyuwqq.cn
+ppltxv.xyz
 pr.comet.yahoo.com
-pusishegre.com
 pv.sohu.com
 rrf.fat1domain1
-s.zzcdn.me
 shackapple.com
 stats.video.search.yahoo.com
 sub.powerapple.com
@@ -75,17 +76,12 @@ sugar.zhihu.com
 supportmetrics.apple.com
 test.vast
 theapple.site
-tjme.io
-track.my1elitclub.com
 visit.webhosting.yahoo.com
-weiqu.cyou
+wbqosw.xyz
 wondefulapplend.com
 wzjs1.oss-accelerate.aliyuncs.com
-xyblm.xyz
+yang17.xyz
 youtube.local
-yruvnmn.cn
-yupphsl.cn
-zawqwpajq.club
 ad.xy2013.cn
 ads.play.cbsi.video
 api.cupid.dns.iqiyi.com
@@ -7641,7 +7637,6 @@ taozgpkjzpdtgr.com
 tapffdskgjr.com
 targetctracker.com
 tarteaucitron.ml
-tat.pandora.xiaomi.com
 tataget.ru
 tatami-solutions.com
 tauwhout.net
@@ -9909,6 +9904,7 @@ zzxlukodff.com
 zzxosget.com
 519332da.rtc.youme.im
 gvod.aiseejapp.atianqi.com
+tat.pandora.xiaomi.com
 39d83s.com
 aboard.apilocate.amap.com
 access.open.uc.cn
@@ -11430,6 +11426,7 @@ tla.traderlink.com
 .7lyonline.com
 .7me0ssd6.de
 .7metodik.ru
+.7mmtv.top
 .7nkbwdf1uq.ru
 .7offers.ru
 .7out.ru
@@ -18370,6 +18367,7 @@ tla.traderlink.com
 .bearerassistance.com
 .bearingpreoccupationadmonish.com
 .bearoner.com
+.bearpawclouty.com
 .bearsdisdainmathematics.com
 .bearsg.cn
 .beassilentasaf.xyz
@@ -18481,6 +18479,7 @@ tla.traderlink.com
 .beidw.com
 .beifb.com
 .beifz.com
+.beinri.com
 .beisb.com
 .beishangdichan.com
 .beiwc.com
@@ -18505,6 +18504,7 @@ tla.traderlink.com
 .belexglokmpld.com
 .belfarewes.buzz
 .belgrekblackad.com
+.belgud.com
 .belickitungchan.com
 .beliebtestewebseite.de
 .belierlaine.com
@@ -20962,6 +20962,7 @@ tla.traderlink.com
 .cengolio.fr
 .cennter.com
 .censelysoviell.xyz
+.censorcolonizegreatness.com
 .censusmiles.com
 .centauruspopyou.com
 .centent.slreamplay.cc
@@ -23491,6 +23492,7 @@ tla.traderlink.com
 .d1igp3oop3iho5.cloudfront.net
 .d1ilwohzbe4ao6.cloudfront.net
 .d1izuvv2qy7hel.cloudfront.net
+.d1j2jv7bvcsxqg.cloudfront.net
 .d1j47wsepxe9u2.cloudfront.net
 .d1j6limf657foe.cloudfront.net
 .d1j9qsxe04m2ki.cloudfront.net
@@ -24319,7 +24321,6 @@ tla.traderlink.com
 .davarello.com
 .daveexpose.com
 .davidhuynh.fr
-.davzwyavjm.com
 .dawangde.me
 .dawin.tv
 .dawmal.com
@@ -27388,6 +27389,7 @@ tla.traderlink.com
 .express-submit.de
 .expressalike.com
 .expressvampire.com
+.expwyredocks.com
 .exrtbsrv.com
 .ext.bhol.co.il
 .ext.goguardian.com
@@ -31072,6 +31074,7 @@ tla.traderlink.com
 .herpes.3.p2l.info
 .herpes.4.p2l.info
 .herthyptal.com
+.hertzbeat.cn
 .hesftig.site
 .heshun365.cn
 .hestuthygro.pro
@@ -31110,6 +31113,7 @@ tla.traderlink.com
 .hf5rbejvpwds.com
 .hfajdjhicjcchhbeaeh.ru
 .hfawdgz.cn
+.hfjsbf.xyz
 .hflssy.com
 .hfoyjg.cn
 .hfrytno.cn
@@ -31683,6 +31687,7 @@ tla.traderlink.com
 .hqoqbs.xyz
 .hqpass.com
 .hqqpw.mobi
+.hqqulwygpq.com
 .hqrsuxsjqycv.info
 .hqscene.com
 .hqtbnelkvax.com
@@ -33030,6 +33035,7 @@ tla.traderlink.com
 .introfykeeler.tech
 .intrudeaccess.com
 .intrudesome.com
+.intuitspisan.com
 .inuapixndextq.xyz
 .inurneddoggish.com
 .inuvo.com
@@ -33177,6 +33183,7 @@ tla.traderlink.com
 .iqsoh.ru
 .iqtest365.online
 .iqtewa.ru
+.iqyqqfduxeql.com
 .iqzone.com
 .iqzt3ec.cn
 .ir002423.cn
@@ -33484,6 +33491,7 @@ tla.traderlink.com
 .jadeitite.com
 .jaelejgwiu.xyz
 .jaftouja.net
+.jafwmixumww.com
 .jagged-yellow.pro
 .jaggiertridii.com
 .jagoiklan.com
@@ -33649,6 +33657,7 @@ tla.traderlink.com
 .jet.zbp.ru
 .jetem.fr
 .jetgatem.com
+.jetsomkhulda.com
 .jetsowilk.com
 .jettrujole.com
 .jetx.info
@@ -34389,6 +34398,7 @@ tla.traderlink.com
 .kbqebfcubeiaa.com
 .kbtzxl.com
 .kbugxeslbjc8.com
+.kcddjusnew.com
 .kcdn.xyz
 .kcepfyzuna.com
 .kcfuzhj.cn
@@ -34785,6 +34795,7 @@ tla.traderlink.com
 .knutenegros.pro
 .knwekg.com
 .koabausu.com
+.koabouch.net
 .koacojus.net
 .koalababy.net
 .koalaups.com
@@ -35745,6 +35756,7 @@ tla.traderlink.com
 .lflzcaskpkfhi.com
 .lfov.net
 .lfport.com
+.lfpthkipndval.com
 .lfsenmei.com
 .lfstmedia.com
 .lftqch650apz.com
@@ -36114,6 +36126,7 @@ tla.traderlink.com
 .livreral.fr
 .livrval.fr
 .lixiaodie.com
+.lixmperta.com
 .liyuan.cloud
 .lizardslaugh.com
 .lizhuo.fun
@@ -37530,6 +37543,7 @@ tla.traderlink.com
 .md-nx.com
 .md.5.p2l.info
 .md5s.ru
+.mda.zadn.vn
 .mdadx.com
 .mdcytqwnbr.com
 .mdeih.com
@@ -37950,6 +37964,7 @@ tla.traderlink.com
 .methodrumour.com
 .methoxyunpaled.com
 .methree-salien.icu
+.metingsaeta.com
 .metododinheiro.pt
 .metopeharriet.com
 .metosk.com
@@ -38301,6 +38316,7 @@ tla.traderlink.com
 .misxgkvnlf.com
 .miszonepionic.space
 .mitosesgawking.com
+.mittylargen.com
 .miuspzkmn.bar
 .mivkijds.com
 .mix1traff.ru
@@ -38382,6 +38398,7 @@ tla.traderlink.com
 .mmccint.com
 .mmcispartners.com
 .mmctsvc.com
+.mme.zedcdn.me
 .mmenuxic.com
 .mmetrix.mobi
 .mmfcezwqaz.com
@@ -41147,6 +41164,7 @@ tla.traderlink.com
 .omiki.com
 .omine.org
 .omitbailey.com
+.omjitjlhx.com
 .omkogswhetc.com
 .omkt.co
 .omnan.com
@@ -41575,6 +41593,7 @@ tla.traderlink.com
 .ormationwi.xyz
 .orner.fr
 .ornery-animal.pro
+.oronwg.xyz
 .orpheus.cuci.nl
 .orpheushooven.com
 .orquideassp.com
@@ -44543,6 +44562,7 @@ tla.traderlink.com
 .pushwhy.com
 .pushwoosh.com
 .pushzolo.com
+.pusishegre.com
 .pusk.ua
 .pussl26.com
 .pussl3.com
@@ -45867,6 +45887,7 @@ tla.traderlink.com
 .remehealth.net
 .remekcikkek.com
 .remembercompetitioninexplicable.com
+.remexpeeks.com
 .remeyr.com
 .reminews.com
 .remintrex.com
@@ -45897,6 +45918,7 @@ tla.traderlink.com
 .renzw.xyz
 .reofamily.cn
 .reople.co.kr
+.reoreexpresi.xyz
 .rep0pkgr.com
 .repairedbringstale.com
 .repaul.com
@@ -46589,6 +46611,7 @@ tla.traderlink.com
 .rou1.xyz
 .rou3.xyz
 .rouar.com
+.roucoutaivers.com
 .roudoduor.com
 .rouinfernapean.com
 .roujonoa.net
@@ -46983,6 +47006,7 @@ tla.traderlink.com
 .s.tuoitre.vn
 .s.update.fbsbx.com
 .s.viites.com
+.s.zzcdn.me
 .s1-adfly.com
 .s1.adguard.com
 .s1.intimshop.ru
@@ -48136,6 +48160,7 @@ tla.traderlink.com
 .shiokambing2.com
 .shipostrich.com
 .shippinginsights.com
+.shipsmotorw.xyz
 .shiruru.cn
 .shiryharu.pro
 .shishishiguixinfangfuzhuangshanghan.cn
@@ -48552,6 +48577,7 @@ tla.traderlink.com
 .skinkexchange.com
 .skinnerinadmissiblegreeted.com
 .skinneroverturn.com
+.skinsdefinitely.com
 .skipdearbeautify.com
 .skipwaywurzel.com
 .skivesdaggles.com
@@ -51827,6 +51853,7 @@ tla.traderlink.com
 .tjgasbjinlx.xyz
 .tjhpsylyxdfov.xyz
 .tjisenap.com
+.tjme.io
 .tjxafmo.cn
 .tk.kaufda.de
 .tk.mediacategory.com
@@ -55688,6 +55715,7 @@ tla.traderlink.com
 .weimeiwangluo.site
 .weio6nkoe.cyou
 .weipapa.top
+.weiqu.cyou
 .weiv1fl.cn
 .weix.xyz
 .weixinhuoyuan.com
@@ -55930,6 +55958,7 @@ tla.traderlink.com
 .wibtntmvox.com
 .wickedlongingbelfry.com
 .wickedreports.com
+.wickiupcopalms.com
 .widaimty.com
 .wideangle.co
 .widebanner.com
@@ -56342,6 +56371,7 @@ tla.traderlink.com
 .wpadmngr.com
 .wpdstat.com
 .wpfc.ml
+.wphmavwgay.xyz
 .wpib0jr.cn
 .wpiwoo.xyz
 .wpncdn.com
@@ -57604,12 +57634,14 @@ tla.traderlink.com
 .xwmxdrnl.com
 .xwqvytuiko.com
 .xwrnbrwkairr.com
+.xwujifnpt.com
 .xww360.com
 .xwwj.ink
 .xxbughz.cn
 .xxccdshj.com
 .xxe2.com
 .xxecldsp.xyz
+.xxfejeacw.com
 .xxgslt.com
 .xxgxqscl.com
 .xxkacrc.cn
@@ -57644,6 +57676,7 @@ tla.traderlink.com
 .xxzj.pro
 .xy7elite.com
 .xy98.com.cn
+.xyblm.xyz
 .xycsxvhsxqrlbji.com
 .xydestygre.com
 .xyhfc.xyz
@@ -57840,6 +57873,7 @@ tla.traderlink.com
 .yepsawomen.com
 .yepteaswont.com
 .yeqinu.xyz
+.yerto.info
 .yes-24-go.cc
 .yes-messenger.com
 .yes999.cf
@@ -58228,6 +58262,7 @@ tla.traderlink.com
 .yrrcc.top
 .yrsfs.com
 .yrstwbyl.xyz
+.yruvnmn.cn
 .yrvzqabfxe.com
 .yrwap.cn
 .ys2000.cdn.bcebos.com
@@ -58325,6 +58360,7 @@ tla.traderlink.com
 .yupei.love
 .yupfiles.net
 .yuppads.com
+.yupphsl.cn
 .yuppyads.com
 .yuqadu.xyz
 .yuqhtlry.xyz
@@ -58489,6 +58525,7 @@ tla.traderlink.com
 .zausosti.net
 .zauthuvy.com
 .zavunuve.pro
+.zawqwpajq.club
 .zayac2volk11.com
 .zazaruniri.com
 .zazennef.com
@@ -59057,6 +59094,7 @@ tla.traderlink.com
 .zzhengre.com
 .zzkj.biz
 .zzngisyq.xyz
+.zzoluickymwz.com
 .zzpwwbf.cn
 .zzpzero.com
 .zzwzsic.cn
@@ -74691,7 +74729,6 @@ tla.traderlink.com
 .asia.interface.com
 .asiafriendfinder.com
 .asiamarketing.sedgwick.com
-.asianporn.xyz.7mmtv.top
 .asianporn.xyz.jav-7mmtv.top
 .asiepuqvs.com
 .asifgsyky.com
@@ -74921,7 +74958,6 @@ tla.traderlink.com
 .avero.xyz
 .avertscratch.com
 .avfay.com
-.avgle.com.7mmtv.top
 .avgle.com.jav-7mmtv.top
 .avgsvkiwunhhcd.com
 .avideo.ifengcdn.com
@@ -76547,6 +76583,7 @@ tla.traderlink.com
 .chaoseskhedahs.com
 .chaoxianleather.ltd
 .chapm.com
+.chargebee.com
 .charles.huqindustries.co.uk
 .chartbeat-sdk.s3.amazonaws.com
 .chartiq-client-prod.s3.amazonaws.com
@@ -79587,6 +79624,7 @@ tla.traderlink.com
 .dauaskjyfoy.com
 .daugus.com
 .daunnotes.com
+.davzwyavjm.com
 .dawdlechahar.com
 .dawn3host.com
 .dawnjacktip.live
@@ -80579,7 +80617,6 @@ tla.traderlink.com
 .ebis.umulin-lab.com
 .ebiscname.infofactory.jp
 .ebjvu.cn
-.ebod.7mmtv.top
 .ebonscornier.com
 .ebook.altudo.co
 .eboundservices.com
@@ -81918,7 +81955,6 @@ tla.traderlink.com
 .fruine.com
 .fruitice.realnetwrk.com
 .frutrun.com
-.fsdss.7mmtv.top
 .fsoft4down.com
 .fssuqbylk.com
 .fsswokpc.com
@@ -84227,7 +84263,6 @@ tla.traderlink.com
 .ipservice.163.com
 .iptmih.hifi-regler.de
 .iptvdeals.com
-.ipx.7mmtv.top
 .iqdflfpchlmtnt.com
 .iqeuhj.maccosmetics.co.kr
 .iquue.com
@@ -84381,14 +84416,10 @@ tla.traderlink.com
 .jasmin.com
 .jasuurqvtqisud.xyz
 .jaup0lake.com
-.jav.guru.7mmtv.top
 .jav.guru.jav-7mmtv.top
 .javbucks.com
-.javfinder.sb.7mmtv.top
 .javfinder.sb.jav-7mmtv.top
-.javgiga.com.7mmtv.top
 .javgiga.com.jav-7mmtv.top
-.javmost.cx.7mmtv.top
 .javmost.cx.jav-7mmtv.top
 .jay.brauerei-egg.at
 .jay.breakup.management
@@ -84931,7 +84962,6 @@ tla.traderlink.com
 .kippbeak.cf
 .kissdoujin.com
 .kisshentai.net
-.kissjav.li.7mmtv.top
 .kissjav.li.jav-7mmtv.top
 .kite.devin.website
 .kite.ibirthdayclub.com
@@ -86862,7 +86892,6 @@ tla.traderlink.com
 .methineeutopia.com
 .methovre.xyz
 .methupteshu.com
-.metingsaeta.com
 .metolluteic.com
 .metomic.io
 .metreelusive.com
@@ -87245,7 +87274,6 @@ tla.traderlink.com
 .meubonus.com
 .mewigurom.com
 .mexcel.info
-.meyd.7mmtv.top
 .mezimedia.com
 .mf.collopantony.com
 .mf01.zybang.com
@@ -87293,7 +87321,6 @@ tla.traderlink.com
 .midasplayer.com
 .middleware.p7s1.io
 .middycdn-a.akamaihd.net
-.mide.7mmtv.top
 .midnightimpressionperception.com
 .miduoke.net
 .midy.me
@@ -87826,6 +87853,7 @@ tla.traderlink.com
 .my.weplayhandball.sk
 .my.weplayvolleyball.cz
 .my.weplayvolleyball.sk
+.my1elitclub.com
 .my5058.com
 .myad.cn
 .myads.babakcp0002.cf
@@ -88537,7 +88565,6 @@ tla.traderlink.com
 .omggxbcdqj.com
 .omgid.qq.com
 .omitneitherrover.com
-.omjitjlhx.com
 .omlktdqrzwrtn.com
 .omlube.com
 .ommeowthor.com
@@ -89677,7 +89704,6 @@ tla.traderlink.com
 .ppctrck.com
 .pphqq.com
 .pppbrkwd.xyz
-.pppe.7mmtv.top
 .pppvrbaoyy.com
 .ppqlnwavlmt.com
 .ppscdnqkgj.com
@@ -89708,7 +89734,6 @@ tla.traderlink.com
 .pre.footprintpredict.com
 .pre.myfuck.club
 .prebids.adnsx.com
-.pred.7mmtv.top
 .predirect.net
 .predominantaugustchapter.com
 .prefaceinventorgrouping.com
@@ -89720,6 +89745,7 @@ tla.traderlink.com
 .preferences.truste.com
 .preferenza.nposistemi.it
 .pregrados.javeriana.edu.co
+.premclubs.com
 .premium-news-for.me
 .premiumbros.com
 .premiumclub.tdgarden.com
@@ -93192,7 +93218,6 @@ tla.traderlink.com
 .ssepwmjmtnqsn.com
 .ssfaxobqb.com
 .sshsnahw.com
-.ssis.7mmtv.top
 .ssitecat.eset.com
 .ssitectlyst.saksfifthavenue.com
 .ssl-metrics.tim.it
@@ -93986,7 +94011,6 @@ tla.traderlink.com
 .supernff.com
 .supernfq.com
 .superwidget-assets.gowatchit.com
-.supjav.com.7mmtv.top
 .supjav.com.jav-7mmtv.top
 .suppliersite.ferguson.com
 .supplyframe.com
@@ -94793,6 +94817,7 @@ tla.traderlink.com
 .thinkaction.com
 .thinknear-hosted.thinknearhub.com
 .thinksabashmolly.com
+.thinksuggest.org
 .thiokolduumvir.com
 .thirdfloor.it
 .thisbestreward.com
@@ -96741,7 +96766,6 @@ tla.traderlink.com
 .vividcash.com
 .vividlobster.com
 .viyouhui.com
-.vjav.com.7mmtv.top
 .vjav.com.jav-7mmtv.top
 .vjgenkfqjqng.com
 .vjie.com
