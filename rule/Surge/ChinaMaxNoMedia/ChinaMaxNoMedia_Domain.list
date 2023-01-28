@@ -1,16 +1,16 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-28 02:14:04
+# UPDATED: 2023-01-29 02:13:52
 # DOMAIN: 173
 # DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 66947
+# DOMAIN-SUFFIX: 66942
 # IP-ASN: 932
 # IP-CIDR: 5230
 # IP-CIDR6: 5001
 # PROCESS-NAME: 11
 # USER-AGENT: 65
-# TOTAL: 78370
+# TOTAL: 78365
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -2465,7 +2465,6 @@ xn--flw351e.com
 .2541.com
 .254game.com
 .255616.com
-.2556r.com
 .256app.com
 .25752.com
 .258.com
@@ -13551,7 +13550,6 @@ xn--flw351e.com
 .cfogc.com
 .cfpa.pw
 .cfpsf.com
-.cfryny.com
 .cfsino.com
 .cfsl2017.com
 .cftea.com
@@ -26231,7 +26229,6 @@ xn--flw351e.com
 .haorc.com
 .haoread.com
 .haorencai.net
-.haorendao.com
 .haorooms.com
 .haoseals.com
 .haosenchina.com
@@ -28589,6 +28586,7 @@ xn--flw351e.com
 .huazhuanapp.com
 .huazhucorp.com
 .huazi55.xyz
+.huazirc.com
 .hubcyts.com
 .hubei-design.com
 .hubeibbs.net
@@ -33457,7 +33455,6 @@ xn--flw351e.com
 .jscdn.host
 .jsceou.com
 .jsche.net
-.jschengta.com
 .jschunxing.com
 .jscj.com
 .jsclearing.com
@@ -44182,7 +44179,6 @@ xn--flw351e.com
 .pp6.cc
 .pp63.com
 .pp66.cc
-.pp70.com
 .pp9l.com
 .ppaikd.com
 .ppbizon.com
@@ -45333,7 +45329,6 @@ xn--flw351e.com
 .qinzc.me
 .qinzhe.com
 .qinzhou8.com
-.qinzi7.com
 .qinzidna.com
 .qinziheng.com
 .qionghaif.com
@@ -52724,6 +52719,7 @@ xn--flw351e.com
 .thoughtworkers.org
 .thrbs.com
 .threadcn.com
+.threatbook.net
 .threegorgestours.com
 .threeol.com
 .threetong.com
@@ -53382,7 +53378,6 @@ xn--flw351e.com
 .tongyi.com
 .tongyidrying.com
 .tongyongji.net
-.tongyou188.com
 .tongyuanos.com
 .tongyue.com
 .tongzhuo100.com
@@ -61391,6 +61386,7 @@ xn--flw351e.com
 .yageo.tech
 .yago-mall.com
 .yahacode.com
+.yahaha.net
 .yahaizi.com
 .yahoo001.com
 .yahotab.com
@@ -66427,7 +66423,6 @@ xn--flw351e.com
 .zongheng001.com
 .zonghengke.com
 .zonghengnews.com
-.zonglai.mobi
 .zongming.net
 .zongs365.com
 .zongshenmotor.com

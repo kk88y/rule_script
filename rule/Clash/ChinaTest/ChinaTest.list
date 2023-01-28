@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-28 02:11:43
+# UPDATED: 2023-01-29 02:11:43
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 65833
+# DOMAIN-SUFFIX: 65826
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 66030
+# TOTAL: 66023
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdp.cloud.unity3d.com
@@ -5837,7 +5837,6 @@ DOMAIN-SUFFIX,253u.com
 DOMAIN-SUFFIX,2541.com
 DOMAIN-SUFFIX,254game.com
 DOMAIN-SUFFIX,255616.com
-DOMAIN-SUFFIX,2556r.com
 DOMAIN-SUFFIX,256app.com
 DOMAIN-SUFFIX,25752.com
 DOMAIN-SUFFIX,258288.com
@@ -16306,7 +16305,6 @@ DOMAIN-SUFFIX,cfmoto.com
 DOMAIN-SUFFIX,cfogc.com
 DOMAIN-SUFFIX,cfpa.pw
 DOMAIN-SUFFIX,cfpsf.com
-DOMAIN-SUFFIX,cfryny.com
 DOMAIN-SUFFIX,cfsino.com
 DOMAIN-SUFFIX,cfsl2017.com
 DOMAIN-SUFFIX,cftea.com
@@ -28091,7 +28089,6 @@ DOMAIN-SUFFIX,haoqq.com
 DOMAIN-SUFFIX,haorc.com
 DOMAIN-SUFFIX,haoread.com
 DOMAIN-SUFFIX,haorencai.net
-DOMAIN-SUFFIX,haorendao.com
 DOMAIN-SUFFIX,haorooms.com
 DOMAIN-SUFFIX,haoseals.com
 DOMAIN-SUFFIX,haosenchina.com
@@ -30314,6 +30311,7 @@ DOMAIN-SUFFIX,huazhu.com
 DOMAIN-SUFFIX,huazhuanapp.com
 DOMAIN-SUFFIX,huazhucorp.com
 DOMAIN-SUFFIX,huazi55.xyz
+DOMAIN-SUFFIX,huazirc.com
 DOMAIN-SUFFIX,hubcyts.com
 DOMAIN-SUFFIX,hubei-design.com
 DOMAIN-SUFFIX,hubeibbs.net
@@ -34723,7 +34721,6 @@ DOMAIN-SUFFIX,jsbgj.com
 DOMAIN-SUFFIX,jscdn.host
 DOMAIN-SUFFIX,jsceou.com
 DOMAIN-SUFFIX,jsche.net
-DOMAIN-SUFFIX,jschengta.com
 DOMAIN-SUFFIX,jschunxing.com
 DOMAIN-SUFFIX,jscj.com
 DOMAIN-SUFFIX,jsclearing.com
@@ -44655,7 +44652,6 @@ DOMAIN-SUFFIX,pp51.com
 DOMAIN-SUFFIX,pp6.cc
 DOMAIN-SUFFIX,pp63.com
 DOMAIN-SUFFIX,pp66.cc
-DOMAIN-SUFFIX,pp70.com
 DOMAIN-SUFFIX,pp8.com
 DOMAIN-SUFFIX,pp9l.com
 DOMAIN-SUFFIX,ppaikd.com
@@ -45660,7 +45656,6 @@ DOMAIN-SUFFIX,qinyi.net
 DOMAIN-SUFFIX,qinzc.me
 DOMAIN-SUFFIX,qinzhe.com
 DOMAIN-SUFFIX,qinzhou8.com
-DOMAIN-SUFFIX,qinzi7.com
 DOMAIN-SUFFIX,qinzidna.com
 DOMAIN-SUFFIX,qinziheng.com
 DOMAIN-SUFFIX,qionghaif.com
@@ -52530,6 +52525,7 @@ DOMAIN-SUFFIX,thn21.com
 DOMAIN-SUFFIX,thoughtworkers.org
 DOMAIN-SUFFIX,thrbs.com
 DOMAIN-SUFFIX,threadcn.com
+DOMAIN-SUFFIX,threatbook.net
 DOMAIN-SUFFIX,threegorgestours.com
 DOMAIN-SUFFIX,threeol.com
 DOMAIN-SUFFIX,threetong.com
@@ -53141,7 +53137,6 @@ DOMAIN-SUFFIX,tongye.biz
 DOMAIN-SUFFIX,tongyi.com
 DOMAIN-SUFFIX,tongyidrying.com
 DOMAIN-SUFFIX,tongyongji.net
-DOMAIN-SUFFIX,tongyou188.com
 DOMAIN-SUFFIX,tongyuanos.com
 DOMAIN-SUFFIX,tongyue.com
 DOMAIN-SUFFIX,tongzhuo100.com
@@ -57859,7 +57854,6 @@ DOMAIN-SUFFIX,wuxijy.com
 DOMAIN-SUFFIX,wuximarathon.com
 DOMAIN-SUFFIX,wuxin.info
 DOMAIN-SUFFIX,wuxinban.com
-DOMAIN-SUFFIX,wuxiqiangheng.com
 DOMAIN-SUFFIX,wuxiwang.net
 DOMAIN-SUFFIX,wuyang-honda.com
 DOMAIN-SUFFIX,wuyangplatform.com
@@ -60611,6 +60605,7 @@ DOMAIN-SUFFIX,yafeilinux.com
 DOMAIN-SUFFIX,yageo.tech
 DOMAIN-SUFFIX,yago-mall.com
 DOMAIN-SUFFIX,yahacode.com
+DOMAIN-SUFFIX,yahaha.net
 DOMAIN-SUFFIX,yahaizi.com
 DOMAIN-SUFFIX,yahoo001.com
 DOMAIN-SUFFIX,yahotab.com
@@ -64526,7 +64521,6 @@ DOMAIN-SUFFIX,zhongtuobang.com
 DOMAIN-SUFFIX,zhongwei-info.com
 DOMAIN-SUFFIX,zhongweijy.com
 DOMAIN-SUFFIX,zhongwenhexinqikan.com
-DOMAIN-SUFFIX,zhongwenqing.com
 DOMAIN-SUFFIX,zhongwucan.com
 DOMAIN-SUFFIX,zhongxiangdichan.net
 DOMAIN-SUFFIX,zhongxiaole.net
@@ -65336,7 +65330,6 @@ DOMAIN-SUFFIX,zonghangsl.com
 DOMAIN-SUFFIX,zongheng001.com
 DOMAIN-SUFFIX,zonghengke.com
 DOMAIN-SUFFIX,zonghengnews.com
-DOMAIN-SUFFIX,zonglai.mobi
 DOMAIN-SUFFIX,zongming.net
 DOMAIN-SUFFIX,zongs365.com
 DOMAIN-SUFFIX,zongshenmotor.com
