@@ -13,8 +13,8 @@
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=📲 电报消息,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.list
-ruleset=🎥 奈飞视频,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
-ruleset=🎥 奈飞视频,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/AmazonIp.list
+;ruleset=🎥 奈飞视频,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
+;ruleset=🎥 奈飞视频,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/AmazonIp.list
 ruleset=🎥 迪士尼,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Disney/Disney.list
 ruleset=🌍 测速连接,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Speedtest/Speedtest.list
 ruleset=📹 油管视频,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.list
@@ -52,7 +52,7 @@ custom_proxy_group=🚀 手动切换`select`.*
 custom_proxy_group=♻️ 自动选择`select`.*
 custom_proxy_group=📲 电报消息`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.*
 custom_proxy_group=📹 油管视频`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.*
-custom_proxy_group=🎥 奈飞视频`select`[]🎥 奈飞节点`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.*
+;custom_proxy_group=🎥 奈飞视频`select`[]🎥 奈飞节点`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.*
 custom_proxy_group=🌍 测速连接`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.*
 custom_proxy_group=🎥 迪士尼`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.*
 custom_proxy_group=TIKTOK`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.*
@@ -74,7 +74,7 @@ custom_proxy_group=🎮 游戏平台`select`[]🚀 节点选择`[]♻️ 自动�
 custom_proxy_group=🎶 网易音乐`select`[]DIRECT`[]🚀 节点选择`[]♻️ 自动选择`(网易|音乐|解锁|Music|NetEase)`.*
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 节点选择`[]♻️ 自动选择
 custom_proxy_group=🐟 漏网之鱼`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.*
-custom_proxy_group=🎥 奈飞节点`select`(NF|奈飞|解锁|Netflix|NETFLIX|Media)
+;custom_proxy_group=🎥 奈飞节点`select`(NF|奈飞|解锁|Netflix|NETFLIX|Media)
 ;设置分组标志位
 
 enable_rule_generator=true
