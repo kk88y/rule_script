@@ -48,7 +48,7 @@ ruleset=🐟 漏网之鱼,[]FINAL
 ;设置规则标志位
 
 ;设置分组标志位
-custom_proxy_group=🚀 节点选择`select`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.*
+custom_proxy_group=🚀 节点选择`select`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`[]vm-168`[]vm-138`[]vm-164`[]vm-192`[]vm-66`.*
 custom_proxy_group=🚀 手动切换`select`.*
 custom_proxy_group=♻️ 自动选择`select`.*
 custom_proxy_group=📲 电报消息`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.*
@@ -76,7 +76,7 @@ custom_proxy_group=🎶 网易音乐`select`[]DIRECT`[]🚀 节点选择`[]♻�
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 节点选择`[]♻️ 自动选择
 custom_proxy_group=🐟 漏网之鱼`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.*
 custom_proxy_group=🎥 奈飞节点`select`(NF|奈飞|解锁|Netflix|NETFLIX|Media)
-custom_proxy_group=vm-168`select`
+custom_proxy_group=vm-168`relay`
 custom_proxy_group=vm-138`relay`
 custom_proxy_group=vm-164`relay`
 custom_proxy_group=vm-101`relay`
