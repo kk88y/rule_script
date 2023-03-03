@@ -45,10 +45,16 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
 ruleset=🎯 全球直连,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
+ruleset=vm-168,relay
+ruleset=vm-138,relay
+ruleset=vm-164,relay
+ruleset=vm-101,relay
+ruleset=vm-66,relay
+ruleset=vm-192,relay
 ;设置规则标志位
 
 ;设置分组标志位
-custom_proxy_group=🚀 节点选择`select`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`[]vm-168`[]vm-138`[]vm-164`[]vm-192`[]vm-66`.*
+custom_proxy_group=🚀 节点选择`select`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`[]vm168`[]vm-138`[]vm-164`[]vm-192`[]vm-66`.*
 custom_proxy_group=🚀 手动切换`select`.*
 custom_proxy_group=♻️ 自动选择`select`.*
 custom_proxy_group=📲 电报消息`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.*
