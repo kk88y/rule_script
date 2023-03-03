@@ -76,12 +76,12 @@ custom_proxy_group=🎶 网易音乐`select`[]DIRECT`[]🚀 节点选择`[]♻�
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 节点选择`[]♻️ 自动选择
 custom_proxy_group=🐟 漏网之鱼`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`[]vm-168`[]vm-138`[]vm-164`[]vm-192`[]vm-66`.*
 custom_proxy_group=🎥 奈飞节点`select`[]vm-168`[]vm-138`[]vm-164`(NF|奈飞|解锁|Netflix|NETFLIX|Media)`.*
-custom_proxy_group=vm-168`relay`[]0-23.225.64.5直vision`[]168SS`
-custom_proxy_group=vm-138`relay`[]0-23.225.64.5直vision`[]138SS`
-custom_proxy_group=vm-164`relay`[]0-23.225.64.5直vision`[]164SS`
-custom_proxy_group=vm-101`relay`[]0-23.225.64.5直vision`[]101SS`
-custom_proxy_group=vm-66`relay`[]0-23.225.64.5直vision`[]66SS`
-custom_proxy_group=vm-192`relay`[]0-23.225.64.5直vision`[]192SS`
+custom_proxy_group=vm-168`relay`
+custom_proxy_group=vm-138`relay`
+custom_proxy_group=vm-164`relay`
+custom_proxy_group=vm-101`relay`
+custom_proxy_group=vm-66`relay`
+custom_proxy_group=vm-192`relay`
 ;设置分组标志位
 
 enable_rule_generator=true
