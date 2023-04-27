@@ -87,6 +87,8 @@ custom_proxy_group=vm-164`relay`[]DIRECT
 custom_proxy_group=vm-101`relay`[]DIRECT
 custom_proxy_group=vm-66`relay`[]DIRECT
 custom_proxy_group=vm-192`relay`[]DIRECT
+custom_proxy_group=or138-164`relay`[]DIRECT
+custom_proxy_group=or138-101`relay`[]DIRECT
 ;设置分组标志位
 
 enable_rule_generator=true
