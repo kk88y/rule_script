@@ -11,9 +11,9 @@
 
 ;设置规则标志位
 ruleset=DIRECT,[]geosite,cn
-ruleset=DIRECT,[]geoip,CN,no-resolve
+ruleset=DIRECT,[]geoip,CN
 ruleset=DIRECT,[]geosite,private
-ruleset=DIRECT,[]geoip,private,no-resolve
+ruleset=DIRECT,[]geoip,private
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=📲 电报消息,[]geoip,telegram,no-resolve
