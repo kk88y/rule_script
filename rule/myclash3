@@ -91,7 +91,7 @@ custom_proxy_group=vm-69`relay`[]DIRECT
 ;custom_proxy_group=vm-101`relay`[]DIRECT
 ;custom_proxy_group=or138-164`relay`[]DIRECT
 custom_proxy_group=or138-69`relay`[]DIRECT
-custom_proxy_group=jp-socks
+custom_proxy_group=jp-socks`relay
 custom_proxy_group=jp-69`relay`[]DIRECT
 ;custom_proxy_group=jp-164`relay`[]DIRECT
 ;设置分组标志位
