@@ -23,6 +23,7 @@ ruleset=🌍 测速连接,https://raw.githubusercontent.com/blackmatrix7/ios_rul
 ruleset=📹 油管谷歌,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.list
 ruleset=💬 OpenAi,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.list
 ruleset=📺 台湾流媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HamiVideo/HamiVideo.list
+ruleset=📺 台湾流媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/LineTV/LineTV.list
 ruleset=📺 PEACOCK,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Peacock/Peacock.list
 ruleset=⛄ TIKTOK,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.list
 ruleset=🌍 Voice,https://raw.githubusercontent.com/kk88y/rule_script/master/rule/Clash/GoogleVoice/GoogleVoice.list
