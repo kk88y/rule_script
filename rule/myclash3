@@ -104,8 +104,8 @@ custom_proxy_group=or138-69`relay`[]DIRECT
 custom_proxy_group=jp-socks`relay`[]DIRECT
 custom_proxy_group=vm-socks`relay`[]DIRECT
 custom_proxy_group=jp-69`relay`[]DIRECT
-custom_proxy_group=jc转圣何塞`relay`[]DIRECT
-custom_proxy_group=jc转台湾hinet`relay`[]DIRECT
+custom_proxy_group=jc转圣何塞`relay`[]机场
+custom_proxy_group=jc转台湾hinet`relay`[]机场
 custom_proxy_group=vm转hinet`relay`[]DIRECT
 custom_proxy_group=软银转hinet`relay`[]DIRECT
 ;设置分组标志位
