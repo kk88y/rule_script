@@ -53,10 +53,10 @@ ruleset=🍎 苹果服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
-ruleset=DIRECT,[]geosite,cn
-ruleset=DIRECT,[]geoip,CN
-ruleset=DIRECT,[]geosite,private
-ruleset=DIRECT,[]geoip,private
+;ruleset=DIRECT,[]geosite,cn
+ruleset=🎯 全球直连,[]GEOIP,CN
+;ruleset=DIRECT,[]geosite,private
+;ruleset=DIRECT,[]geoip,private
 ruleset=🐟 漏网之鱼,[]FINAL
 ;设置规则标志位
 
