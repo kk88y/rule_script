@@ -65,10 +65,10 @@ custom_proxy_group=🚀 节点选择`select`[]♻️ 自动选择`[]🚀 手动�
 custom_proxy_group=🚀 手动切换`select`[]vm-69`[]or138-69`[]jp-69`.*
 custom_proxy_group=♻️ 自动选择`select`[]vm-69`[]or138-69`[]jp-69`.*
 custom_proxy_group=📲 电报消息`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]vm-69`[]or138-69`[]jp-69`.*
-custom_proxy_group=📹 油管谷歌`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`[]vm-69`[]or138-69`[]jp-69`[]jp-socks`[]vm-socks`[]新加坡转圣何塞`[]首尔转圣何塞`[]jc转圣何塞`[]jc转瓦工`[]瓦工转绿云69`.*
-custom_proxy_group=🌍 测速连接`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`[]vm-69`[]or138-69`[]jp-69`[]jp-socks`[]vm-socks`[]vm转hinet`[]软银转hinet`[]首尔转台湾hinet`[]新加坡转台湾hinet`[]新加坡转圣何塞`[]首尔转圣何塞`[]jc转台湾hinet`[]jc转圣何塞`[]jc转瓦工`[]瓦工转hinet`[]瓦工转绿云69`[]jc转69`.*
+custom_proxy_group=📹 油管谷歌`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`[]vm-69`[]or138-69`[]jp-69`[]jp-socks`[]vm-socks`[]新加坡转圣何塞`[]首尔转圣何塞`[]jc转圣何塞`[]jc转瓦工`[]瓦工转绿云69`[]jc转hit6`.*
+custom_proxy_group=🌍 测速连接`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`[]vm-69`[]or138-69`[]jp-69`[]jp-socks`[]vm-socks`[]vm转hinet`[]软银转hinet`[]首尔转台湾hinet`[]新加坡转台湾hinet`[]新加坡转圣何塞`[]首尔转圣何塞`[]jc转台湾hinet`[]jc转圣何塞`[]jc转瓦工`[]瓦工转hinet`[]瓦工转绿云69`[]jc转69`[]软银ipv6转hinet`[]jc转hit6`.*
 custom_proxy_group=💬 OpenAi`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`[]vm-69`[]or138-69`[]jp-69`[]jp-socks`[]vm-socks`.* 
-custom_proxy_group=📺 台湾流媒体`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`[]vm-69`[]or138-69`[]jp-69`[]jp-socks`[]vm转hinet`[]软银转hinet`[]首尔转台湾hinet`[]新加坡转台湾hinet`[]jc转台湾hinet`[]瓦工转hinet`.*
+custom_proxy_group=📺 台湾流媒体`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`[]vm-69`[]or138-69`[]jp-69`[]jp-socks`[]vm转hinet`[]软银转hinet`[]首尔转台湾hinet`[]新加坡转台湾hinet`[]jc转台湾hinet`[]瓦工转hinet`[]软银ipv6转hinet`.*
 custom_proxy_group=🌐 GITHUB`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`[]vm-69`[]or138-69`[]jp-69`[]jp-socks`.* 
 custom_proxy_group=🎥 奈飞视频`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`[]vm-69`[]or138-69`[]jp-69`[]瓦工转绿云69`[]jc转69`.*
 custom_proxy_group=🎥 迪士尼`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`[]vm-69`[]or138-69`[]jp-69`[]瓦工转绿云69`[]jc转69`.*
@@ -113,6 +113,8 @@ custom_proxy_group=软银转hinet`relay`[]DIRECT
 custom_proxy_group=瓦工转hinet`relay`[]DIRECT
 custom_proxy_group=瓦工转圣何塞`relay`[]DIRECT
 custom_proxy_group=瓦工转绿云69`relay`[]DIRECT
+custom_proxy_group=软银ipv6转hinet`relay`[]DIRECT
+custom_proxy_group=jc转hit6`relay`[]DIRECT
 ;设置分组标志位
 
 enable_rule_generator=true
