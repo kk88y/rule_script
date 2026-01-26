@@ -56,7 +56,7 @@ custom_proxy_group=📹 油管谷歌`select`[]🚀 节点选择`[]♻️ 自动�
 custom_proxy_group=💬 OpenAi`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.* 
 custom_proxy_group=📺 台湾流媒体`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.*  
 custom_proxy_group=🎥 奈飞视频`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.* 
-custom_proxy_group=🌍 测速连接`select`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.* 
+custom_proxy_group=🌍 测速连接`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.* 
 custom_proxy_group=🎥 迪士尼`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`[]DIRECT`.* 
 custom_proxy_group=⛄ TIKTOK`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`[]DIRECT`.* 
 custom_proxy_group=🌏 国内媒体`select`[]DIRECT`[]🎯 全球直连`.*
@@ -65,7 +65,8 @@ custom_proxy_group=Ⓜ️ 微软服务`select`[]🚀 节点选择`[]♻️ 自�
 custom_proxy_group=🍎 苹果服务`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.* 
 custom_proxy_group=🎮 游戏平台`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.*
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 节点选择`[]♻️ 自动选择
-custom_proxy_group=🐟 漏网之鱼`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.* 
+custom_proxy_group=🐟 漏网之鱼`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`.*
+custom_proxy_group=MATCH 🐟 漏网之鱼
 ;设置分组标志位
 
 enable_rule_generator=true
