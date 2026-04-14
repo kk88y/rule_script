@@ -36,7 +36,6 @@ ruleset=📺 台湾流媒体,https://raw.githubusercontent.com/blackmatrix7/ios_
 ruleset=📺 台湾流媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/LiTV/LiTV.list
 ruleset=📺 台湾流媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/KKTV/KKTV.list
 ruleset=📺 台湾流媒体,https://raw.githubusercontent.com/kk88y/rule_script/master/rule/4gtv.list
-;ruleset=📺 PEACOCK,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Peacock/Peacock.list
 ruleset=⛄ TIKTOK,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.list
 ruleset=📺 EMBY,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Emby/Emby.list
 ruleset=🌐 GITHUB,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.list
@@ -51,8 +50,6 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
 ruleset=🎯 全球直连,[]geosite,cn
 ruleset=🎯 全球直连,[]GEOIP,CN
-;ruleset=DIRECT,[]geosite,private
-;ruleset=DIRECT,[]geoip,private
 ruleset=🐟 漏网之鱼,[]FINAL
 ;设置规则标志位
 
